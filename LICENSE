@@ -1,0 +1,17 @@
+字谜内容 · chinese-character-riddle
+
+本仓内容分三层授权：
+
+1. 古典字谜原文（谜面 / 谜底 / 解析中引用的古籍原文）
+   —— 公有领域（作者卒年 ≤ 当前年 − 50，或成书年代上限早已届满，逐篇可核验，见 PROVENANCE.md）。
+   自由使用，无需许可，无需署名（署名是礼貌，不是义务）。
+
+2. 我方原创内容（当代原创谜、注释、解析、选篇编排、目录分类）
+   —— 采用 CC BY 4.0。使用时请署名「来源：chinese-character-riddle / 丢词大作战」。
+   https://creativecommons.org/licenses/by/4.0/
+
+3. 本仓脚本（tools/）
+   —— MIT 许可。
+
+逐篇版权依据见 PROVENANCE.md。仍在著作权保护期内的当代作品不收录原文，
+登记在 pending/。认为本仓某处侵犯你的权利，请联系 hi@diuci.com。

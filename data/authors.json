@@ -1,0 +1,6 @@
+{
+  "note": "作者总表。ours=true 表示我方原创（cc-by-4.0 原文只允许来自此表）。古典匿名谜不在此表（author=佚名 直接按公版处理）。",
+  "authors": [
+    { "name": "丢词大作战", "died": null, "ours": true, "note": "我方原创当代谜作者，cc-by-4.0" }
+  ]
+}

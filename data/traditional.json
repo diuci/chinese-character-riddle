@@ -1,0 +1,3292 @@
+{
+  "version": 1,
+  "count": 26,
+  "note": "繁简派生产物。引擎 tools/build-traditional.py 唯一事实源。",
+  "rows": [
+    {
+      "id": "yiye-you-yiye",
+      "title": "一夜又一夜",
+      "title_t": "一夜又一夜",
+      "answer": "多",
+      "answer_t": "多",
+      "jie": "「夜」以「夕」代（夕即傍晚入夜）。一夜是「夕」，又一夜还是「夕」，\n两个「夕」相叠即成「多」字。属会意叠字法。",
+      "jie_t": "「夜」以「夕」代（夕即傍晚入夜）。一夜是「夕」，又一夜還是「夕」，\n兩個「夕」相疊即成「多」字。屬會意疊字法。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: yiye-you-yiye\ntitle: 一夜又一夜\nanswer: 多\nanswer_len: 1\ntype: 會意\nsubtype: 疊意\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 疊意]\n---\n\n# 一夜又一夜\n\n> 會意類 · 清 · 難度 ★★\n\n**謎面**：一夜又一夜\n**謎底**：多\n\n## 解析\n「夜」以「夕」代（夕即傍晚入夜）。一夜是「夕」，又一夜還是「夕」，\n兩個「夕」相疊即成「多」字。屬會意疊字法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 11,
+      "marks": [
+        {
+          "ch": "还",
+          "cands": [
+            "還"
+          ],
+          "pick": "還",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "叠",
+          "cands": [
+            "疊"
+          ],
+          "pick": "疊",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "叠",
+          "cands": [
+            "疊"
+          ],
+          "pick": "疊",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "yijia-yikou",
+      "title": "一家一口",
+      "title_t": "一家一口",
+      "answer": "问",
+      "answer_t": "問",
+      "jie": "「一家」会意为「门」（一户人家的门户），「一口」即「口」。\n「门」+「口」合为「问」字。属会意拆合法。\n（注：「一家→门」是会意跳跃，为本谜的取意关键；谜底唯一，无歧义。）",
+      "jie_t": "「一家」會意為「門」（一戶人家的門戶），「一口」即「口」。\n「門」+「口」合為「問」字。屬會意拆合法。\n（注：「一家→門」是會意跳躍，為本謎的取意关鍵；謎底唯一，无歧义。）",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: yijia-yikou\ntitle: 一家一口\nanswer: 問\nanswer_len: 1\ntype: 會意\nsubtype: 拆合\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 拆合]\n---\n\n# 一家一口\n\n> 會意類 · 清 · 難度 ★★★\n\n**謎面**：一家一口\n**謎底**：問\n\n## 解析\n「一家」會意為「門」（一戶人家的門戶），「一口」即「口」。\n「門」+「口」合為「問」字。屬會意拆合法。\n（注：「一家→門」是會意跳躍，為本謎的取意关鍵；謎底唯一，无歧义。）\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 23,
+      "marks": [
+        {
+          "ch": "问",
+          "cands": [
+            "問"
+          ],
+          "pick": "問",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "门",
+          "cands": [
+            "門"
+          ],
+          "pick": "門",
+          "decision": "table"
+        },
+        {
+          "ch": "户",
+          "cands": [
+            "戶"
+          ],
+          "pick": "戶",
+          "decision": "table"
+        },
+        {
+          "ch": "门",
+          "cands": [
+            "門"
+          ],
+          "pick": "門",
+          "decision": "table"
+        },
+        {
+          "ch": "户",
+          "cands": [
+            "戶"
+          ],
+          "pick": "戶",
+          "decision": "table"
+        },
+        {
+          "ch": "门",
+          "cands": [
+            "門"
+          ],
+          "pick": "門",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "问",
+          "cands": [
+            "問"
+          ],
+          "pick": "問",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "门",
+          "cands": [
+            "門"
+          ],
+          "pick": "門",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "跃",
+          "cands": [
+            "躍"
+          ],
+          "pick": "躍",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "键",
+          "cands": [
+            "鍵"
+          ],
+          "pick": "鍵",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "yijia-shiyi-jiukou",
+      "title": "一家十一口",
+      "title_t": "一家十一口",
+      "answer": "吉",
+      "answer_t": "吉",
+      "jie": "「十」加「一」是「士」，再配一个「口」，即为「吉」字。\n「一家十一口」以数字拆字会意：十一 = 士，士 + 口 = 吉。属会意合数法。",
+      "jie_t": "「十」加「一」是「士」，再配一個「口」，即為「吉」字。\n「一家十一口」以數字拆字會意：十一 = 士，士 + 口 = 吉。屬會意合數法。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: yijia-shiyi-jiukou\ntitle: 一家十一口\nanswer: 吉\nanswer_len: 1\ntype: 會意\nsubtype: 合數\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 合數]\n---\n\n# 一家十一口\n\n> 會意類 · 清 · 難度 ★★★\n\n**謎面**：一家十一口\n**謎底**：吉\n\n## 解析\n「十」加「一」是「士」，再配一個「口」，即為「吉」字。\n「一家十一口」以數字拆字會意：十一 = 士，士 + 口 = 吉。屬會意合數法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 11,
+      "marks": [
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "yijian-chuanxin",
+      "title": "一箭穿心",
+      "title_t": "一箭穿心",
+      "answer": "必",
+      "answer_t": "必",
+      "jie": "「必」字的结构是「心」字被一竖（如箭）自下而上贯穿。\n「一箭穿心」正是这一笔形的会意。属会意法：按字形象形取意。",
+      "jie_t": "「必」字的結構是「心」字被一豎（如箭）自下而上貫穿。\n「一箭穿心」正是這一筆形的會意。屬會意法：按字形象形取意。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: yijian-chuanxin\ntitle: 一箭穿心\nanswer: 必\nanswer_len: 1\ntype: 會意\nsubtype: 形意\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 形意]\n---\n\n# 一箭穿心\n\n> 會意類 · 清 · 難度 ★★\n\n**謎面**：一箭穿心\n**謎底**：必\n\n## 解析\n「必」字的結構是「心」字被一豎（如箭）自下而上貫穿。\n「一箭穿心」正是這一筆形的會意。屬會意法：按字形象形取意。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 13,
+      "marks": [
+        {
+          "ch": "结",
+          "cands": [
+            "結"
+          ],
+          "pick": "結",
+          "decision": "table"
+        },
+        {
+          "ch": "构",
+          "cands": [
+            "構"
+          ],
+          "pick": "構",
+          "decision": "table"
+        },
+        {
+          "ch": "竖",
+          "cands": [
+            "豎"
+          ],
+          "pick": "豎",
+          "decision": "table"
+        },
+        {
+          "ch": "贯",
+          "cands": [
+            "貫"
+          ],
+          "pick": "貫",
+          "decision": "table"
+        },
+        {
+          "ch": "这",
+          "cands": [
+            "這"
+          ],
+          "pick": "這",
+          "decision": "table"
+        },
+        {
+          "ch": "笔",
+          "cands": [
+            "筆"
+          ],
+          "pick": "筆",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "shiwutian",
+      "title": "十五天",
+      "title_t": "十五天",
+      "answer": "胖",
+      "answer_t": "胖",
+      "jie": "十五天即半个月，「半」+「月」合为「胖」字。\n先以「十五天 = 半月」会意，再以「半 + 月」拆合，是典型的会意拆合法。",
+      "jie_t": "十五天即半個月，「半」+「月」合為「胖」字。\n先以「十五天 = 半月」會意，再以「半 + 月」拆合，是典型的會意拆合法。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: shiwutian\ntitle: 十五天\nanswer: 胖\nanswer_len: 1\ntype: 會意\nsubtype: 拆合\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 拆合]\n---\n\n# 十五天\n\n> 會意類 · 清 · 難度 ★★★\n\n**謎面**：十五天\n**謎底**：胖\n\n## 解析\n十五天即半個月，「半」+「月」合為「胖」字。\n先以「十五天 = 半月」會意，再以「半 + 月」拆合，是典型的會意拆合法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 8,
+      "marks": [
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "simian-boutu-feng",
+      "title": "四面不透风",
+      "title_t": "四面不透風",
+      "answer": "口",
+      "answer_t": "口",
+      "jie": "「口」字四边封闭，上下左右都没有出口，风进不去也出不来。\n「四面不透风」正是对「口」字封闭形态的会意。属会意法。",
+      "jie_t": "「口」字四邊封閉，上下左右都沒有出口，風進不去也出不來。\n「四面不透風」正是對「口」字封閉形態的會意。屬會意法。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: simian-boutu-feng\ntitle: 四面不透風\nanswer: 口\nanswer_len: 1\ntype: 會意\nsubtype: 形意\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 形意]\n---\n\n# 四面不透風\n\n> 會意類 · 清 · 難度 ★★\n\n**謎面**：四面不透風\n**謎底**：口\n\n## 解析\n「口」字四邊封閉，上下左右都沒有出口，風進不去也出不來。\n「四面不透風」正是對「口」字封閉形態的會意。屬會意法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 18,
+      "marks": [
+        {
+          "ch": "风",
+          "cands": [
+            "風"
+          ],
+          "pick": "風",
+          "decision": "table"
+        },
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "闭",
+          "cands": [
+            "閉"
+          ],
+          "pick": "閉",
+          "decision": "table"
+        },
+        {
+          "ch": "没",
+          "cands": [
+            "沒"
+          ],
+          "pick": "沒",
+          "decision": "table"
+        },
+        {
+          "ch": "风",
+          "cands": [
+            "風"
+          ],
+          "pick": "風",
+          "decision": "table"
+        },
+        {
+          "ch": "进",
+          "cands": [
+            "進"
+          ],
+          "pick": "進",
+          "decision": "table"
+        },
+        {
+          "ch": "来",
+          "cands": [
+            "來"
+          ],
+          "pick": "來",
+          "decision": "table"
+        },
+        {
+          "ch": "风",
+          "cands": [
+            "風"
+          ],
+          "pick": "風",
+          "decision": "table"
+        },
+        {
+          "ch": "对",
+          "cands": [
+            "對"
+          ],
+          "pick": "對",
+          "decision": "table"
+        },
+        {
+          "ch": "闭",
+          "cands": [
+            "閉"
+          ],
+          "pick": "閉",
+          "decision": "table"
+        },
+        {
+          "ch": "态",
+          "cands": [
+            "態"
+          ],
+          "pick": "態",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "sanguo-qimen",
+      "title": "三过其门",
+      "title_t": "三過其門",
+      "answer": "不",
+      "answer_t": "不",
+      "jie": "典出大禹治水，「三过家门而不入」。\n谜面「三过其门」截去「而入」，关键在「不」入——以史事典故会意，\n取「不」字。属典故法：借历史典故取字。\n（中置信：谜面截断典故，取「不」为通行解，解析已注明典故出处。）",
+      "jie_t": "典出大禹治水，「三過家門而不入」。\n謎面「三過其門」截去「而入」，关鍵在「不」入——以史事典故會意，\n取「不」字。屬典故法：借歷史典故取字。\n（中置信：謎面截斷典故，取「不」為通行解，解析已注明典故出處。）",
+      "chu": "典出《孟子·滕文公下》大禹「三过家门而不入」（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "典出《孟子·滕文公下》大禹「三過家門而不入」（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: sanguo-qimen\ntitle: 三過其門\nanswer: 不\nanswer_len: 1\ntype: 典故\nsubtype: 史事\ndifficulty: 4\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [典故, 史事]\n---\n\n# 三過其門\n\n> 典故類 · 清 · 難度 ★★★★\n\n**謎面**：三過其門\n**謎底**：不\n\n## 解析\n典出大禹治水，「三過家門而不入」。\n謎面「三過其門」截去「而入」，关鍵在「不」入——以史事典故會意，\n取「不」字。屬典故法：借歷史典故取字。\n（中置信：謎面截斷典故，取「不」為通行解，解析已注明典故出處。）\n\n## 出處\n典出《孟子·滕文公下》大禹「三過家門而不入」（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 20,
+      "marks": [
+        {
+          "ch": "过",
+          "cands": [
+            "過"
+          ],
+          "pick": "過",
+          "decision": "table"
+        },
+        {
+          "ch": "门",
+          "cands": [
+            "門"
+          ],
+          "pick": "門",
+          "decision": "table"
+        },
+        {
+          "ch": "过",
+          "cands": [
+            "過"
+          ],
+          "pick": "過",
+          "decision": "table"
+        },
+        {
+          "ch": "门",
+          "cands": [
+            "門"
+          ],
+          "pick": "門",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "过",
+          "cands": [
+            "過"
+          ],
+          "pick": "過",
+          "decision": "table"
+        },
+        {
+          "ch": "门",
+          "cands": [
+            "門"
+          ],
+          "pick": "門",
+          "decision": "table"
+        },
+        {
+          "ch": "键",
+          "cands": [
+            "鍵"
+          ],
+          "pick": "鍵",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "历",
+          "cands": [
+            "歷"
+          ],
+          "pick": "歷",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "断",
+          "cands": [
+            "斷"
+          ],
+          "pick": "斷",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "处",
+          "cands": [
+            "處"
+          ],
+          "pick": "處",
+          "decision": "table"
+        },
+        {
+          "ch": "过",
+          "cands": [
+            "過"
+          ],
+          "pick": "過",
+          "decision": "table"
+        },
+        {
+          "ch": "门",
+          "cands": [
+            "門"
+          ],
+          "pick": "門",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "banbu-chunqiu",
+      "title": "半部春秋",
+      "title_t": "半部春秋",
+      "answer": "香",
+      "answer_t": "香",
+      "jie": "「春」字的上半是「禾」，「秋」字的左半也是「禾」。\n各取一半，两个「禾」合成「香」字。属各半合成法。",
+      "jie_t": "「春」字的上半是「禾」，「秋」字的左半也是「禾」。\n各取一半，兩個「禾」合成「香」字。屬各半合成法。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: banbu-chunqiu\ntitle: 半部春秋\nanswer: 香\nanswer_len: 1\ntype: 增損\nsubtype: 各半\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [各半, 合成]\n---\n\n# 半部春秋\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：半部春秋\n**謎底**：香\n\n## 解析\n「春」字的上半是「禾」，「秋」字的左半也是「禾」。\n各取一半，兩個「禾」合成「香」字。屬各半合成法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 7,
+      "marks": [
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "duo-yiban",
+      "title": "多一半",
+      "title_t": "多一半",
+      "answer": "夕",
+      "answer_t": "夕",
+      "jie": "「多」字由上下两个「夕」叠成。取「多」的一半，即剩一个「夕」字。\n属减损法：把已有字减掉一部分。",
+      "jie_t": "「多」字由上下兩個「夕」疊成。取「多」的一半，即剩一個「夕」字。\n屬減損法：把已有字減掉一部分。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: duo-yiban\ntitle: 多一半\nanswer: 夕\nanswer_len: 1\ntype: 增損\nsubtype: 減半\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [減半, 疊字]\n---\n\n# 多一半\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：多一半\n**謎底**：夕\n\n## 解析\n「多」字由上下兩個「夕」疊成。取「多」的一半，即剩一個「夕」字。\n屬減損法：把已有字減掉一部分。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 12,
+      "marks": [
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "叠",
+          "cands": [
+            "疊"
+          ],
+          "pick": "疊",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "减",
+          "cands": [
+            "減"
+          ],
+          "pick": "減",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "减",
+          "cands": [
+            "減"
+          ],
+          "pick": "減",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "shangshan-haishan",
+      "title": "山上还有山",
+      "title_t": "山上還有山",
+      "answer": "出",
+      "answer_t": "出",
+      "jie": "「山」字上下再叠一个「山」，两山相叠、中竖贯通，即为「出」字。\n属典型的叠字增损：把同一部件重复叠加成字。",
+      "jie_t": "「山」字上下再疊一個「山」，兩山相疊、中豎貫通，即為「出」字。\n屬典型的疊字增損：把同一部件重複疊加成字。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: shangshan-haishan\ntitle: 山上還有山\nanswer: 出\nanswer_len: 1\ntype: 增損\nsubtype: 疊字\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [疊字, 方位]\n---\n\n# 山上還有山\n\n> 增損類 · 清 · 難度 ★\n\n**謎面**：山上還有山\n**謎底**：出\n\n## 解析\n「山」字上下再疊一個「山」，兩山相疊、中豎貫通，即為「出」字。\n屬典型的疊字增損：把同一部件重複疊加成字。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 17,
+      "marks": [
+        {
+          "ch": "还",
+          "cands": [
+            "還"
+          ],
+          "pick": "還",
+          "decision": "table"
+        },
+        {
+          "ch": "叠",
+          "cands": [
+            "疊"
+          ],
+          "pick": "疊",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "叠",
+          "cands": [
+            "疊"
+          ],
+          "pick": "疊",
+          "decision": "table"
+        },
+        {
+          "ch": "竖",
+          "cands": [
+            "豎"
+          ],
+          "pick": "豎",
+          "decision": "table"
+        },
+        {
+          "ch": "贯",
+          "cands": [
+            "貫"
+          ],
+          "pick": "貫",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "叠",
+          "cands": [
+            "疊"
+          ],
+          "pick": "疊",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "复",
+          "cands": [
+            "複",
+            "復"
+          ],
+          "pick": "複",
+          "decision": "rule",
+          "reason": "本站只有「重复 / 复字」义，无「恢复 / 报复」义，取「複」。"
+        },
+        {
+          "ch": "叠",
+          "cands": [
+            "疊"
+          ],
+          "pick": "疊",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "chunyumianmian-qidu-su",
+      "title": "春雨绵绵妻独宿",
+      "title_t": "春雨綿綿妻獨宿",
+      "answer": "一",
+      "answer_t": "一",
+      "jie": "「春」字拆为「三」「人」「日」三部分。\n- 「春雨绵绵」——连绵阴雨，不见日头，减去「日」，剩「三」「人」。\n- 「妻独宿」——丈夫不在，「夫」=「二」+「人」，再减去「夫」。\n\n「三」+「人」−「二」−「人」=「一」。属增损减损法，层层剥字。",
+      "jie_t": "「春」字拆為「三」「人」「日」三部分。\n- 「春雨綿綿」——連綿陰雨，不見日頭，減去「日」，剩「三」「人」。\n- 「妻獨宿」——丈夫不在，「夫」=「二」+「人」，再減去「夫」。\n\n「三」+「人」−「二」−「人」=「一」。屬增損減損法，層層剝字。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: chunyumianmian-qidu-su\ntitle: 春雨綿綿妻獨宿\nanswer: 一\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 4\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\n---\n\n# 春雨綿綿妻獨宿\n\n> 增損類 · 清 · 難度 ★★★★\n\n**謎面**：春雨綿綿妻獨宿\n**謎底**：一\n\n## 解析\n「春」字拆為「三」「人」「日」三部分。\n- 「春雨綿綿」——連綿陰雨，不見日頭，減去「日」，剩「三」「人」。\n- 「妻獨宿」——丈夫不在，「夫」=「二」+「人」，再減去「夫」。\n\n「三」+「人」−「二」−「人」=「一」。屬增損減損法，層層剝字。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 25,
+      "marks": [
+        {
+          "ch": "绵",
+          "cands": [
+            "綿"
+          ],
+          "pick": "綿",
+          "decision": "table"
+        },
+        {
+          "ch": "绵",
+          "cands": [
+            "綿"
+          ],
+          "pick": "綿",
+          "decision": "table"
+        },
+        {
+          "ch": "独",
+          "cands": [
+            "獨"
+          ],
+          "pick": "獨",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "绵",
+          "cands": [
+            "綿"
+          ],
+          "pick": "綿",
+          "decision": "table"
+        },
+        {
+          "ch": "绵",
+          "cands": [
+            "綿"
+          ],
+          "pick": "綿",
+          "decision": "table"
+        },
+        {
+          "ch": "连",
+          "cands": [
+            "連"
+          ],
+          "pick": "連",
+          "decision": "table"
+        },
+        {
+          "ch": "绵",
+          "cands": [
+            "綿"
+          ],
+          "pick": "綿",
+          "decision": "table"
+        },
+        {
+          "ch": "阴",
+          "cands": [
+            "陰"
+          ],
+          "pick": "陰",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "头",
+          "cands": [
+            "頭"
+          ],
+          "pick": "頭",
+          "decision": "table"
+        },
+        {
+          "ch": "减",
+          "cands": [
+            "減"
+          ],
+          "pick": "減",
+          "decision": "table"
+        },
+        {
+          "ch": "独",
+          "cands": [
+            "獨"
+          ],
+          "pick": "獨",
+          "decision": "table"
+        },
+        {
+          "ch": "减",
+          "cands": [
+            "減"
+          ],
+          "pick": "減",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "减",
+          "cands": [
+            "減"
+          ],
+          "pick": "減",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "层",
+          "cands": [
+            "層"
+          ],
+          "pick": "層",
+          "decision": "table"
+        },
+        {
+          "ch": "层",
+          "cands": [
+            "層"
+          ],
+          "pick": "層",
+          "decision": "table"
+        },
+        {
+          "ch": "剥",
+          "cands": [
+            "剝"
+          ],
+          "pick": "剝",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "renyan-chengxin",
+      "title": "人言诚信为本",
+      "title_t": "人言誠信為本",
+      "answer": "信",
+      "answer_t": "信",
+      "jie": "「人」与「言」相合，即为「信」字。\n人言为信，是「信」字本义的回归：人说的话，要算数。",
+      "jie_t": "「人」與「言」相合，即為「信」字。\n人言為信，是「信」字本义的回歸：人說的話，要算數。",
+      "chu": "丢词大作战原创（S4），2026 年收录。署名「来源：chinese-character-riddle / 丢词大作战」。",
+      "chu_t": "丢詞大作戰原創（S4），2026 年收錄。署名「來源：chinese-character-riddle / 丢詞大作戰」。",
+      "body_t": "---\nid: renyan-chengxin\ntitle: 人言誠信為本\nanswer: 信\nanswer_len: 1\ntype: 當代\nsubtype: 拼合\ndifficulty: 1\nauthor: 丢詞大作戰\nera: 當代\nsource: S4\nlicense: cc-by-4.0\ncopyright: { text: cc-by-4.0, annotations: cc-by-4.0 }\ntags: [當代, 拼合, 品德]\n---\n\n# 人言誠信為本\n\n> 當代類 · 難度 ★（我方原創）\n\n**謎面**：人言誠信為本\n**謎底**：信\n\n## 解析\n「人」與「言」相合，即為「信」字。\n人言為信，是「信」字本义的回歸：人說的話，要算數。\n\n## 出處\n丢詞大作戰原創（S4），2026 年收錄。署名「來源：chinese-character-riddle / 丢詞大作戰」。\n",
+      "converted": 16,
+      "marks": [
+        {
+          "ch": "诚",
+          "cands": [
+            "誠"
+          ],
+          "pick": "誠",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "归",
+          "cands": [
+            "歸"
+          ],
+          "pick": "歸",
+          "decision": "table"
+        },
+        {
+          "ch": "说",
+          "cands": [
+            "說"
+          ],
+          "pick": "說",
+          "decision": "table"
+        },
+        {
+          "ch": "话",
+          "cands": [
+            "話"
+          ],
+          "pick": "話",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "词",
+          "cands": [
+            "詞"
+          ],
+          "pick": "詞",
+          "decision": "table"
+        },
+        {
+          "ch": "战",
+          "cands": [
+            "戰"
+          ],
+          "pick": "戰",
+          "decision": "table"
+        },
+        {
+          "ch": "创",
+          "cands": [
+            "創"
+          ],
+          "pick": "創",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        },
+        {
+          "ch": "来",
+          "cands": [
+            "來"
+          ],
+          "pick": "來",
+          "decision": "table"
+        },
+        {
+          "ch": "词",
+          "cands": [
+            "詞"
+          ],
+          "pick": "詞",
+          "decision": "table"
+        },
+        {
+          "ch": "战",
+          "cands": [
+            "戰"
+          ],
+          "pick": "戰",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "yiren-zainei",
+      "title": "一人在内",
+      "title_t": "一人在内",
+      "answer": "肉",
+      "answer_t": "肉",
+      "jie": "「肉」字是「人」嵌在「冂」框之内。\n「一人在内」即人字在框内，合为「肉」。属拆字嵌人法。\n（近形说明：「内」也是「人」在「冂」内，与「肉」仅一横之差。本谜按通行谜底取「肉」，\n此近形歧义如实注出，不隐藏；取「肉」的依据是「肉」为常用字、谜底指向更明确。）",
+      "jie_t": "「肉」字是「人」嵌在「冂」框之内。\n「一人在内」即人字在框内，合為「肉」。屬拆字嵌人法。\n（近形說明：「内」也是「人」在「冂」内，與「肉」僅一横之差。本謎按通行謎底取「肉」，\n此近形歧义如實注出，不隱藏；取「肉」的依據是「肉」為常用字、謎底指向更明確。）",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: yiren-zainei\ntitle: 一人在内\nanswer: 肉\nanswer_len: 1\ntype: 拆字\nsubtype: 嵌人\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 嵌人]\n---\n\n# 一人在内\n\n> 拆字類 · 清 · 難度 ★★★\n\n**謎面**：一人在内\n**謎底**：肉\n\n## 解析\n「肉」字是「人」嵌在「冂」框之内。\n「一人在内」即人字在框内，合為「肉」。屬拆字嵌人法。\n（近形說明：「内」也是「人」在「冂」内，與「肉」僅一横之差。本謎按通行謎底取「肉」，\n此近形歧义如實注出，不隱藏；取「肉」的依據是「肉」為常用字、謎底指向更明確。）\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 17,
+      "marks": [
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "说",
+          "cands": [
+            "說"
+          ],
+          "pick": "說",
+          "decision": "table"
+        },
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "仅",
+          "cands": [
+            "僅"
+          ],
+          "pick": "僅",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "实",
+          "cands": [
+            "實"
+          ],
+          "pick": "實",
+          "decision": "table"
+        },
+        {
+          "ch": "隐",
+          "cands": [
+            "隱"
+          ],
+          "pick": "隱",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "确",
+          "cands": [
+            "確"
+          ],
+          "pick": "確",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "yikou-yao-niuban",
+      "title": "一口咬掉牛半截",
+      "title_t": "一口咬掉牛半截",
+      "answer": "告",
+      "answer_t": "告",
+      "jie": "「一口」是「口」字。「咬掉牛半截」即把「牛」字上半截咬去，\n剩下「牛」的下半（一竖穿过、底部一横，形如「告」的下部）。\n口在上、牛之半在下，合成「告」字。属拆字咬损法。",
+      "jie_t": "「一口」是「口」字。「咬掉牛半截」即把「牛」字上半截咬去，\n剩下「牛」的下半（一豎穿過、底部一横，形如「告」的下部）。\n口在上、牛之半在下，合成「告」字。屬拆字咬損法。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: yikou-yao-niuban\ntitle: 一口咬掉牛半截\nanswer: 告\nanswer_len: 1\ntype: 拆字\nsubtype: 咬損\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 咬損]\n---\n\n# 一口咬掉牛半截\n\n> 拆字類 · 清 · 難度 ★★★\n\n**謎面**：一口咬掉牛半截\n**謎底**：告\n\n## 解析\n「一口」是「口」字。「咬掉牛半截」即把「牛」字上半截咬去，\n剩下「牛」的下半（一豎穿過、底部一横，形如「告」的下部）。\n口在上、牛之半在下，合成「告」字。屬拆字咬損法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 8,
+      "marks": [
+        {
+          "ch": "竖",
+          "cands": [
+            "豎"
+          ],
+          "pick": "豎",
+          "decision": "table"
+        },
+        {
+          "ch": "过",
+          "cands": [
+            "過"
+          ],
+          "pick": "過",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "ren-zai-cao-mu-zhong",
+      "title": "人在草木中",
+      "title_t": "人在草木中",
+      "answer": "茶",
+      "answer_t": "茶",
+      "jie": "「草」字头是「艹」，「木」在下，「人」夹在中间，\n「艹」+「人」+「木」合为「茶」字。属拆字拼合：部件按位置重组。",
+      "jie_t": "「草」字頭是「艹」，「木」在下，「人」夾在中間，\n「艹」+「人」+「木」合為「茶」字。屬拆字拼合：部件按位置重組。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: ren-zai-cao-mu-zhong\ntitle: 人在草木中\nanswer: 茶\nanswer_len: 1\ntype: 拆字\nsubtype: 拼合\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 拼合]\n---\n\n# 人在草木中\n\n> 拆字類 · 清 · 難度 ★★\n\n**謎面**：人在草木中\n**謎底**：茶\n\n## 解析\n「草」字頭是「艹」，「木」在下，「人」夾在中間，\n「艹」+「人」+「木」合為「茶」字。屬拆字拼合：部件按位置重組。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 10,
+      "marks": [
+        {
+          "ch": "头",
+          "cands": [
+            "頭"
+          ],
+          "pick": "頭",
+          "decision": "table"
+        },
+        {
+          "ch": "夹",
+          "cands": [
+            "夾"
+          ],
+          "pick": "夾",
+          "decision": "table"
+        },
+        {
+          "ch": "间",
+          "cands": [
+            "間"
+          ],
+          "pick": "間",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "组",
+          "cands": [
+            "組"
+          ],
+          "pick": "組",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "shikou-xinsi",
+      "title": "十口心思",
+      "title_t": "十口心思",
+      "answer": "思",
+      "answer_t": "思",
+      "jie": "「十」与「口」相合为「田」，「田」下加「心」，即为「思」字。\n属拆字拼合：把若干部件重新组合成字。",
+      "jie_t": "「十」與「口」相合為「田」，「田」下加「心」，即為「思」字。\n屬拆字拼合：把若干部件重新組合成字。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: shikou-xinsi\ntitle: 十口心思\nanswer: 思\nanswer_len: 1\ntype: 拆字\nsubtype: 拼合\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 拼合]\n---\n\n# 十口心思\n\n> 拆字類 · 清 · 難度 ★★\n\n**謎面**：十口心思\n**謎底**：思\n\n## 解析\n「十」與「口」相合為「田」，「田」下加「心」，即為「思」字。\n屬拆字拼合：把若干部件重新組合成字。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 10,
+      "marks": [
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "干",
+          "cands": [
+            "幹",
+            "乾",
+            "干"
+          ],
+          "pick": "干",
+          "decision": "rule",
+          "reason": "本站「干」只作「干支 / 天干」义（增损谜「干」），非「乾燥 / 幹事」，保留「干」。"
+        },
+        {
+          "ch": "组",
+          "cands": [
+            "組"
+          ],
+          "pick": "組",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "shikou-zhangkou",
+      "title": "十张口",
+      "title_t": "十張口",
+      "answer": "田",
+      "answer_t": "田",
+      "jie": "「十」与「口」相合，即为「田」字。\n属拆字拼合：把两个部件重新组合成字。",
+      "jie_t": "「十」與「口」相合，即為「田」字。\n屬拆字拼合：把兩個部件重新組合成字。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: shikou-zhangkou\ntitle: 十張口\nanswer: 田\nanswer_len: 1\ntype: 拆字\nsubtype: 拼合\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 拼合]\n---\n\n# 十張口\n\n> 拆字類 · 清 · 難度 ★\n\n**謎面**：十張口\n**謎底**：田\n\n## 解析\n「十」與「口」相合，即為「田」字。\n屬拆字拼合：把兩個部件重新組合成字。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 11,
+      "marks": [
+        {
+          "ch": "张",
+          "cands": [
+            "張"
+          ],
+          "pick": "張",
+          "decision": "table"
+        },
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "组",
+          "cands": [
+            "組"
+          ],
+          "pick": "組",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "qianli-xiangfeng",
+      "title": "千里相逢",
+      "title_t": "千裡相逢",
+      "answer": "重",
+      "answer_t": "重",
+      "jie": "「千」与「里」相逢相合，即为「重」字。\n重 = 千 + 里，是典型的拆字拼合：把两个部件重新组合成字。",
+      "jie_t": "「千」與「裡」相逢相合，即為「重」字。\n重 = 千 + 裡，是典型的拆字拼合：把兩個部件重新組合成字。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: qianli-xiangfeng\ntitle: 千裡相逢\nanswer: 重\nanswer_len: 1\ntype: 拆字\nsubtype: 拼合\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 拼合]\n---\n\n# 千裡相逢\n\n> 拆字類 · 清 · 難度 ★★★\n\n**謎面**：千裡相逢\n**謎底**：重\n\n## 解析\n「千」與「裡」相逢相合，即為「重」字。\n重 = 千 + 裡，是典型的拆字拼合：把兩個部件重新組合成字。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 12,
+      "marks": [
+        {
+          "ch": "里",
+          "cands": [
+            "裡",
+            "裏"
+          ],
+          "pick": "裡",
+          "decision": "rule",
+          "reason": "本站「里」只表「内部 / 里面」（如「人在内里」），无里程义，取「裡」。"
+        },
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "里",
+          "cands": [
+            "裡",
+            "裏"
+          ],
+          "pick": "裡",
+          "decision": "rule",
+          "reason": "本站「里」只表「内部 / 里面」（如「人在内里」），无里程义，取「裡」。"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "里",
+          "cands": [
+            "裡",
+            "裏"
+          ],
+          "pick": "裡",
+          "decision": "rule",
+          "reason": "本站「里」只表「内部 / 里面」（如「人在内里」），无里程义，取「裡」。"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "组",
+          "cands": [
+            "組"
+          ],
+          "pick": "組",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "banged-bandu",
+      "title": "半耕半读",
+      "title_t": "半耕半讀",
+      "answer": "讲",
+      "answer_t": "講",
+      "jie": "「耕」字的右半是「井」，「读」字的左半是「言」。\n各取一半，「言」与「井」相合，即为「讲」字。属拆字各半法。",
+      "jie_t": "「耕」字的右半是「井」，「讀」字的左半是「言」。\n各取一半，「言」與「井」相合，即為「講」字。屬拆字各半法。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: banged-bandu\ntitle: 半耕半讀\nanswer: 講\nanswer_len: 1\ntype: 拆字\nsubtype: 各半\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 各半]\n---\n\n# 半耕半讀\n\n> 拆字類 · 清 · 難度 ★★★\n\n**謎面**：半耕半讀\n**謎底**：講\n\n## 解析\n「耕」字的右半是「井」，「讀」字的左半是「言」。\n各取一半，「言」與「井」相合，即為「講」字。屬拆字各半法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 11,
+      "marks": [
+        {
+          "ch": "读",
+          "cands": [
+            "讀"
+          ],
+          "pick": "讀",
+          "decision": "table"
+        },
+        {
+          "ch": "讲",
+          "cands": [
+            "講"
+          ],
+          "pick": "講",
+          "decision": "table"
+        },
+        {
+          "ch": "读",
+          "cands": [
+            "讀"
+          ],
+          "pick": "讀",
+          "decision": "table"
+        },
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "讲",
+          "cands": [
+            "講"
+          ],
+          "pick": "講",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "banqing-banzi",
+      "title": "半青半紫",
+      "title_t": "半青半紫",
+      "answer": "素",
+      "answer_t": "素",
+      "jie": "「青」字的上半是「龶」（春字头），「紫」字的左半是「此」。\n各取一半，「龶」与「此」相合，即为「素」字。属拆字各半法。",
+      "jie_t": "「青」字的上半是「龶」（春字頭），「紫」字的左半是「此」。\n各取一半，「龶」與「此」相合，即為「素」字。屬拆字各半法。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: banqing-banzi\ntitle: 半青半紫\nanswer: 素\nanswer_len: 1\ntype: 拆字\nsubtype: 各半\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 各半]\n---\n\n# 半青半紫\n\n> 拆字類 · 清 · 難度 ★★★\n\n**謎面**：半青半紫\n**謎底**：素\n\n## 解析\n「青」字的上半是「龶」（春字頭），「紫」字的左半是「此」。\n各取一半，「龶」與「此」相合，即為「素」字。屬拆字各半法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 8,
+      "marks": [
+        {
+          "ch": "头",
+          "cands": [
+            "頭"
+          ],
+          "pick": "頭",
+          "decision": "table"
+        },
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "qishier-xiaoshi",
+      "title": "七十二小时",
+      "title_t": "七十二小时",
+      "answer": "晶",
+      "answer_t": "晶",
+      "jie": "七十二小时即三天，也就是「三日」。\n三个「日」字相叠，即为「晶」字。属数字会意法。",
+      "jie_t": "七十二小时即三天，也就是「三日」。\n三個「日」字相疊，即為「晶」字。屬數字會意法。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: qishier-xiaoshi\ntitle: 七十二小时\nanswer: 晶\nanswer_len: 1\ntype: 數字\nsubtype: 三日\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [數字, 三日]\n---\n\n# 七十二小时\n\n> 數字類 · 清 · 難度 ★★\n\n**謎面**：七十二小时\n**謎底**：晶\n\n## 解析\n七十二小时即三天，也就是「三日」。\n三個「日」字相疊，即為「晶」字。屬數字會意法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 10,
+      "marks": [
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "叠",
+          "cands": [
+            "疊"
+          ],
+          "pick": "疊",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "jiushijiu",
+      "title": "九十九",
+      "title_t": "九十九",
+      "answer": "百",
+      "answer_t": "百",
+      "jie": "九十九离「一百」只差一，即是「百」字少一笔「一」。\n以数推字，差一即是「百」。属数字会意法。",
+      "jie_t": "九十九離「一百」只差一，即是「百」字少一筆「一」。\n以數推字，差一即是「百」。屬數字會意法。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: jiushijiu\ntitle: 九十九\nanswer: 百\nanswer_len: 1\ntype: 數字\nsubtype: 差一\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [數字, 差一]\n---\n\n# 九十九\n\n> 數字類 · 清 · 難度 ★★\n\n**謎面**：九十九\n**謎底**：百\n\n## 解析\n九十九離「一百」只差一，即是「百」字少一筆「一」。\n以數推字，差一即是「百」。屬數字會意法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 10,
+      "marks": [
+        {
+          "ch": "离",
+          "cands": [
+            "離"
+          ],
+          "pick": "離",
+          "decision": "table"
+        },
+        {
+          "ch": "笔",
+          "cands": [
+            "筆"
+          ],
+          "pick": "筆",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "shangxia-xianglian",
+      "title": "上下相连",
+      "title_t": "上下相連",
+      "answer": "卡",
+      "answer_t": "卡",
+      "jie": "「上」字在下、「下」字在上，两字相叠共用中间一横，即为「卡」字。\n卡 = 上 + 下，是典型的方位叠字谜。",
+      "jie_t": "「上」字在下、「下」字在上，兩字相疊共用中間一横，即為「卡」字。\n卡 = 上 + 下，是典型的方位疊字謎。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: shangxia-xianglian\ntitle: 上下相連\nanswer: 卡\nanswer_len: 1\ntype: 方位\nsubtype: 疊字\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [方位, 疊字]\n---\n\n# 上下相連\n\n> 方位類 · 清 · 難度 ★★\n\n**謎面**：上下相連\n**謎底**：卡\n\n## 解析\n「上」字在下、「下」字在上，兩字相疊共用中間一横，即為「卡」字。\n卡 = 上 + 下，是典型的方位疊字謎。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 11,
+      "marks": [
+        {
+          "ch": "连",
+          "cands": [
+            "連"
+          ],
+          "pick": "連",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "叠",
+          "cands": [
+            "疊"
+          ],
+          "pick": "疊",
+          "decision": "table"
+        },
+        {
+          "ch": "间",
+          "cands": [
+            "間"
+          ],
+          "pick": "間",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "叠",
+          "cands": [
+            "疊"
+          ],
+          "pick": "疊",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "bantui-banjiu",
+      "title": "半推半就",
+      "title_t": "半推半就",
+      "answer": "掠",
+      "answer_t": "掠",
+      "jie": "「推」取左半，是提手旁「扌」；「就」取右半，是「京」。\n扌与京相合，即为「掠」字。属离合各半法：各取一字之半，离合相合。",
+      "jie_t": "「推」取左半，是提手旁「扌」；「就」取右半，是「京」。\n扌與京相合，即為「掠」字。屬離合各半法：各取一字之半，離合相合。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: bantui-banjiu\ntitle: 半推半就\nanswer: 掠\nanswer_len: 1\ntype: 離合\nsubtype: 各半\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [離合, 各半]\n---\n\n# 半推半就\n\n> 離合類 · 清 · 難度 ★★★\n\n**謎面**：半推半就\n**謎底**：掠\n\n## 解析\n「推」取左半，是提手旁「扌」；「就」取右半，是「京」。\n扌與京相合，即為「掠」字。屬離合各半法：各取一字之半，離合相合。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 9,
+      "marks": [
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "离",
+          "cands": [
+            "離"
+          ],
+          "pick": "離",
+          "decision": "table"
+        },
+        {
+          "ch": "离",
+          "cands": [
+            "離"
+          ],
+          "pick": "離",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "yidian-yiheng-chang",
+      "title": "一点一横长",
+      "title_t": "一點一横長",
+      "answer": "府",
+      "answer_t": "府",
+      "jie": "按笔顺逐笔描形：\n- 「一点一横长」——「广」字头的点、横；\n- 「一撇到南洋」——「广」的长撇，撇势深远如「到南洋」；\n- 「南洋有个人」——「亻」，即「人」字旁；\n- 「只有一寸长」——「寸」。\n\n广 + 亻 + 寸，合为「府」字。属笔画描形法，是流传最广的笔画谜之一。",
+      "jie_t": "按筆順逐筆描形：\n- 「一點一横長」——「廣」字頭的點、横；\n- 「一撇到南洋」——「廣」的長撇，撇勢深遠如「到南洋」；\n- 「南洋有個人」——「亻」，即「人」字旁；\n- 「只有一寸長」——「寸」。\n\n廣 + 亻 + 寸，合為「府」字。屬筆畫描形法，是流傳最廣的筆畫謎之一。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: yidian-yiheng-chang\ntitle: 一點一横長\nanswer: 府\nanswer_len: 1\ntype: 象形\nsubtype: 筆畫\ndifficulty: 4\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [象形, 筆畫]\n---\n\n# 一點一横長\n\n> 象形類 · 清 · 難度 ★★★★\n\n**謎面**：一點一横長，一撇到南洋，南洋有個人，只有一寸長\n**謎底**：府\n\n## 解析\n按筆順逐筆描形：\n- 「一點一横長」——「廣」字頭的點、横；\n- 「一撇到南洋」——「廣」的長撇，撇勢深遠如「到南洋」；\n- 「南洋有個人」——「亻」，即「人」字旁；\n- 「只有一寸長」——「寸」。\n\n廣 + 亻 + 寸，合為「府」字。屬筆畫描形法，是流傳最廣的筆畫謎之一。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 30,
+      "marks": [
+        {
+          "ch": "点",
+          "cands": [
+            "點"
+          ],
+          "pick": "點",
+          "decision": "table"
+        },
+        {
+          "ch": "长",
+          "cands": [
+            "長"
+          ],
+          "pick": "長",
+          "decision": "table"
+        },
+        {
+          "ch": "笔",
+          "cands": [
+            "筆"
+          ],
+          "pick": "筆",
+          "decision": "table"
+        },
+        {
+          "ch": "顺",
+          "cands": [
+            "順"
+          ],
+          "pick": "順",
+          "decision": "table"
+        },
+        {
+          "ch": "笔",
+          "cands": [
+            "筆"
+          ],
+          "pick": "筆",
+          "decision": "table"
+        },
+        {
+          "ch": "点",
+          "cands": [
+            "點"
+          ],
+          "pick": "點",
+          "decision": "table"
+        },
+        {
+          "ch": "长",
+          "cands": [
+            "長"
+          ],
+          "pick": "長",
+          "decision": "table"
+        },
+        {
+          "ch": "广",
+          "cands": [
+            "廣"
+          ],
+          "pick": "廣",
+          "decision": "table"
+        },
+        {
+          "ch": "头",
+          "cands": [
+            "頭"
+          ],
+          "pick": "頭",
+          "decision": "table"
+        },
+        {
+          "ch": "点",
+          "cands": [
+            "點"
+          ],
+          "pick": "點",
+          "decision": "table"
+        },
+        {
+          "ch": "广",
+          "cands": [
+            "廣"
+          ],
+          "pick": "廣",
+          "decision": "table"
+        },
+        {
+          "ch": "长",
+          "cands": [
+            "長"
+          ],
+          "pick": "長",
+          "decision": "table"
+        },
+        {
+          "ch": "势",
+          "cands": [
+            "勢"
+          ],
+          "pick": "勢",
+          "decision": "table"
+        },
+        {
+          "ch": "远",
+          "cands": [
+            "遠"
+          ],
+          "pick": "遠",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "长",
+          "cands": [
+            "長"
+          ],
+          "pick": "長",
+          "decision": "table"
+        },
+        {
+          "ch": "广",
+          "cands": [
+            "廣"
+          ],
+          "pick": "廣",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "笔",
+          "cands": [
+            "筆"
+          ],
+          "pick": "筆",
+          "decision": "table"
+        },
+        {
+          "ch": "画",
+          "cands": [
+            "畫"
+          ],
+          "pick": "畫",
+          "decision": "table"
+        },
+        {
+          "ch": "传",
+          "cands": [
+            "傳"
+          ],
+          "pick": "傳",
+          "decision": "table"
+        },
+        {
+          "ch": "广",
+          "cands": [
+            "廣"
+          ],
+          "pick": "廣",
+          "decision": "table"
+        },
+        {
+          "ch": "笔",
+          "cands": [
+            "筆"
+          ],
+          "pick": "筆",
+          "decision": "table"
+        },
+        {
+          "ch": "画",
+          "cands": [
+            "畫"
+          ],
+          "pick": "畫",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "yilun-wanyue",
+      "title": "一轮弯月",
+      "title_t": "一輪彎月",
+      "answer": "夕",
+      "answer_t": "夕",
+      "jie": "「夕」字的笔画正是一弯如钩的形状，像一轮弯月挂在天上。\n属象形法：按字形象形取意。",
+      "jie_t": "「夕」字的筆畫正是一彎如鉤的形狀，像一輪彎月掛在天上。\n屬象形法：按字形象形取意。",
+      "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
+      "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
+      "body_t": "---\nid: yilun-wanyue\ntitle: 一輪彎月\nanswer: 夕\nanswer_len: 1\ntype: 象形\nsubtype: 形似\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [象形, 形似]\n---\n\n# 一輪彎月\n\n> 象形類 · 清 · 難度 ★★\n\n**謎面**：一輪彎月\n**謎底**：夕\n\n## 解析\n「夕」字的筆畫正是一彎如鉤的形狀，像一輪彎月掛在天上。\n屬象形法：按字形象形取意。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 15,
+      "marks": [
+        {
+          "ch": "轮",
+          "cands": [
+            "輪"
+          ],
+          "pick": "輪",
+          "decision": "table"
+        },
+        {
+          "ch": "弯",
+          "cands": [
+            "彎"
+          ],
+          "pick": "彎",
+          "decision": "table"
+        },
+        {
+          "ch": "笔",
+          "cands": [
+            "筆"
+          ],
+          "pick": "筆",
+          "decision": "table"
+        },
+        {
+          "ch": "画",
+          "cands": [
+            "畫"
+          ],
+          "pick": "畫",
+          "decision": "table"
+        },
+        {
+          "ch": "弯",
+          "cands": [
+            "彎"
+          ],
+          "pick": "彎",
+          "decision": "table"
+        },
+        {
+          "ch": "钩",
+          "cands": [
+            "鉤"
+          ],
+          "pick": "鉤",
+          "decision": "table"
+        },
+        {
+          "ch": "状",
+          "cands": [
+            "狀"
+          ],
+          "pick": "狀",
+          "decision": "table"
+        },
+        {
+          "ch": "轮",
+          "cands": [
+            "輪"
+          ],
+          "pick": "輪",
+          "decision": "table"
+        },
+        {
+          "ch": "弯",
+          "cands": [
+            "彎"
+          ],
+          "pick": "彎",
+          "decision": "table"
+        },
+        {
+          "ch": "挂",
+          "cands": [
+            "掛"
+          ],
+          "pick": "掛",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        },
+        {
+          "ch": "录",
+          "cands": [
+            "錄"
+          ],
+          "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    }
+  ],
+  "ui": {
+    "猜字谜": "猜字謎",
+    "索引": "索引",
+    "谜面": "謎面",
+    "谜底": "謎底",
+    "解析": "解析",
+    "出处": "出處",
+    "谜种": "謎種",
+    "难度": "難度",
+    "标签": "標簽",
+    "打印版": "打印版",
+    "指南": "指南",
+    "数据来源": "數據來源",
+    "版权与免责": "版權與免責",
+    "公版": "公版",
+    "我方原创": "我方原創",
+    "注释": "注釋",
+    "选篇编排": "選篇編排",
+    "拆字": "拆字",
+    "会意": "會意",
+    "谐音": "諧音",
+    "增损": "增損",
+    "离合": "離合",
+    "典故": "典故",
+    "象形": "象形",
+    "方位": "方位",
+    "数字": "數字",
+    "当代": "當代",
+    "繁体版": "繁体版",
+    "简体版": "简体版",
+    "难度等级": "難度等级",
+    "按谜种": "按謎種",
+    "按难度": "按難度",
+    "按谜底": "按謎底",
+    "按标签": "按標簽",
+    "共": "共",
+    "篇": "篇"
+  },
+  "rules": {
+    "复": {
+      "pick": "複",
+      "reason": "本站只有「重复 / 复字」义，无「恢复 / 报复」义，取「複」。"
+    },
+    "里": {
+      "pick": "裡",
+      "reason": "本站「里」只表「内部 / 里面」（如「人在内里」），无里程义，取「裡」。"
+    },
+    "干": {
+      "pick": "干",
+      "reason": "本站「干」只作「干支 / 天干」义（增损谜「干」），非「乾燥 / 幹事」，保留「干」。"
+    },
+    "发": {
+      "pick": "發",
+      "reason": "本站「发」只表「发出 / 发明」义，无头发义，取「發」。"
+    },
+    "余": {
+      "pick": "餘",
+      "reason": "本站「余」只表「剩余」义，无第一人称义，取「餘」。"
+    }
+  }
+}

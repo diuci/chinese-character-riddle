@@ -1,0 +1,4 @@
+{
+  "note": "已知未修登记表。谜面重复/包含但决定保留的，登记在这里，validate.py 第 9 项对已登记的降级为不报错。每条必须有 key、title、reason、phase、added。phase 只许「正常」或「口径」。",
+  "defects": []
+}
