@@ -16,7 +16,7 @@
 
 ## 收录清单（契约）
 
-当前收录 56 篇，覆盖全部 10 个谜种。谐音类已由 0 补齐（以经典歇后语谐音谜，
+当前收录 70 篇，覆盖全部 10 个谜种。谐音类已由 0 补齐（以经典歇后语谐音谜，
 来源确证、谜底无歧义）。每篇均有唯一谜底与完整解析，无近似重复。
 
 | id | 谜种 | 谜底 |
@@ -43,6 +43,9 @@
 | you-tou-wu-wei | 会意 | 鱼 |
 | you-mian-wu-kou | 会意 | 镜 |
 | waimian-yikou-quan | 会意 | 困 |
+| changhe-luori-yuan | 会意 | 旦 |
+| bashan-kangding | 会意 | 夯 |
+| xiaochuaner-tui-kai-bolang | 会意 | 心 |
 | zhulan-dashui | 谐音 | 场 |
 | waisheng-da-denglong | 谐音 | 照 |
 | xiaotongban-doufu | 谐音 | 清 |
@@ -61,6 +64,17 @@
 | yibian-shui-yibian-huo | 增损 | 灭 |
 | yishang-yixia | 增损 | 卡 |
 | ermu-cheng-lin | 增损 | 林 |
+| zuigai-zhanshou | 增损 | 非 |
+| youmeiyou-shangbian | 增损 | 月 |
+| zixiao-hao-jiejian | 增损 | 省 |
+| houtou-yincang-bujianle | 增损 | 侯 |
+| liangdian-zhongjian-yigeren | 增损 | 火 |
+| luori-zai-liangou | 增损 | 电 |
+| xuri-dongsheng | 增损 | 九 |
+| guizhou-jin-tengfei | 增损 | 黑 |
+| shuidiao-getou | 增损 | 河 |
+| youli-jixi | 增损 | 鸟 |
+| chengchi-ban-canpo | 增损 | 地 |
 | bantui-banjiu | 离合 | 掠 |
 | sanguo-qimen | 典故 | 不 |
 | simazhao-zhixin | 典故 | 腹 |

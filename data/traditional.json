@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 56,
+  "count": 70,
   "note": "繁简派生产物。引擎 tools/build-traditional.py 唯一事实源。",
   "rows": [
     {
@@ -857,6 +857,172 @@
       ]
     },
     {
+      "id": "xiaochuaner-tui-kai-bolang",
+      "title": "小船儿推开波浪",
+      "title_t": "小船儿推开波浪",
+      "answer": "心",
+      "answer_t": "心",
+      "jie": "「心」字形如一叶小船，中间一点如船中之物。谜面「小船儿推开波浪」以船形会意「心」字。属会意法（兼象形）。",
+      "jie_t": "「心」字形如一叶小船，中間一點如船中之物。謎面「小船儿推开波浪」以船形會意「心」字。屬會意法（兼象形）。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: xiaochuaner-tui-kai-bolang\ntitle: 小船儿推开波浪\nanswer: 心\nanswer_len: 1\ntype: 會意\nsubtype: 象形\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 象形]\n---\n\n# 小船儿推开波浪\n\n> 會意類 · 清 · 難度 ★\n\n**謎面**：小船儿推开波浪\n**謎底**：心\n\n## 解析\n「心」字形如一叶小船，中間一點如船中之物。謎面「小船儿推开波浪」以船形會意「心」字。屬會意法（兼象形）。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 9,
+      "marks": [
+        {
+          "ch": "间",
+          "cands": [
+            "間"
+          ],
+          "pick": "間",
+          "decision": "table"
+        },
+        {
+          "ch": "点",
+          "cands": [
+            "點"
+          ],
+          "pick": "點",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "bashan-kangding",
+      "title": "拔山扛鼎",
+      "title_t": "拔山扛鼎",
+      "answer": "夯",
+      "answer_t": "夯",
+      "jie": "「夯」字上「大」下「力」，意为用力砸实、搬抬重物。「拔山扛鼎」即举重扛物，正会「夯」之意。属会意法。",
+      "jie_t": "「夯」字上「大」下「力」，意為用力砸實、搬抬重物。「拔山扛鼎」即举重扛物，正會「夯」之意。屬會意法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: bashan-kangding\ntitle: 拔山扛鼎\nanswer: 夯\nanswer_len: 1\ntype: 會意\nsubtype: 动作\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 动作]\n---\n\n# 拔山扛鼎\n\n> 會意類 · 清 · 難度 ★★\n\n**謎面**：拔山扛鼎\n**謎底**：夯\n\n## 解析\n「夯」字上「大」下「力」，意為用力砸實、搬抬重物。「拔山扛鼎」即举重扛物，正會「夯」之意。屬會意法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 8,
+      "marks": [
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "实",
+          "cands": [
+            "實"
+          ],
+          "pick": "實",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
       "id": "you-tou-wu-wei",
       "title": "有头无尾，有眼无眉，无脚能走，有翅难飞",
       "title_t": "有頭无尾，有眼无眉，无脚能走，有翅難飞",
@@ -1026,6 +1192,85 @@
             "見"
           ],
           "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "changhe-luori-yuan",
+      "title": "长河落日圆",
+      "title_t": "長河落日圆",
+      "answer": "旦",
+      "answer_t": "旦",
+      "jie": "「旦」字上「日」下「一」，如落日（日）沉到地平线（一）上。王维「大漠孤烟直，长河落日圆」的「落日」正合「日」落于「一」上，得「旦」。属会意法。",
+      "jie_t": "「旦」字上「日」下「一」，如落日（日）沉到地平线（一）上。王维「大漠孤烟直，長河落日圆」的「落日」正合「日」落于「一」上，得「旦」。屬會意法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3），谜面出王维《使至塞上》。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3），謎面出王维《使至塞上》。",
+      "body_t": "---\nid: changhe-luori-yuan\ntitle: 長河落日圆\nanswer: 旦\nanswer_len: 1\ntype: 會意\nsubtype: 自然\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 自然]\n---\n\n# 長河落日圆\n\n> 會意類 · 清 · 難度 ★★\n\n**謎面**：長河落日圆\n**謎底**：旦\n\n## 解析\n「旦」字上「日」下「一」，如落日（日）沉到地平线（一）上。王维「大漠孤烟直，長河落日圆」的「落日」正合「日」落于「一」上，得「旦」。屬會意法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3），謎面出王维《使至塞上》。\n",
+      "converted": 8,
+      "marks": [
+        {
+          "ch": "长",
+          "cands": [
+            "長"
+          ],
+          "pick": "長",
+          "decision": "table"
+        },
+        {
+          "ch": "长",
+          "cands": [
+            "長"
+          ],
+          "pick": "長",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
           "decision": "table"
         },
         {
@@ -1550,6 +1795,157 @@
       ]
     },
     {
+      "id": "liangdian-zhongjian-yigeren",
+      "title": "两点中间一个人",
+      "title_t": "兩點中間一個人",
+      "answer": "火",
+      "answer_t": "火",
+      "jie": "「火」字作两点（丶丶）夹一人（丿捺）。谜面「两点中间一个人」正合「火」的字形。属增损法。",
+      "jie_t": "「火」字作兩點（丶丶）夾一人（丿捺）。謎面「兩點中間一個人」正合「火」的字形。屬增損法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: liangdian-zhongjian-yigeren\ntitle: 兩點中間一個人\nanswer: 火\nanswer_len: 1\ntype: 增損\nsubtype: 增減\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 增減]\n---\n\n# 兩點中間一個人\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：兩點中間一個人\n**謎底**：火\n\n## 解析\n「火」字作兩點（丶丶）夾一人（丿捺）。謎面「兩點中間一個人」正合「火」的字形。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 17,
+      "marks": [
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "点",
+          "cands": [
+            "點"
+          ],
+          "pick": "點",
+          "decision": "table"
+        },
+        {
+          "ch": "间",
+          "cands": [
+            "間"
+          ],
+          "pick": "間",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "点",
+          "cands": [
+            "點"
+          ],
+          "pick": "點",
+          "decision": "table"
+        },
+        {
+          "ch": "夹",
+          "cands": [
+            "夾"
+          ],
+          "pick": "夾",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "点",
+          "cands": [
+            "點"
+          ],
+          "pick": "點",
+          "decision": "table"
+        },
+        {
+          "ch": "间",
+          "cands": [
+            "間"
+          ],
+          "pick": "間",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
       "id": "ermu-cheng-lin",
       "title": "二木成林",
       "title_t": "二木成林",
@@ -1866,6 +2262,148 @@
       ]
     },
     {
+      "id": "youli-jixi",
+      "title": "又离鸡西",
+      "title_t": "又離鸡西",
+      "answer": "鸟",
+      "answer_t": "鸟",
+      "jie": "「鸡」字左「又」右「鸟」。「又离」即「又」离去，余「鸟」。属增损法。",
+      "jie_t": "「鸡」字左「又」右「鸟」。「又離」即「又」離去，餘「鸟」。屬增損法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: youli-jixi\ntitle: 又離鸡西\nanswer: 鸟\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\n---\n\n# 又離鸡西\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：又離鸡西\n**謎底**：鸟\n\n## 解析\n「鸡」字左「又」右「鸟」。「又離」即「又」離去，餘「鸟」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 9,
+      "marks": [
+        {
+          "ch": "离",
+          "cands": [
+            "離"
+          ],
+          "pick": "離",
+          "decision": "table"
+        },
+        {
+          "ch": "离",
+          "cands": [
+            "離"
+          ],
+          "pick": "離",
+          "decision": "table"
+        },
+        {
+          "ch": "离",
+          "cands": [
+            "離"
+          ],
+          "pick": "離",
+          "decision": "table"
+        },
+        {
+          "ch": "余",
+          "cands": [
+            "餘"
+          ],
+          "pick": "餘",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "chengchi-ban-canpo",
+      "title": "城池半残破",
+      "title_t": "城池半残破",
+      "answer": "地",
+      "answer_t": "地",
+      "jie": "「城」字半取「土」（城池残破取其土），「池」字残破取「也」。合「土」「也」得「地」。属增损法。",
+      "jie_t": "「城」字半取「土」（城池残破取其土），「池」字残破取「也」。合「土」「也」得「地」。屬增損法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: chengchi-ban-canpo\ntitle: 城池半残破\nanswer: 地\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\n---\n\n# 城池半残破\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：城池半残破\n**謎底**：地\n\n## 解析\n「城」字半取「土」（城池残破取其土），「池」字残破取「也」。合「土」「也」得「地」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 5,
+      "marks": [
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
       "id": "duo-yiban",
       "title": "多一半",
       "title_t": "多一半",
@@ -2130,6 +2668,69 @@
       ]
     },
     {
+      "id": "xuri-dongsheng",
+      "title": "旭日东升",
+      "title_t": "旭日东升",
+      "answer": "九",
+      "answer_t": "九",
+      "jie": "「旭」字左「日」右「九」。「旭日东升」即「日」升走，余「九」。属增损法。",
+      "jie_t": "「旭」字左「日」右「九」。「旭日东升」即「日」升走，餘「九」。屬增損法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: xuri-dongsheng\ntitle: 旭日东升\nanswer: 九\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\n---\n\n# 旭日东升\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：旭日东升\n**謎底**：九\n\n## 解析\n「旭」字左「日」右「九」。「旭日东升」即「日」升走，餘「九」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 6,
+      "marks": [
+        {
+          "ch": "余",
+          "cands": [
+            "餘"
+          ],
+          "pick": "餘",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
       "id": "chunyumianmian-qidu-su",
       "title": "春雨绵绵妻独宿",
       "title_t": "春雨綿綿妻獨宿",
@@ -2340,6 +2941,631 @@
             "錄"
           ],
           "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "youmeiyou-shangbian",
+      "title": "有没有上边",
+      "title_t": "有沒有上邊",
+      "answer": "月",
+      "answer_t": "月",
+      "jie": "「有」字去掉上边一撇（丿），余「月」。「有没有上边」即问「有」去掉上边，得「月」。属增损法。",
+      "jie_t": "「有」字去掉上邊一撇（丿），餘「月」。「有沒有上邊」即問「有」去掉上邊，得「月」。屬增損法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: youmeiyou-shangbian\ntitle: 有沒有上邊\nanswer: 月\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\n---\n\n# 有沒有上邊\n\n> 增損類 · 清 · 難度 ★\n\n**謎面**：有沒有上邊\n**謎底**：月\n\n## 解析\n「有」字去掉上邊一撇（丿），餘「月」。「有沒有上邊」即問「有」去掉上邊，得「月」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 13,
+      "marks": [
+        {
+          "ch": "没",
+          "cands": [
+            "沒"
+          ],
+          "pick": "沒",
+          "decision": "table"
+        },
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "余",
+          "cands": [
+            "餘"
+          ],
+          "pick": "餘",
+          "decision": "table"
+        },
+        {
+          "ch": "没",
+          "cands": [
+            "沒"
+          ],
+          "pick": "沒",
+          "decision": "table"
+        },
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "问",
+          "cands": [
+            "問"
+          ],
+          "pick": "問",
+          "decision": "table"
+        },
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "shuidiao-getou",
+      "title": "水调歌头",
+      "title_t": "水调歌頭",
+      "answer": "河",
+      "answer_t": "河",
+      "jie": "「河」字左「氵」（水）右「哥」。「水调」扣「氵」，「歌头」扣「哥」（歌字头）。合之得「河」。属增损法。",
+      "jie_t": "「河」字左「氵」（水）右「哥」。「水调」扣「氵」，「歌頭」扣「哥」（歌字頭）。合之得「河」。屬增損法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: shuidiao-getou\ntitle: 水调歌頭\nanswer: 河\nanswer_len: 1\ntype: 增損\nsubtype: 左右\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 左右]\n---\n\n# 水调歌頭\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：水调歌頭\n**謎底**：河\n\n## 解析\n「河」字左「氵」（水）右「哥」。「水调」扣「氵」，「歌頭」扣「哥」（歌字頭）。合之得「河」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 8,
+      "marks": [
+        {
+          "ch": "头",
+          "cands": [
+            "頭"
+          ],
+          "pick": "頭",
+          "decision": "table"
+        },
+        {
+          "ch": "头",
+          "cands": [
+            "頭"
+          ],
+          "pick": "頭",
+          "decision": "table"
+        },
+        {
+          "ch": "头",
+          "cands": [
+            "頭"
+          ],
+          "pick": "頭",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "houtou-yincang-bujianle",
+      "title": "猴头隐藏不见了",
+      "title_t": "猴頭隱藏不見了",
+      "answer": "侯",
+      "answer_t": "侯",
+      "jie": "「猴」字去掉兽字旁（犭，即「猴头」），余「侯」。「猴头隐藏不见了」以减损法扣「侯」。属增损法。",
+      "jie_t": "「猴」字去掉兽字旁（犭，即「猴頭」），餘「侯」。「猴頭隱藏不見了」以減損法扣「侯」。屬增損法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: houtou-yincang-bujianle\ntitle: 猴頭隱藏不見了\nanswer: 侯\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\n---\n\n# 猴頭隱藏不見了\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：猴頭隱藏不見了\n**謎底**：侯\n\n## 解析\n「猴」字去掉兽字旁（犭，即「猴頭」），餘「侯」。「猴頭隱藏不見了」以減損法扣「侯」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 15,
+      "marks": [
+        {
+          "ch": "头",
+          "cands": [
+            "頭"
+          ],
+          "pick": "頭",
+          "decision": "table"
+        },
+        {
+          "ch": "隐",
+          "cands": [
+            "隱"
+          ],
+          "pick": "隱",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "头",
+          "cands": [
+            "頭"
+          ],
+          "pick": "頭",
+          "decision": "table"
+        },
+        {
+          "ch": "余",
+          "cands": [
+            "餘"
+          ],
+          "pick": "餘",
+          "decision": "table"
+        },
+        {
+          "ch": "头",
+          "cands": [
+            "頭"
+          ],
+          "pick": "頭",
+          "decision": "table"
+        },
+        {
+          "ch": "隐",
+          "cands": [
+            "隱"
+          ],
+          "pick": "隱",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "减",
+          "cands": [
+            "減"
+          ],
+          "pick": "減",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "zuigai-zhanshou",
+      "title": "罪该斩首",
+      "title_t": "罪该斩首",
+      "answer": "非",
+      "answer_t": "非",
+      "jie": "「罪」字斩去首（宀），余下半部即「非」。「罪该斩首」以减损法扣「非」。属增损法。",
+      "jie_t": "「罪」字斩去首（宀），餘下半部即「非」。「罪该斩首」以減損法扣「非」。屬增損法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: zuigai-zhanshou\ntitle: 罪该斩首\nanswer: 非\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\n---\n\n# 罪该斩首\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：罪该斩首\n**謎底**：非\n\n## 解析\n「罪」字斩去首（宀），餘下半部即「非」。「罪该斩首」以減損法扣「非」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 8,
+      "marks": [
+        {
+          "ch": "余",
+          "cands": [
+            "餘"
+          ],
+          "pick": "餘",
+          "decision": "table"
+        },
+        {
+          "ch": "减",
+          "cands": [
+            "減"
+          ],
+          "pick": "減",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "zixiao-hao-jiejian",
+      "title": "自小好节俭",
+      "title_t": "自小好节俭",
+      "answer": "省",
+      "answer_t": "省",
+      "jie": "「省」字上「自」下「小」。「自小」即「自」与「小」相合，得「省」；「好节俭」会「省」之意。属增损法。",
+      "jie_t": "「省」字上「自」下「小」。「自小」即「自」與「小」相合，得「省」；「好节俭」會「省」之意。屬增損法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: zixiao-hao-jiejian\ntitle: 自小好节俭\nanswer: 省\nanswer_len: 1\ntype: 增損\nsubtype: 上下\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 上下]\n---\n\n# 自小好节俭\n\n> 增損類 · 清 · 難度 ★\n\n**謎面**：自小好节俭\n**謎底**：省\n\n## 解析\n「省」字上「自」下「小」。「自小」即「自」與「小」相合，得「省」；「好节俭」會「省」之意。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 7,
+      "marks": [
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "luori-zai-liangou",
+      "title": "落日在帘钩",
+      "title_t": "落日在帘鉤",
+      "answer": "电",
+      "answer_t": "电",
+      "jie": "「电」字左「日」右「乚」。「落日」扣「日」，「帘钩」扣「乚」（钩形）。合之得「电」。属增损法。",
+      "jie_t": "「电」字左「日」右「乚」。「落日」扣「日」，「帘鉤」扣「乚」（鉤形）。合之得「电」。屬增損法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: luori-zai-liangou\ntitle: 落日在帘鉤\nanswer: 电\nanswer_len: 1\ntype: 增損\nsubtype: 左右\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 左右]\n---\n\n# 落日在帘鉤\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：落日在帘鉤\n**謎底**：电\n\n## 解析\n「电」字左「日」右「乚」。「落日」扣「日」，「帘鉤」扣「乚」（鉤形）。合之得「电」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 8,
+      "marks": [
+        {
+          "ch": "钩",
+          "cands": [
+            "鉤"
+          ],
+          "pick": "鉤",
+          "decision": "table"
+        },
+        {
+          "ch": "钩",
+          "cands": [
+            "鉤"
+          ],
+          "pick": "鉤",
+          "decision": "table"
+        },
+        {
+          "ch": "钩",
+          "cands": [
+            "鉤"
+          ],
+          "pick": "鉤",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "guizhou-jin-tengfei",
+      "title": "贵州今腾飞",
+      "title_t": "贵州今腾飞",
+      "answer": "黑",
+      "answer_t": "黑",
+      "jie": "贵州古称「黔」，「黔」字左「黑」右「今」。「今腾飞」即「今」飞走，余「黑」。属增损法。",
+      "jie_t": "贵州古称「黔」，「黔」字左「黑」右「今」。「今腾飞」即「今」飞走，餘「黑」。屬增損法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: guizhou-jin-tengfei\ntitle: 贵州今腾飞\nanswer: 黑\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\n---\n\n# 贵州今腾飞\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：贵州今腾飞\n**謎底**：黑\n\n## 解析\n贵州古称「黔」，「黔」字左「黑」右「今」。「今腾飞」即「今」飞走，餘「黑」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 6,
+      "marks": [
+        {
+          "ch": "余",
+          "cands": [
+            "餘"
+          ],
+          "pick": "餘",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
           "decision": "table"
         }
       ]
