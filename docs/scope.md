@@ -16,7 +16,7 @@
 
 ## 收录清单（契约）
 
-当前收录 48 篇，覆盖全部 10 个谜种。谐音类已由 0 补齐（以经典歇后语谐音谜，
+当前收录 56 篇，覆盖全部 10 个谜种。谐音类已由 0 补齐（以经典歇后语谐音谜，
 来源确证、谜底无歧义）。每篇均有唯一谜底与完整解析，无近似重复。
 
 | id | 谜种 | 谜底 |
@@ -40,6 +40,9 @@
 | yijia-shiyi-jiukou | 会意 | 吉 |
 | shiwutian | 会意 | 胖 |
 | yijia-yikou | 会意 | 问 |
+| you-tou-wu-wei | 会意 | 鱼 |
+| you-mian-wu-kou | 会意 | 镜 |
+| waimian-yikou-quan | 会意 | 困 |
 | zhulan-dashui | 谐音 | 场 |
 | waisheng-da-denglong | 谐音 | 照 |
 | xiaotongban-doufu | 谐音 | 清 |
@@ -56,6 +59,8 @@
 | shi'er-dian | 增损 | 斗 |
 | shiba-kou | 增损 | 杏 |
 | yibian-shui-yibian-huo | 增损 | 灭 |
+| yishang-yixia | 增损 | 卡 |
+| ermu-cheng-lin | 增损 | 林 |
 | bantui-banjiu | 离合 | 掠 |
 | sanguo-qimen | 典故 | 不 |
 | simazhao-zhixin | 典故 | 腹 |
@@ -63,11 +68,14 @@
 | yilun-wanyue | 象形 | 夕 |
 | taiyang-gua-zai-shushao | 象形 | 杲 |
 | taiyang-luo-zai-shushao | 象形 | 杳 |
+| riyue-hebi | 象形 | 明 |
 | shangxia-xianglian | 方位 | 卡 |
 | jiushijiu | 数字 | 百 |
 | qishier-xiaoshi | 数字 | 晶 |
 | shi'er-ge-yue | 数字 | 年 |
 | bashiba | 数字 | 米 |
+| sansan-ri | 数字 | 晶 |
+| yibian-yiban | 数字 | 秋 |
 | renyan-chengxin | 当代 | 信 |
 
 ## 来源与「最完整」的边界

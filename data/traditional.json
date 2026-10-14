@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 48,
+  "count": 56,
   "note": "繁简派生产物。引擎 tools/build-traditional.py 唯一事实源。",
   "rows": [
     {
@@ -766,6 +766,279 @@
       ]
     },
     {
+      "id": "waimian-yikou-quan",
+      "title": "外面一口圈，里面一口田",
+      "title_t": "外面一口圈，裡面一口田",
+      "answer": "困",
+      "answer_t": "困",
+      "jie": "「困」字外「口」内「田」。谜面「外面一口圈，里面一口田」正是「口」中「田」的会意。\n「口」为圈，「田」在内，合成「困」。属会意法。",
+      "jie_t": "「困」字外「口」内「田」。謎面「外面一口圈，裡面一口田」正是「口」中「田」的會意。\n「口」為圈，「田」在内，合成「困」。屬會意法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: waimian-yikou-quan\ntitle: 外面一口圈，裡面一口田\nanswer: 困\nanswer_len: 1\ntype: 會意\nsubtype: 上下\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 地形]\n---\n\n# 外面一口圈，裡面一口田\n\n> 會意類 · 清 · 難度 ★★\n\n**謎面**：外面一口圈，裡面一口田\n**謎底**：困\n\n## 解析\n「困」字外「口」内「田」。謎面「外面一口圈，裡面一口田」正是「口」中「田」的會意。\n「口」為圈，「田」在内，合成「困」。屬會意法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 9,
+      "marks": [
+        {
+          "ch": "里",
+          "cands": [
+            "裡",
+            "裏"
+          ],
+          "pick": "裡",
+          "decision": "rule",
+          "reason": "本站「里」只表「内部 / 里面」（如「人在内里」），无里程义，取「裡」。"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "里",
+          "cands": [
+            "裡",
+            "裏"
+          ],
+          "pick": "裡",
+          "decision": "rule",
+          "reason": "本站「里」只表「内部 / 里面」（如「人在内里」），无里程义，取「裡」。"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "you-tou-wu-wei",
+      "title": "有头无尾，有眼无眉，无脚能走，有翅难飞",
+      "title_t": "有頭无尾，有眼无眉，无脚能走，有翅難飞",
+      "answer": "鱼",
+      "answer_t": "鱼",
+      "jie": "「鱼」有头无尾（鱼尾不算「尾」）、有眼无眉、无脚却能游动、有翅（鱼鳍）却难飞。\n四句皆会意「鱼」的形态。属会意法。",
+      "jie_t": "「鱼」有頭无尾（鱼尾不算「尾」）、有眼无眉、无脚却能游动、有翅（鱼鳍）却難飞。\n四句皆會意「鱼」的形態。屬會意法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: you-tou-wu-wei\ntitle: 有頭无尾，有眼无眉，无脚能走，有翅難飞\nanswer: 鱼\nanswer_len: 1\ntype: 會意\nsubtype: 动物\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 动物]\n---\n\n# 有頭无尾，有眼无眉，无脚能走，有翅難飞\n\n> 會意類 · 清 · 難度 ★★\n\n**謎面**：有頭无尾，有眼无眉，无脚能走，有翅難飞\n**謎底**：鱼\n\n## 解析\n「鱼」有頭无尾（鱼尾不算「尾」）、有眼无眉、无脚却能游动、有翅（鱼鳍）却難飞。\n四句皆會意「鱼」的形態。屬會意法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 10,
+      "marks": [
+        {
+          "ch": "头",
+          "cands": [
+            "頭"
+          ],
+          "pick": "頭",
+          "decision": "table"
+        },
+        {
+          "ch": "难",
+          "cands": [
+            "難"
+          ],
+          "pick": "難",
+          "decision": "table"
+        },
+        {
+          "ch": "头",
+          "cands": [
+            "頭"
+          ],
+          "pick": "頭",
+          "decision": "table"
+        },
+        {
+          "ch": "难",
+          "cands": [
+            "難"
+          ],
+          "pick": "難",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "态",
+          "cands": [
+            "態"
+          ],
+          "pick": "態",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "you-mian-wu-kou",
+      "title": "有面无口，有脚无手，听人讲话，陪人走路",
+      "title_t": "有面无口，有脚无手，听人講話，陪人走路",
+      "answer": "镜",
+      "answer_t": "镜",
+      "jie": "「镜」有面（镜面）无口、有脚（镜架/镜座）无手、能映人说话、随人而行。\n四句皆会意「镜」的特征。属会意法。",
+      "jie_t": "「镜」有面（镜面）无口、有脚（镜架/镜座）无手、能映人說話、随人而行。\n四句皆會意「镜」的特征。屬會意法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: you-mian-wu-kou\ntitle: 有面无口，有脚无手，听人講話，陪人走路\nanswer: 镜\nanswer_len: 1\ntype: 會意\nsubtype: 物品\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 物品]\n---\n\n# 有面无口，有脚无手，听人講話，陪人走路\n\n> 會意類 · 清 · 難度 ★★\n\n**謎面**：有面无口，有脚无手，听人講話，陪人走路\n**謎底**：镜\n\n## 解析\n「镜」有面（镜面）无口、有脚（镜架/镜座）无手、能映人說話、随人而行。\n四句皆會意「镜」的特征。屬會意法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 9,
+      "marks": [
+        {
+          "ch": "讲",
+          "cands": [
+            "講"
+          ],
+          "pick": "講",
+          "decision": "table"
+        },
+        {
+          "ch": "话",
+          "cands": [
+            "話"
+          ],
+          "pick": "話",
+          "decision": "table"
+        },
+        {
+          "ch": "说",
+          "cands": [
+            "說"
+          ],
+          "pick": "說",
+          "decision": "table"
+        },
+        {
+          "ch": "话",
+          "cands": [
+            "話"
+          ],
+          "pick": "話",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
       "id": "sanguo-qimen",
       "title": "三过其门",
       "title_t": "三過其門",
@@ -1032,6 +1305,53 @@
       ]
     },
     {
+      "id": "yishang-yixia",
+      "title": "一上一下",
+      "title_t": "一上一下",
+      "answer": "卡",
+      "answer_t": "卡",
+      "jie": "「卡」字上「上」下「下」。「一上一下」即「上」在上、「下」在下，合成「卡」。属增损法。",
+      "jie_t": "「卡」字上「上」下「下」。「一上一下」即「上」在上、「下」在下，合成「卡」。屬增損法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: yishang-yixia\ntitle: 一上一下\nanswer: 卡\nanswer_len: 1\ntype: 增損\nsubtype: 增減\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 方位]\n---\n\n# 一上一下\n\n> 增損類 · 清 · 難度 ★\n\n**謎面**：一上一下\n**謎底**：卡\n\n## 解析\n「卡」字上「上」下「下」。「一上一下」即「上」在上、「下」在下，合成「卡」。屬增損法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 4,
+      "marks": [
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
       "id": "yiren-tiao-liang-xiaoren",
       "title": "一人挑两小人",
       "title_t": "一人挑兩小人",
@@ -1193,6 +1513,77 @@
             "為"
           ],
           "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "ermu-cheng-lin",
+      "title": "二木成林",
+      "title_t": "二木成林",
+      "answer": "林",
+      "answer_t": "林",
+      "jie": "「林」字由两个「木」并列而成。「二木成林」即两「木」相合，得「林」。属增损法。",
+      "jie_t": "「林」字由兩個「木」并列而成。「二木成林」即兩「木」相合，得「林」。屬增損法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: ermu-cheng-lin\ntitle: 二木成林\nanswer: 林\nanswer_len: 1\ntype: 增損\nsubtype: 疊字\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 疊字, 植物]\n---\n\n# 二木成林\n\n> 增損類 · 清 · 難度 ★\n\n**謎面**：二木成林\n**謎底**：林\n\n## 解析\n「林」字由兩個「木」并列而成。「二木成林」即兩「木」相合，得「林」。屬增損法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 7,
+      "marks": [
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
           "decision": "table"
         },
         {
@@ -3369,6 +3760,93 @@
       ]
     },
     {
+      "id": "yibian-yiban",
+      "title": "一边一半",
+      "title_t": "一邊一半",
+      "answer": "秋",
+      "answer_t": "秋",
+      "jie": "「秋」字左「禾」右「火」。「禾」与「火」各占一半，合为「秋」。「一边一半」即两半相合，得「秋」。属数字法。",
+      "jie_t": "「秋」字左「禾」右「火」。「禾」與「火」各占一半，合為「秋」。「一邊一半」即兩半相合，得「秋」。屬數字法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: yibian-yiban\ntitle: 一邊一半\nanswer: 秋\nanswer_len: 1\ntype: 數字\nsubtype: 左右\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [數字, 自然]\n---\n\n# 一邊一半\n\n> 數字類 · 清 · 難度 ★★\n\n**謎面**：一邊一半\n**謎底**：秋\n\n## 解析\n「秋」字左「禾」右「火」。「禾」與「火」各占一半，合為「秋」。「一邊一半」即兩半相合，得「秋」。屬數字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 9,
+      "marks": [
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
       "id": "qishier-xiaoshi",
       "title": "七十二小时",
       "title_t": "七十二小时",
@@ -3459,6 +3937,85 @@
             "錄"
           ],
           "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "sansan-ri",
+      "title": "三个三日",
+      "title_t": "三個三日",
+      "answer": "晶",
+      "answer_t": "晶",
+      "jie": "「晶」字由三个「日」组成。「三个三日」即三「日」相合，得「晶」。属数字法。",
+      "jie_t": "「晶」字由三個「日」組成。「三個三日」即三「日」相合，得「晶」。屬數字法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: sansan-ri\ntitle: 三個三日\nanswer: 晶\nanswer_len: 1\ntype: 數字\nsubtype: 疊字\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [數字, 疊字, 自然]\n---\n\n# 三個三日\n\n> 數字類 · 清 · 難度 ★\n\n**謎面**：三個三日\n**謎底**：晶\n\n## 解析\n「晶」字由三個「日」組成。「三個三日」即三「日」相合，得「晶」。屬數字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 8,
+      "marks": [
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "组",
+          "cands": [
+            "組"
+          ],
+          "pick": "組",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
           "decision": "table"
         }
       ]
@@ -5114,6 +5671,53 @@
             "會"
           ],
           "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "riyue-hebi",
+      "title": "日月合璧",
+      "title_t": "日月合璧",
+      "answer": "明",
+      "answer_t": "明",
+      "jie": "「明」字左「日」右「月」。「日月合璧」即「日」与「月」相合，得「明」。属象形法。",
+      "jie_t": "「明」字左「日」右「月」。「日月合璧」即「日」與「月」相合，得「明」。屬象形法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: riyue-hebi\ntitle: 日月合璧\nanswer: 明\nanswer_len: 1\ntype: 象形\nsubtype: 左右\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [象形, 自然]\n---\n\n# 日月合璧\n\n> 象形類 · 清 · 難度 ★\n\n**謎面**：日月合璧\n**謎底**：明\n\n## 解析\n「明」字左「日」右「月」。「日月合璧」即「日」與「月」相合，得「明」。屬象形法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 4,
+      "marks": [
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
           "decision": "table"
         },
         {

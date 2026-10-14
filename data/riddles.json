@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "count": 48,
+  "count": 56,
   "types": {
-    "会意": 6,
+    "会意": 9,
     "典故": 2,
-    "增损": 8,
+    "增损": 10,
     "当代": 1,
     "拆字": 13,
-    "数字": 4,
+    "数字": 6,
     "方位": 1,
     "离合": 1,
     "谐音": 8,
-    "象形": 4
+    "象形": 5
   },
   "riddles": [
     {
@@ -35,6 +35,28 @@
         "形意"
       ],
       "path": "riddles/会意/四面不透风.md"
+    },
+    {
+      "id": "waimian-yikou-quan",
+      "title": "外面一口圈，里面一口田",
+      "answer": "困",
+      "answer_len": 1,
+      "type": "会意",
+      "subtype": "上下",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "会意",
+        "地形"
+      ],
+      "path": "riddles/会意/外面一口圈里面一口田.md"
     },
     {
       "id": "yijian-chuanxin",
@@ -79,6 +101,50 @@
         "叠意"
       ],
       "path": "riddles/会意/一夜又一夜.md"
+    },
+    {
+      "id": "you-mian-wu-kou",
+      "title": "有面无口，有脚无手，听人讲话，陪人走路",
+      "answer": "镜",
+      "answer_len": 1,
+      "type": "会意",
+      "subtype": "物品",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "会意",
+        "物品"
+      ],
+      "path": "riddles/会意/有面无口有脚无手.md"
+    },
+    {
+      "id": "you-tou-wu-wei",
+      "title": "有头无尾，有眼无眉，无脚能走，有翅难飞",
+      "answer": "鱼",
+      "answer_len": 1,
+      "type": "会意",
+      "subtype": "动物",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "会意",
+        "动物"
+      ],
+      "path": "riddles/会意/有头无尾有眼无眉.md"
     },
     {
       "id": "shiwutian",
@@ -192,6 +258,29 @@
       "path": "riddles/典故/三过其门.md"
     },
     {
+      "id": "ermu-cheng-lin",
+      "title": "二木成林",
+      "answer": "林",
+      "answer_len": 1,
+      "type": "增损",
+      "subtype": "叠字",
+      "difficulty": 1,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "增损",
+        "叠字",
+        "植物"
+      ],
+      "path": "riddles/增损/二木成林.md"
+    },
+    {
       "id": "shangshan-haishan",
       "title": "山上还有山",
       "answer": "出",
@@ -234,6 +323,28 @@
         "数字"
       ],
       "path": "riddles/增损/十二点.md"
+    },
+    {
+      "id": "yishang-yixia",
+      "title": "一上一下",
+      "answer": "卡",
+      "answer_len": 1,
+      "type": "增损",
+      "subtype": "增减",
+      "difficulty": 1,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "增损",
+        "方位"
+      ],
+      "path": "riddles/增损/一上一下.md"
     },
     {
       "id": "duo-yiban",
@@ -700,6 +811,29 @@
       "path": "riddles/数字/八十八.md"
     },
     {
+      "id": "sansan-ri",
+      "title": "三个三日",
+      "answer": "晶",
+      "answer_len": 1,
+      "type": "数字",
+      "subtype": "叠字",
+      "difficulty": 1,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "数字",
+        "叠字",
+        "自然"
+      ],
+      "path": "riddles/数字/三个三日.md"
+    },
+    {
       "id": "shi'er-ge-yue",
       "title": "十二个月",
       "answer": "年",
@@ -764,6 +898,28 @@
         "三日"
       ],
       "path": "riddles/数字/七十二小时.md"
+    },
+    {
+      "id": "yibian-yiban",
+      "title": "一边一半",
+      "answer": "秋",
+      "answer_len": 1,
+      "type": "数字",
+      "subtype": "左右",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "数字",
+        "自然"
+      ],
+      "path": "riddles/数字/一边一半.md"
     },
     {
       "id": "shangxia-xianglian",
@@ -992,6 +1148,28 @@
         "物品"
       ],
       "path": "riddles/谐音/竹篮打水.md"
+    },
+    {
+      "id": "riyue-hebi",
+      "title": "日月合璧",
+      "answer": "明",
+      "answer_len": 1,
+      "type": "象形",
+      "subtype": "左右",
+      "difficulty": 1,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "象形",
+        "自然"
+      ],
+      "path": "riddles/象形/日月合璧.md"
     },
     {
       "id": "taiyang-gua-zai-shushao",
