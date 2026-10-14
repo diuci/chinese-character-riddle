@@ -16,15 +16,11 @@
 
 ## 收录清单（契约）
 
-当前收录 26 篇，覆盖 9 个谜种。**谐音**为合法谜种，但现阶段不强塞低质篇目——
-待从 S1/S3 找到来源确证、谜底无歧义的高质篇目再补齐（质量优先，宁缺毋滥）。
+当前收录 48 篇，覆盖全部 10 个谜种。谐音类已由 0 补齐（以经典歇后语谐音谜，
+来源确证、谜底无歧义）。每篇均有唯一谜底与完整解析，无近似重复。
 
 | id | 谜种 | 谜底 |
 |---|---|---|
-| shangshan-haishan | 增损 | 出 |
-| duo-yiban | 增损 | 夕 |
-| banbu-chunqiu | 增损 | 香 |
-| chunyumianmian-qidu-su | 增损 | 一 |
 | yikou-yao-niuban | 拆字 | 告 |
 | shikou-xinsi | 拆字 | 思 |
 | qianli-xiangfeng | 拆字 | 重 |
@@ -33,24 +29,50 @@
 | ren-zai-cao-mu-zhong | 拆字 | 茶 |
 | shikou-zhangkou | 拆字 | 田 |
 | yiren-zainei | 拆字 | 肉 |
+| yibian-lv-yibian-hong | 拆字 | 秋 |
+| yiren-yizhang-kou | 拆字 | 拿 |
+| yibian-yu-yibian-yang | 拆字 | 鲜 |
+| shangshan-haishui | 拆字 | 汕 |
+| rifu-yiri | 拆字 | 昌 |
 | yijian-chuanxin | 会意 | 必 |
 | yiye-you-yiye | 会意 | 多 |
 | simian-boutu-feng | 会意 | 口 |
 | yijia-shiyi-jiukou | 会意 | 吉 |
 | shiwutian | 会意 | 胖 |
 | yijia-yikou | 会意 | 问 |
+| zhulan-dashui | 谐音 | 场 |
+| waisheng-da-denglong | 谐音 | 照 |
+| xiaotongban-doufu | 谐音 | 清 |
+| erliang-mianhua | 谐音 | 谈 |
+| daguniang-zuo-huajiao | 谐音 | 迎 |
+| shiwu-ge-tong | 谐音 | 忍 |
+| dajiao-chuan-xiaoxie | 谐音 | 难 |
+| kongfuzi-banjia | 谐音 | 书 |
+| shangshan-haishan | 增损 | 出 |
+| duo-yiban | 增损 | 夕 |
+| banbu-chunqiu | 增损 | 香 |
+| chunyumianmian-qidu-su | 增损 | 一 |
+| yiren-tiao-liang-xiaoren | 增损 | 夹 |
+| shi'er-dian | 增损 | 斗 |
+| shiba-kou | 增损 | 杏 |
+| yibian-shui-yibian-huo | 增损 | 灭 |
 | bantui-banjiu | 离合 | 掠 |
 | sanguo-qimen | 典故 | 不 |
+| simazhao-zhixin | 典故 | 腹 |
+| yidian-yiheng-chang | 象形 | 府 |
+| yilun-wanyue | 象形 | 夕 |
+| taiyang-gua-zai-shushao | 象形 | 杲 |
+| taiyang-luo-zai-shushao | 象形 | 杳 |
 | shangxia-xianglian | 方位 | 卡 |
 | jiushijiu | 数字 | 百 |
 | qishier-xiaoshi | 数字 | 晶 |
-| yidian-yiheng-chang | 象形 | 府 |
-| yilun-wanyue | 象形 | 夕 |
+| shi'er-ge-yue | 数字 | 年 |
+| bashiba | 数字 | 米 |
 | renyan-chengxin | 当代 | 信 |
 
 ## 来源与「最完整」的边界
 
-- **S1 古典谜书（公版）**：《文虎联珠集》(明)、《文虎偶存》、《玉荷隐语》、《字謎大全》(清) 等。
+- **S1 古典谜书（公版）**：《文虎联珠集》(明)、《文虎偶存》、《玉荷隐语》、《字謎大全》(清) 等，及民间歇后语。
 - **S2 网络开放收藏**：如 daizhige 集藏·谜语/文虎 等开源谜集，交叉比对补漏。
 - **S3 CC-Riddle 汉字谜语数据集**（HuggingFace）：校验谜底一致性、补当代高质谜。
 - **S4 当代高质量字谜**：来源确证或已授权，署名 + cc-by-4.0。
@@ -62,4 +84,4 @@ S3 里符合质量门槛的当代谜补入。达不到门槛的宁可不收（�
 ## 里程碑对照
 
 - **M1**：12 篇种子，骨架与工具链全绿。
-- **M2（进行中）**：系统性收录 S1–S4，已扩到 26 篇（典故类已从 0 到 1）；继续补 S1/S3 高质篇目，本表随篇目同步更新。
+- **M2**：已扩到 48 篇，覆盖全部 10 个谜种（谐音类已从 0 补齐到 8）；继续系统性扫 S1/S3，本表随篇目同步更新。

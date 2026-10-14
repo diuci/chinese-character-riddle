@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 26,
+  "count": 48,
   "note": "繁简派生产物。引擎 tools/build-traditional.py 唯一事实源。",
   "rows": [
     {
@@ -941,6 +941,469 @@
       ]
     },
     {
+      "id": "simazhao-zhixin",
+      "title": "司马昭之心",
+      "title_t": "司马昭之心",
+      "answer": "腹",
+      "answer_t": "腹",
+      "jie": "成语「司马昭之心，路人皆知」：司马昭想取代魏室的心思，连路人都知道。\n「心」即肚腹里的念头，谜底取「腹」（肚子里的打算）。属典故意会法。",
+      "jie_t": "成语「司马昭之心，路人皆知」：司马昭想取代魏室的心思，連路人都知道。\n「心」即肚腹裡的念頭，謎底取「腹」（肚子裡的打算）。屬典故意會法。",
+      "chu": "见《字謎大全》等古典字谜集（S1），成语出自《晋书》。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1），成语出自《晋书》。",
+      "body_t": "---\nid: simazhao-zhixin\ntitle: 司马昭之心\nanswer: 腹\nanswer_len: 1\ntype: 典故\nsubtype: 成语\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [典故, 成语, 歷史]\n---\n\n# 司马昭之心\n\n> 典故類 · 清 · 難度 ★★\n\n**謎面**：司马昭之心\n**謎底**：腹\n\n## 解析\n成语「司马昭之心，路人皆知」：司马昭想取代魏室的心思，連路人都知道。\n「心」即肚腹裡的念頭，謎底取「腹」（肚子裡的打算）。屬典故意會法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1），成语出自《晋书》。\n",
+      "converted": 9,
+      "marks": [
+        {
+          "ch": "连",
+          "cands": [
+            "連"
+          ],
+          "pick": "連",
+          "decision": "table"
+        },
+        {
+          "ch": "里",
+          "cands": [
+            "裡",
+            "裏"
+          ],
+          "pick": "裡",
+          "decision": "rule",
+          "reason": "本站「里」只表「内部 / 里面」（如「人在内里」），无里程义，取「裡」。"
+        },
+        {
+          "ch": "头",
+          "cands": [
+            "頭"
+          ],
+          "pick": "頭",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "里",
+          "cands": [
+            "裡",
+            "裏"
+          ],
+          "pick": "裡",
+          "decision": "rule",
+          "reason": "本站「里」只表「内部 / 里面」（如「人在内里」），无里程义，取「裡」。"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "yiren-tiao-liang-xiaoren",
+      "title": "一人挑两小人",
+      "title_t": "一人挑兩小人",
+      "answer": "夹",
+      "answer_t": "夾",
+      "jie": "「夹」字中间一「大」（即「人」），左右各一「人」（即「小人」）。\n一人挑着两小人，正是「夹」的左右两「人」加中间「大」。属增损法。",
+      "jie_t": "「夾」字中間一「大」（即「人」），左右各一「人」（即「小人」）。\n一人挑着兩小人，正是「夾」的左右兩「人」加中間「大」。屬增損法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: yiren-tiao-liang-xiaoren\ntitle: 一人挑兩小人\nanswer: 夾\nanswer_len: 1\ntype: 增損\nsubtype: 增減\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 人体]\n---\n\n# 一人挑兩小人\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：一人挑兩小人\n**謎底**：夾\n\n## 解析\n「夾」字中間一「大」（即「人」），左右各一「人」（即「小人」）。\n一人挑着兩小人，正是「夾」的左右兩「人」加中間「大」。屬增損法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 12,
+      "marks": [
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "夹",
+          "cands": [
+            "夾"
+          ],
+          "pick": "夾",
+          "decision": "table"
+        },
+        {
+          "ch": "夹",
+          "cands": [
+            "夾"
+          ],
+          "pick": "夾",
+          "decision": "table"
+        },
+        {
+          "ch": "间",
+          "cands": [
+            "間"
+          ],
+          "pick": "間",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "夹",
+          "cands": [
+            "夾"
+          ],
+          "pick": "夾",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "间",
+          "cands": [
+            "間"
+          ],
+          "pick": "間",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "yibian-shui-yibian-huo",
+      "title": "一边是水，一边是火",
+      "title_t": "一邊是水，一邊是火",
+      "answer": "灭",
+      "answer_t": "灭",
+      "jie": "「灭」字上「一」下「火」，那一横可视为水（水之一画）。\n上水下火，水在火上，火被水灭，故为「灭」。属增损法。",
+      "jie_t": "「灭」字上「一」下「火」，那一横可视為水（水之一畫）。\n上水下火，水在火上，火被水灭，故為「灭」。屬增損法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: yibian-shui-yibian-huo\ntitle: 一邊是水，一邊是火\nanswer: 灭\nanswer_len: 1\ntype: 增損\nsubtype: 增減\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 自然]\n---\n\n# 一邊是水，一邊是火\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：一邊是水，一邊是火\n**謎底**：灭\n\n## 解析\n「灭」字上「一」下「火」，那一横可视為水（水之一畫）。\n上水下火，水在火上，火被水灭，故為「灭」。屬增損法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 9,
+      "marks": [
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "画",
+          "cands": [
+            "畫"
+          ],
+          "pick": "畫",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "shi'er-dian",
+      "title": "十二点",
+      "title_t": "十二點",
+      "answer": "斗",
+      "answer_t": "斗",
+      "jie": "「斗」字可拆为「十」「二」与一点（丶）。谜面「十二点」即十、二、点三者相合，\n合成「斗」。属增损法。",
+      "jie_t": "「斗」字可拆為「十」「二」與一點（丶）。謎面「十二點」即十、二、點三者相合，\n合成「斗」。屬增損法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: shi'er-dian\ntitle: 十二點\nanswer: 斗\nanswer_len: 1\ntype: 增損\nsubtype: 增減\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 數字]\n---\n\n# 十二點\n\n> 增損類 · 清 · 難度 ★\n\n**謎面**：十二點\n**謎底**：斗\n\n## 解析\n「斗」字可拆為「十」「二」與一點（丶）。謎面「十二點」即十、二、點三者相合，\n合成「斗」。屬增損法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 11,
+      "marks": [
+        {
+          "ch": "点",
+          "cands": [
+            "點"
+          ],
+          "pick": "點",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "点",
+          "cands": [
+            "點"
+          ],
+          "pick": "點",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "点",
+          "cands": [
+            "點"
+          ],
+          "pick": "點",
+          "decision": "table"
+        },
+        {
+          "ch": "点",
+          "cands": [
+            "點"
+          ],
+          "pick": "點",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "shiba-kou",
+      "title": "十八口",
+      "title_t": "十八口",
+      "answer": "杏",
+      "answer_t": "杏",
+      "jie": "「十」与「八」相合为「木」（十下加八）。再于「木」下添一「口」，得「杏」。\n谜面「十八口」即十、八、口三者相合。属增损法。",
+      "jie_t": "「十」與「八」相合為「木」（十下加八）。再于「木」下添一「口」，得「杏」。\n謎面「十八口」即十、八、口三者相合。屬增損法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: shiba-kou\ntitle: 十八口\nanswer: 杏\nanswer_len: 1\ntype: 增損\nsubtype: 增減\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 數字]\n---\n\n# 十八口\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：十八口\n**謎底**：杏\n\n## 解析\n「十」與「八」相合為「木」（十下加八）。再于「木」下添一「口」，得「杏」。\n謎面「十八口」即十、八、口三者相合。屬增損法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 7,
+      "marks": [
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
       "id": "banbu-chunqiu",
       "title": "半部春秋",
       "title_t": "半部春秋",
@@ -1634,6 +2097,85 @@
       ]
     },
     {
+      "id": "yiren-yizhang-kou",
+      "title": "一人一张口，口下长只手",
+      "title_t": "一人一張口，口下長只手",
+      "answer": "拿",
+      "answer_t": "拿",
+      "jie": "「拿」字上「合」下「手」。「合」由「人」「一」「口」合成，正是「一人一张口」。\n其下再长出一「手」，即「口下长只手」。上下相合得「拿」。属拆字法。",
+      "jie_t": "「拿」字上「合」下「手」。「合」由「人」「一」「口」合成，正是「一人一張口」。\n其下再長出一「手」，即「口下長只手」。上下相合得「拿」。屬拆字法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: yiren-yizhang-kou\ntitle: 一人一張口，口下長只手\nanswer: 拿\nanswer_len: 1\ntype: 拆字\nsubtype: 上下\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 人体]\n---\n\n# 一人一張口，口下長只手\n\n> 拆字類 · 清 · 難度 ★★\n\n**謎面**：一人一張口，口下長只手\n**謎底**：拿\n\n## 解析\n「拿」字上「合」下「手」。「合」由「人」「一」「口」合成，正是「一人一張口」。\n其下再長出一「手」，即「口下長只手」。上下相合得「拿」。屬拆字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 8,
+      "marks": [
+        {
+          "ch": "张",
+          "cands": [
+            "張"
+          ],
+          "pick": "張",
+          "decision": "table"
+        },
+        {
+          "ch": "长",
+          "cands": [
+            "長"
+          ],
+          "pick": "長",
+          "decision": "table"
+        },
+        {
+          "ch": "张",
+          "cands": [
+            "張"
+          ],
+          "pick": "張",
+          "decision": "table"
+        },
+        {
+          "ch": "长",
+          "cands": [
+            "長"
+          ],
+          "pick": "長",
+          "decision": "table"
+        },
+        {
+          "ch": "长",
+          "cands": [
+            "長"
+          ],
+          "pick": "長",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
       "id": "yiren-zainei",
       "title": "一人在内",
       "title_t": "一人在内",
@@ -1859,6 +2401,220 @@
             "錄"
           ],
           "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "yibian-lv-yibian-hong",
+      "title": "一边绿，一边红，一边吃水，一边生火",
+      "title_t": "一邊绿，一邊红，一邊吃水，一邊生火",
+      "answer": "秋",
+      "answer_t": "秋",
+      "jie": "「秋」字左「禾」右「火」。「禾」是庄稼草木，颜色是绿；「火」的颜色是红。\n庄稼禾苗靠水灌溉（吃水），火苗则能生火。左右两半各对一句，合起来正是「秋」。属拆字法。",
+      "jie_t": "「秋」字左「禾」右「火」。「禾」是庄稼草木，颜色是绿；「火」的颜色是红。\n庄稼禾苗靠水灌溉（吃水），火苗则能生火。左右兩半各對一句，合起來正是「秋」。屬拆字法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: yibian-lv-yibian-hong\ntitle: 一邊绿，一邊红，一邊吃水，一邊生火\nanswer: 秋\nanswer_len: 1\ntype: 拆字\nsubtype: 左右\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 颜色, 自然]\n---\n\n# 一邊绿，一邊红，一邊吃水，一邊生火\n\n> 拆字類 · 清 · 難度 ★★\n\n**謎面**：一邊绿，一邊红，一邊吃水，一邊生火\n**謎底**：秋\n\n## 解析\n「秋」字左「禾」右「火」。「禾」是庄稼草木，颜色是绿；「火」的颜色是红。\n庄稼禾苗靠水灌溉（吃水），火苗则能生火。左右兩半各對一句，合起來正是「秋」。屬拆字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 10,
+      "marks": [
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "对",
+          "cands": [
+            "對"
+          ],
+          "pick": "對",
+          "decision": "table"
+        },
+        {
+          "ch": "来",
+          "cands": [
+            "來"
+          ],
+          "pick": "來",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "yibian-yu-yibian-yang",
+      "title": "一边是鱼，一边是羊，两边不一样",
+      "title_t": "一邊是鱼，一邊是羊，兩邊不一样",
+      "answer": "鲜",
+      "answer_t": "鲜",
+      "jie": "「鲜」字左「鱼」右「羊」，左右两半截然不同，故「两边不一样」。\n鱼与羊皆为鲜美之味，合为「鲜」字。属拆字法。",
+      "jie_t": "「鲜」字左「鱼」右「羊」，左右兩半截然不同，故「兩邊不一样」。\n鱼與羊皆為鲜美之味，合為「鲜」字。屬拆字法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: yibian-yu-yibian-yang\ntitle: 一邊是鱼，一邊是羊，兩邊不一样\nanswer: 鲜\nanswer_len: 1\ntype: 拆字\nsubtype: 左右\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 动物]\n---\n\n# 一邊是鱼，一邊是羊，兩邊不一样\n\n> 拆字類 · 清 · 難度 ★\n\n**謎面**：一邊是鱼，一邊是羊，兩邊不一样\n**謎底**：鲜\n\n## 解析\n「鲜」字左「鱼」右「羊」，左右兩半截然不同，故「兩邊不一样」。\n鱼與羊皆為鲜美之味，合為「鲜」字。屬拆字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 13,
+      "marks": [
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "边",
+          "cands": [
+            "邊"
+          ],
+          "pick": "邊",
+          "decision": "table"
+        },
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
           "decision": "table"
         }
       ]
@@ -2459,6 +3215,160 @@
       ]
     },
     {
+      "id": "shangshan-haishui",
+      "title": "山上还有水",
+      "title_t": "山上還有水",
+      "answer": "汕",
+      "answer_t": "汕",
+      "jie": "「汕」字左「山」右「水」。谜面「山上还有水」，即在「山」旁再添「水」，\n左右相合得「汕」。属拆字法。",
+      "jie_t": "「汕」字左「山」右「水」。謎面「山上還有水」，即在「山」旁再添「水」，\n左右相合得「汕」。屬拆字法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: shangshan-haishui\ntitle: 山上還有水\nanswer: 汕\nanswer_len: 1\ntype: 拆字\nsubtype: 左右\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 自然]\n---\n\n# 山上還有水\n\n> 拆字類 · 清 · 難度 ★\n\n**謎面**：山上還有水\n**謎底**：汕\n\n## 解析\n「汕」字左「山」右「水」。謎面「山上還有水」，即在「山」旁再添「水」，\n左右相合得「汕」。屬拆字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 6,
+      "marks": [
+        {
+          "ch": "还",
+          "cands": [
+            "還"
+          ],
+          "pick": "還",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "还",
+          "cands": [
+            "還"
+          ],
+          "pick": "還",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "rifu-yiri",
+      "title": "日复一日",
+      "title_t": "日複一日",
+      "answer": "昌",
+      "answer_t": "昌",
+      "jie": "「昌」字上「日」下「日」，正是两个「日」相叠。「日复一日」即一日又一日，\n上下两「日」合成「昌」。属拆字法。",
+      "jie_t": "「昌」字上「日」下「日」，正是兩個「日」相疊。「日複一日」即一日又一日，\n上下兩「日」合成「昌」。屬拆字法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: rifu-yiri\ntitle: 日複一日\nanswer: 昌\nanswer_len: 1\ntype: 拆字\nsubtype: 上下\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 时間]\n---\n\n# 日複一日\n\n> 拆字類 · 清 · 難度 ★\n\n**謎面**：日複一日\n**謎底**：昌\n\n## 解析\n「昌」字上「日」下「日」，正是兩個「日」相疊。「日複一日」即一日又一日，\n上下兩「日」合成「昌」。屬拆字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 9,
+      "marks": [
+        {
+          "ch": "复",
+          "cands": [
+            "複",
+            "復"
+          ],
+          "pick": "複",
+          "decision": "rule",
+          "reason": "本站只有「重复 / 复字」义，无「恢复 / 报复」义，取「複」。"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "叠",
+          "cands": [
+            "疊"
+          ],
+          "pick": "疊",
+          "decision": "table"
+        },
+        {
+          "ch": "复",
+          "cands": [
+            "複",
+            "復"
+          ],
+          "pick": "複",
+          "decision": "rule",
+          "reason": "本站只有「重复 / 复字」义，无「恢复 / 报复」义，取「複」。"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
       "id": "qishier-xiaoshi",
       "title": "七十二小时",
       "title_t": "七十二小时",
@@ -2649,6 +3559,172 @@
       ]
     },
     {
+      "id": "bashiba",
+      "title": "八十八",
+      "title_t": "八十八",
+      "answer": "米",
+      "answer_t": "米",
+      "jie": "「米」字可拆为两个「八」加中间一「十」（八、十、八）。谜面「八十八」即八、十、八相合，\n合成「米」。属数字拆字法。",
+      "jie_t": "「米」字可拆為兩個「八」加中間一「十」（八、十、八）。謎面「八十八」即八、十、八相合，\n合成「米」。屬數字拆字法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: bashiba\ntitle: 八十八\nanswer: 米\nanswer_len: 1\ntype: 數字\nsubtype: 數字\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [數字, 食物]\n---\n\n# 八十八\n\n> 數字類 · 清 · 難度 ★\n\n**謎面**：八十八\n**謎底**：米\n\n## 解析\n「米」字可拆為兩個「八」加中間一「十」（八、十、八）。謎面「八十八」即八、十、八相合，\n合成「米」。屬數字拆字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 9,
+      "marks": [
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "间",
+          "cands": [
+            "間"
+          ],
+          "pick": "間",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "shi'er-ge-yue",
+      "title": "十二个月",
+      "title_t": "十二個月",
+      "answer": "年",
+      "answer_t": "年",
+      "jie": "一年共有十二个月。「十二个月」即「年」。属数字会意法。",
+      "jie_t": "一年共有十二個月。「十二個月」即「年」。屬數字會意法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: shi'er-ge-yue\ntitle: 十二個月\nanswer: 年\nanswer_len: 1\ntype: 數字\nsubtype: 纪年\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [數字, 时間]\n---\n\n# 十二個月\n\n> 數字類 · 清 · 難度 ★\n\n**謎面**：十二個月\n**謎底**：年\n\n## 解析\n一年共有十二個月。「十二個月」即「年」。屬數字會意法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 8,
+      "marks": [
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
       "id": "shangxia-xianglian",
       "title": "上下相连",
       "title_t": "上下相連",
@@ -2834,6 +3910,726 @@
             "錄"
           ],
           "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "erliang-mianhua",
+      "title": "二两棉花",
+      "title_t": "二兩棉花",
+      "answer": "谈",
+      "answer_t": "谈",
+      "jie": "歇后语「二两棉花——谈（弹）不上线」：二两棉花太少，纺不出线，即「弹不上线」。\n「谈」与「弹」谐音，谜底取「谈」。属谐音法。",
+      "jie_t": "歇后语「二兩棉花——谈（弹）不上线」：二兩棉花太少，纺不出线，即「弹不上线」。\n「谈」與「弹」諧音，謎底取「谈」。屬諧音法。",
+      "chu": "见民间歇后语（S1），网络开放收藏亦见（S2）。",
+      "chu_t": "見民間歇后语（S1），网络开放收藏亦見（S2）。",
+      "body_t": "---\nid: erliang-mianhua\ntitle: 二兩棉花\nanswer: 谈\nanswer_len: 1\ntype: 諧音\nsubtype: 歇后\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S2\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [諧音, 歇后, 物品]\n---\n\n# 二兩棉花\n\n> 諧音類 · 清 · 難度 ★★\n\n**謎面**：二兩棉花\n**謎底**：谈\n\n## 解析\n歇后语「二兩棉花——谈（弹）不上线」：二兩棉花太少，纺不出线，即「弹不上线」。\n「谈」與「弹」諧音，謎底取「谈」。屬諧音法。\n\n## 出處\n見民間歇后语（S1），网络开放收藏亦見（S2）。\n",
+      "converted": 11,
+      "marks": [
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "谐",
+          "cands": [
+            "諧"
+          ],
+          "pick": "諧",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "谐",
+          "cands": [
+            "諧"
+          ],
+          "pick": "諧",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "间",
+          "cands": [
+            "間"
+          ],
+          "pick": "間",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "shiwu-ge-tong",
+      "title": "十五个桶",
+      "title_t": "十五個桶",
+      "answer": "忍",
+      "answer_t": "忍",
+      "jie": "歇后语「十五个桶——忍（捅）气」：十五个「桶」即「忍」字（「忍」可拆为「十」「五」「心」，\n又与「捅」谐音）。谜底取「忍」。属谐音法。",
+      "jie_t": "歇后语「十五個桶——忍（捅）气」：十五個「桶」即「忍」字（「忍」可拆為「十」「五」「心」，\n又與「捅」諧音）。謎底取「忍」。屬諧音法。",
+      "chu": "见民间歇后语（S1），网络开放收藏亦见（S2）。",
+      "chu_t": "見民間歇后语（S1），网络开放收藏亦見（S2）。",
+      "body_t": "---\nid: shiwu-ge-tong\ntitle: 十五個桶\nanswer: 忍\nanswer_len: 1\ntype: 諧音\nsubtype: 歇后\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S2\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [諧音, 歇后, 數字]\n---\n\n# 十五個桶\n\n> 諧音類 · 清 · 難度 ★★\n\n**謎面**：十五個桶\n**謎底**：忍\n\n## 解析\n歇后语「十五個桶——忍（捅）气」：十五個「桶」即「忍」字（「忍」可拆為「十」「五」「心」，\n又與「捅」諧音）。謎底取「忍」。屬諧音法。\n\n## 出處\n見民間歇后语（S1），网络开放收藏亦見（S2）。\n",
+      "converted": 12,
+      "marks": [
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "个",
+          "cands": [
+            "個"
+          ],
+          "pick": "個",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "谐",
+          "cands": [
+            "諧"
+          ],
+          "pick": "諧",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "谐",
+          "cands": [
+            "諧"
+          ],
+          "pick": "諧",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "间",
+          "cands": [
+            "間"
+          ],
+          "pick": "間",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "waisheng-da-denglong",
+      "title": "外甥打灯笼",
+      "title_t": "外甥打灯笼",
+      "answer": "照",
+      "answer_t": "照",
+      "jie": "歇后语「外甥打灯笼——照（舅）姑」：外甥提着灯笼照向舅舅、姑姑。\n「照」与「舅」谐音，谜底取「照」。属谐音法。",
+      "jie_t": "歇后语「外甥打灯笼——照（舅）姑」：外甥提着灯笼照向舅舅、姑姑。\n「照」與「舅」諧音，謎底取「照」。屬諧音法。",
+      "chu": "见民间歇后语（S1），网络开放收藏亦见（S2）。",
+      "chu_t": "見民間歇后语（S1），网络开放收藏亦見（S2）。",
+      "body_t": "---\nid: waisheng-da-denglong\ntitle: 外甥打灯笼\nanswer: 照\nanswer_len: 1\ntype: 諧音\nsubtype: 歇后\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S2\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [諧音, 歇后, 人体]\n---\n\n# 外甥打灯笼\n\n> 諧音類 · 清 · 難度 ★★\n\n**謎面**：外甥打灯笼\n**謎底**：照\n\n## 解析\n歇后语「外甥打灯笼——照（舅）姑」：外甥提着灯笼照向舅舅、姑姑。\n「照」與「舅」諧音，謎底取「照」。屬諧音法。\n\n## 出處\n見民間歇后语（S1），网络开放收藏亦見（S2）。\n",
+      "converted": 8,
+      "marks": [
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "谐",
+          "cands": [
+            "諧"
+          ],
+          "pick": "諧",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "谐",
+          "cands": [
+            "諧"
+          ],
+          "pick": "諧",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "间",
+          "cands": [
+            "間"
+          ],
+          "pick": "間",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "daguniang-zuo-huajiao",
+      "title": "大姑娘坐花轿",
+      "title_t": "大姑娘坐花轿",
+      "answer": "迎",
+      "answer_t": "迎",
+      "jie": "歇后语「大姑娘坐花轿——迎（迎）亲」：姑娘坐花轿是去迎亲出嫁。\n谜底取「迎」。属谐音法。",
+      "jie_t": "歇后语「大姑娘坐花轿——迎（迎）亲」：姑娘坐花轿是去迎亲出嫁。\n謎底取「迎」。屬諧音法。",
+      "chu": "见民间歇后语（S1），网络开放收藏亦见（S2）。",
+      "chu_t": "見民間歇后语（S1），网络开放收藏亦見（S2）。",
+      "body_t": "---\nid: daguniang-zuo-huajiao\ntitle: 大姑娘坐花轿\nanswer: 迎\nanswer_len: 1\ntype: 諧音\nsubtype: 歇后\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S2\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [諧音, 歇后, 人体]\n---\n\n# 大姑娘坐花轿\n\n> 諧音類 · 清 · 難度 ★★\n\n**謎面**：大姑娘坐花轿\n**謎底**：迎\n\n## 解析\n歇后语「大姑娘坐花轿——迎（迎）亲」：姑娘坐花轿是去迎亲出嫁。\n謎底取「迎」。屬諧音法。\n\n## 出處\n見民間歇后语（S1），网络开放收藏亦見（S2）。\n",
+      "converted": 6,
+      "marks": [
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "谐",
+          "cands": [
+            "諧"
+          ],
+          "pick": "諧",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "间",
+          "cands": [
+            "間"
+          ],
+          "pick": "間",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "dajiao-chuan-xiaoxie",
+      "title": "大脚穿小鞋",
+      "title_t": "大脚穿小鞋",
+      "answer": "难",
+      "answer_t": "難",
+      "jie": "歇后语「大脚穿小鞋——难（难）」：大脚硬塞进小鞋，十分为难、别扭。\n谜底取「难」。属谐音法。",
+      "jie_t": "歇后语「大脚穿小鞋——難（難）」：大脚硬塞進小鞋，十分為難、别扭。\n謎底取「難」。屬諧音法。",
+      "chu": "见民间歇后语（S1），网络开放收藏亦见（S2）。",
+      "chu_t": "見民間歇后语（S1），网络开放收藏亦見（S2）。",
+      "body_t": "---\nid: dajiao-chuan-xiaoxie\ntitle: 大脚穿小鞋\nanswer: 難\nanswer_len: 1\ntype: 諧音\nsubtype: 歇后\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1+S2\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [諧音, 歇后, 物品]\n---\n\n# 大脚穿小鞋\n\n> 諧音類 · 清 · 難度 ★\n\n**謎面**：大脚穿小鞋\n**謎底**：難\n\n## 解析\n歇后语「大脚穿小鞋——難（難）」：大脚硬塞進小鞋，十分為難、别扭。\n謎底取「難」。屬諧音法。\n\n## 出處\n見民間歇后语（S1），网络开放收藏亦見（S2）。\n",
+      "converted": 13,
+      "marks": [
+        {
+          "ch": "难",
+          "cands": [
+            "難"
+          ],
+          "pick": "難",
+          "decision": "table"
+        },
+        {
+          "ch": "难",
+          "cands": [
+            "難"
+          ],
+          "pick": "難",
+          "decision": "table"
+        },
+        {
+          "ch": "难",
+          "cands": [
+            "難"
+          ],
+          "pick": "難",
+          "decision": "table"
+        },
+        {
+          "ch": "进",
+          "cands": [
+            "進"
+          ],
+          "pick": "進",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "难",
+          "cands": [
+            "難"
+          ],
+          "pick": "難",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "难",
+          "cands": [
+            "難"
+          ],
+          "pick": "難",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "谐",
+          "cands": [
+            "諧"
+          ],
+          "pick": "諧",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "间",
+          "cands": [
+            "間"
+          ],
+          "pick": "間",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "kongfuzi-banjia",
+      "title": "孔夫子搬家",
+      "title_t": "孔夫子搬家",
+      "answer": "书",
+      "answer_t": "书",
+      "jie": "歇后语「孔夫子搬家——净是书（输）」：孔夫子满腹经纶，搬家的东西净是书。\n「书」与「输」谐音，谜底取「书」。属谐音法。",
+      "jie_t": "歇后语「孔夫子搬家——净是书（输）」：孔夫子满腹经纶，搬家的东西净是书。\n「书」與「输」諧音，謎底取「书」。屬諧音法。",
+      "chu": "见民间歇后语（S1），网络开放收藏亦见（S2）。",
+      "chu_t": "見民間歇后语（S1），网络开放收藏亦見（S2）。",
+      "body_t": "---\nid: kongfuzi-banjia\ntitle: 孔夫子搬家\nanswer: 书\nanswer_len: 1\ntype: 諧音\nsubtype: 歇后\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S2\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [諧音, 歇后, 典故]\n---\n\n# 孔夫子搬家\n\n> 諧音類 · 清 · 難度 ★★\n\n**謎面**：孔夫子搬家\n**謎底**：书\n\n## 解析\n歇后语「孔夫子搬家——净是书（输）」：孔夫子满腹经纶，搬家的东西净是书。\n「书」與「输」諧音，謎底取「书」。屬諧音法。\n\n## 出處\n見民間歇后语（S1），网络开放收藏亦見（S2）。\n",
+      "converted": 8,
+      "marks": [
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "谐",
+          "cands": [
+            "諧"
+          ],
+          "pick": "諧",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "谐",
+          "cands": [
+            "諧"
+          ],
+          "pick": "諧",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "间",
+          "cands": [
+            "間"
+          ],
+          "pick": "間",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "xiaotongban-doufu",
+      "title": "小葱拌豆腐",
+      "title_t": "小葱拌豆腐",
+      "answer": "清",
+      "answer_t": "清",
+      "jie": "歇后语「小葱拌豆腐——一清（青）二白」：小葱青、豆腐白，分明是「一青二白」。\n「清」与「青」谐音，谜底取「清」。属谐音法。",
+      "jie_t": "歇后语「小葱拌豆腐——一清（青）二白」：小葱青、豆腐白，分明是「一青二白」。\n「清」與「青」諧音，謎底取「清」。屬諧音法。",
+      "chu": "见民间歇后语（S1），网络开放收藏亦见（S2）。",
+      "chu_t": "見民間歇后语（S1），网络开放收藏亦見（S2）。",
+      "body_t": "---\nid: xiaotongban-doufu\ntitle: 小葱拌豆腐\nanswer: 清\nanswer_len: 1\ntype: 諧音\nsubtype: 歇后\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S2\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [諧音, 歇后, 食物]\n---\n\n# 小葱拌豆腐\n\n> 諧音類 · 清 · 難度 ★★\n\n**謎面**：小葱拌豆腐\n**謎底**：清\n\n## 解析\n歇后语「小葱拌豆腐——一清（青）二白」：小葱青、豆腐白，分明是「一青二白」。\n「清」與「青」諧音，謎底取「清」。屬諧音法。\n\n## 出處\n見民間歇后语（S1），网络开放收藏亦見（S2）。\n",
+      "converted": 8,
+      "marks": [
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "谐",
+          "cands": [
+            "諧"
+          ],
+          "pick": "諧",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "谐",
+          "cands": [
+            "諧"
+          ],
+          "pick": "諧",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "间",
+          "cands": [
+            "間"
+          ],
+          "pick": "間",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "zhulan-dashui",
+      "title": "竹篮打水",
+      "title_t": "竹篮打水",
+      "answer": "场",
+      "answer_t": "场",
+      "jie": "歇后语「竹篮打水——一场空」：用竹篮打水，水会从缝隙漏光，最终一无所获，即「一场空」。\n谜底取谐音字「场」（一场空）。属谐音法。",
+      "jie_t": "歇后语「竹篮打水——一场空」：用竹篮打水，水會從缝隙漏光，最终一无所获，即「一场空」。\n謎底取諧音字「场」（一场空）。屬諧音法。",
+      "chu": "见民间歇后语（S1），网络开放收藏亦见（S2）。",
+      "chu_t": "見民間歇后语（S1），网络开放收藏亦見（S2）。",
+      "body_t": "---\nid: zhulan-dashui\ntitle: 竹篮打水\nanswer: 场\nanswer_len: 1\ntype: 諧音\nsubtype: 歇后\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S2\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [諧音, 歇后, 物品]\n---\n\n# 竹篮打水\n\n> 諧音類 · 清 · 難度 ★★\n\n**謎面**：竹篮打水\n**謎底**：场\n\n## 解析\n歇后语「竹篮打水——一场空」：用竹篮打水，水會從缝隙漏光，最终一无所获，即「一场空」。\n謎底取諧音字「场」（一场空）。屬諧音法。\n\n## 出處\n見民間歇后语（S1），网络开放收藏亦見（S2）。\n",
+      "converted": 9,
+      "marks": [
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "从",
+          "cands": [
+            "從"
+          ],
+          "pick": "從",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "谐",
+          "cands": [
+            "諧"
+          ],
+          "pick": "諧",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "谐",
+          "cands": [
+            "諧"
+          ],
+          "pick": "諧",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "间",
+          "cands": [
+            "間"
+          ],
+          "pick": "間",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
           "decision": "table"
         }
       ]
@@ -3224,6 +5020,124 @@
             "錄"
           ],
           "pick": "錄",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "taiyang-gua-zai-shushao",
+      "title": "太阳挂在树梢",
+      "title_t": "太阳掛在树梢",
+      "answer": "杲",
+      "answer_t": "杲",
+      "jie": "「杲」字上「日」下「木」。太阳（日）挂在树（木）的梢头，即「日」在「木」之上。\n象形会意得「杲」。属象形法。",
+      "jie_t": "「杲」字上「日」下「木」。太阳（日）掛在树（木）的梢頭，即「日」在「木」之上。\n象形會意得「杲」。屬象形法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: taiyang-gua-zai-shushao\ntitle: 太阳掛在树梢\nanswer: 杲\nanswer_len: 1\ntype: 象形\nsubtype: 上下\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [象形, 自然]\n---\n\n# 太阳掛在树梢\n\n> 象形類 · 清 · 難度 ★★\n\n**謎面**：太阳掛在树梢\n**謎底**：杲\n\n## 解析\n「杲」字上「日」下「木」。太阳（日）掛在树（木）的梢頭，即「日」在「木」之上。\n象形會意得「杲」。屬象形法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 7,
+      "marks": [
+        {
+          "ch": "挂",
+          "cands": [
+            "掛"
+          ],
+          "pick": "掛",
+          "decision": "table"
+        },
+        {
+          "ch": "挂",
+          "cands": [
+            "掛"
+          ],
+          "pick": "掛",
+          "decision": "table"
+        },
+        {
+          "ch": "头",
+          "cands": [
+            "頭"
+          ],
+          "pick": "頭",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "taiyang-luo-zai-shushao",
+      "title": "太阳落在树梢",
+      "title_t": "太阳落在树梢",
+      "answer": "杳",
+      "answer_t": "杳",
+      "jie": "「杳」字上「木」下「日」。太阳（日）落在树（木）的底下，即「日」在「木」之下。\n象形会意得「杳」。属象形法。",
+      "jie_t": "「杳」字上「木」下「日」。太阳（日）落在树（木）的底下，即「日」在「木」之下。\n象形會意得「杳」。屬象形法。",
+      "chu": "见《字謎大全》等古典字谜集（S1）。",
+      "chu_t": "見《字謎大全》等古典字謎集（S1）。",
+      "body_t": "---\nid: taiyang-luo-zai-shushao\ntitle: 太阳落在树梢\nanswer: 杳\nanswer_len: 1\ntype: 象形\nsubtype: 上下\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [象形, 自然]\n---\n\n# 太阳落在树梢\n\n> 象形類 · 清 · 難度 ★★\n\n**謎面**：太阳落在树梢\n**謎底**：杳\n\n## 解析\n「杳」字上「木」下「日」。太阳（日）落在树（木）的底下，即「日」在「木」之下。\n象形會意得「杳」。屬象形法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "converted": 4,
+      "marks": [
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
           "decision": "table"
         }
       ]

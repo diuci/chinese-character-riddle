@@ -1,16 +1,17 @@
 {
   "version": 1,
-  "count": 26,
+  "count": 48,
   "types": {
     "会意": 6,
-    "典故": 1,
-    "增损": 4,
+    "典故": 2,
+    "增损": 8,
     "当代": 1,
-    "拆字": 8,
-    "数字": 2,
+    "拆字": 13,
+    "数字": 4,
     "方位": 1,
     "离合": 1,
-    "象形": 2
+    "谐音": 8,
+    "象形": 4
   },
   "riddles": [
     {
@@ -146,6 +147,29 @@
       "path": "riddles/会意/一家一口.md"
     },
     {
+      "id": "simazhao-zhixin",
+      "title": "司马昭之心",
+      "answer": "腹",
+      "answer_len": 1,
+      "type": "典故",
+      "subtype": "成语",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "典故",
+        "成语",
+        "历史"
+      ],
+      "path": "riddles/典故/司马昭之心.md"
+    },
+    {
       "id": "sanguo-qimen",
       "title": "三过其门",
       "answer": "不",
@@ -190,6 +214,28 @@
       "path": "riddles/增损/山上还有山.md"
     },
     {
+      "id": "shi'er-dian",
+      "title": "十二点",
+      "answer": "斗",
+      "answer_len": 1,
+      "type": "增损",
+      "subtype": "增减",
+      "difficulty": 1,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "增损",
+        "数字"
+      ],
+      "path": "riddles/增损/十二点.md"
+    },
+    {
       "id": "duo-yiban",
       "title": "多一半",
       "answer": "夕",
@@ -210,6 +256,72 @@
         "叠字"
       ],
       "path": "riddles/增损/多一半.md"
+    },
+    {
+      "id": "shiba-kou",
+      "title": "十八口",
+      "answer": "杏",
+      "answer_len": 1,
+      "type": "增损",
+      "subtype": "增减",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "增损",
+        "数字"
+      ],
+      "path": "riddles/增损/十八口.md"
+    },
+    {
+      "id": "yibian-shui-yibian-huo",
+      "title": "一边是水，一边是火",
+      "answer": "灭",
+      "answer_len": 1,
+      "type": "增损",
+      "subtype": "增减",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "增损",
+        "自然"
+      ],
+      "path": "riddles/增损/一边水一边火.md"
+    },
+    {
+      "id": "yiren-tiao-liang-xiaoren",
+      "title": "一人挑两小人",
+      "answer": "夹",
+      "answer_len": 1,
+      "type": "增损",
+      "subtype": "增减",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "增损",
+        "人体"
+      ],
+      "path": "riddles/增损/一人挑两小人.md"
     },
     {
       "id": "banbu-chunqiu",
@@ -279,6 +391,50 @@
       "path": "riddles/当代/人言诚信为本.md"
     },
     {
+      "id": "rifu-yiri",
+      "title": "日复一日",
+      "answer": "昌",
+      "answer_len": 1,
+      "type": "拆字",
+      "subtype": "上下",
+      "difficulty": 1,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "拆字",
+        "时间"
+      ],
+      "path": "riddles/拆字/日复一日.md"
+    },
+    {
+      "id": "shangshan-haishui",
+      "title": "山上还有水",
+      "answer": "汕",
+      "answer_len": 1,
+      "type": "拆字",
+      "subtype": "左右",
+      "difficulty": 1,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "拆字",
+        "自然"
+      ],
+      "path": "riddles/拆字/山上还有水.md"
+    },
+    {
       "id": "shikou-zhangkou",
       "title": "十张口",
       "answer": "田",
@@ -299,6 +455,28 @@
         "拼合"
       ],
       "path": "riddles/拆字/十张口.md"
+    },
+    {
+      "id": "yibian-yu-yibian-yang",
+      "title": "一边是鱼，一边是羊，两边不一样",
+      "answer": "鲜",
+      "answer_len": 1,
+      "type": "拆字",
+      "subtype": "左右",
+      "difficulty": 1,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "拆字",
+        "动物"
+      ],
+      "path": "riddles/拆字/一边鱼一边羊.md"
     },
     {
       "id": "ren-zai-cao-mu-zhong",
@@ -343,6 +521,51 @@
         "拼合"
       ],
       "path": "riddles/拆字/十口心思.md"
+    },
+    {
+      "id": "yibian-lv-yibian-hong",
+      "title": "一边绿，一边红，一边吃水，一边生火",
+      "answer": "秋",
+      "answer_len": 1,
+      "type": "拆字",
+      "subtype": "左右",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "拆字",
+        "颜色",
+        "自然"
+      ],
+      "path": "riddles/拆字/一边绿一边红.md"
+    },
+    {
+      "id": "yiren-yizhang-kou",
+      "title": "一人一张口，口下长只手",
+      "answer": "拿",
+      "answer_len": 1,
+      "type": "拆字",
+      "subtype": "上下",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "拆字",
+        "人体"
+      ],
+      "path": "riddles/拆字/一人一张口.md"
     },
     {
       "id": "banged-bandu",
@@ -455,6 +678,50 @@
       "path": "riddles/拆字/一人在内.md"
     },
     {
+      "id": "bashiba",
+      "title": "八十八",
+      "answer": "米",
+      "answer_len": 1,
+      "type": "数字",
+      "subtype": "数字",
+      "difficulty": 1,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "数字",
+        "食物"
+      ],
+      "path": "riddles/数字/八十八.md"
+    },
+    {
+      "id": "shi'er-ge-yue",
+      "title": "十二个月",
+      "answer": "年",
+      "answer_len": 1,
+      "type": "数字",
+      "subtype": "纪年",
+      "difficulty": 1,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "数字",
+        "时间"
+      ],
+      "path": "riddles/数字/十二个月.md"
+    },
+    {
       "id": "jiushijiu",
       "title": "九十九",
       "answer": "百",
@@ -541,6 +808,234 @@
         "各半"
       ],
       "path": "riddles/离合/半推半就.md"
+    },
+    {
+      "id": "dajiao-chuan-xiaoxie",
+      "title": "大脚穿小鞋",
+      "answer": "难",
+      "answer_len": 1,
+      "type": "谐音",
+      "subtype": "歇后",
+      "difficulty": 1,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1+S2",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "谐音",
+        "歇后",
+        "物品"
+      ],
+      "path": "riddles/谐音/大脚穿小鞋.md"
+    },
+    {
+      "id": "daguniang-zuo-huajiao",
+      "title": "大姑娘坐花轿",
+      "answer": "迎",
+      "answer_len": 1,
+      "type": "谐音",
+      "subtype": "歇后",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1+S2",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "谐音",
+        "歇后",
+        "人体"
+      ],
+      "path": "riddles/谐音/大姑娘坐花轿.md"
+    },
+    {
+      "id": "erliang-mianhua",
+      "title": "二两棉花",
+      "answer": "谈",
+      "answer_len": 1,
+      "type": "谐音",
+      "subtype": "歇后",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1+S2",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "谐音",
+        "歇后",
+        "物品"
+      ],
+      "path": "riddles/谐音/二两棉花.md"
+    },
+    {
+      "id": "kongfuzi-banjia",
+      "title": "孔夫子搬家",
+      "answer": "书",
+      "answer_len": 1,
+      "type": "谐音",
+      "subtype": "歇后",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1+S2",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "谐音",
+        "歇后",
+        "典故"
+      ],
+      "path": "riddles/谐音/孔夫子搬家.md"
+    },
+    {
+      "id": "shiwu-ge-tong",
+      "title": "十五个桶",
+      "answer": "忍",
+      "answer_len": 1,
+      "type": "谐音",
+      "subtype": "歇后",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1+S2",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "谐音",
+        "歇后",
+        "数字"
+      ],
+      "path": "riddles/谐音/十五个桶.md"
+    },
+    {
+      "id": "waisheng-da-denglong",
+      "title": "外甥打灯笼",
+      "answer": "照",
+      "answer_len": 1,
+      "type": "谐音",
+      "subtype": "歇后",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1+S2",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "谐音",
+        "歇后",
+        "人体"
+      ],
+      "path": "riddles/谐音/外甥打灯笼.md"
+    },
+    {
+      "id": "xiaotongban-doufu",
+      "title": "小葱拌豆腐",
+      "answer": "清",
+      "answer_len": 1,
+      "type": "谐音",
+      "subtype": "歇后",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1+S2",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "谐音",
+        "歇后",
+        "食物"
+      ],
+      "path": "riddles/谐音/小葱拌豆腐.md"
+    },
+    {
+      "id": "zhulan-dashui",
+      "title": "竹篮打水",
+      "answer": "场",
+      "answer_len": 1,
+      "type": "谐音",
+      "subtype": "歇后",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1+S2",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "谐音",
+        "歇后",
+        "物品"
+      ],
+      "path": "riddles/谐音/竹篮打水.md"
+    },
+    {
+      "id": "taiyang-gua-zai-shushao",
+      "title": "太阳挂在树梢",
+      "answer": "杲",
+      "answer_len": 1,
+      "type": "象形",
+      "subtype": "上下",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "象形",
+        "自然"
+      ],
+      "path": "riddles/象形/太阳挂在树梢.md"
+    },
+    {
+      "id": "taiyang-luo-zai-shushao",
+      "title": "太阳落在树梢",
+      "answer": "杳",
+      "answer_len": 1,
+      "type": "象形",
+      "subtype": "上下",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "象形",
+        "自然"
+      ],
+      "path": "riddles/象形/太阳落在树梢.md"
     },
     {
       "id": "yilun-wanyue",
