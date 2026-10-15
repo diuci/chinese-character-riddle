@@ -16,7 +16,7 @@
 
 ## 收录清单（契约）
 
-当前收录 70 篇，覆盖全部 10 个谜种。谐音类已由 0 补齐（以经典歇后语谐音谜，
+当前收录 93 篇，覆盖全部 10 个谜种。谐音类已由 0 补齐（以经典歇后语谐音谜，
 来源确证、谜底无歧义）。每篇均有唯一谜底与完整解析，无近似重复。
 
 | id | 谜种 | 谜底 |
@@ -34,6 +34,7 @@
 | yibian-yu-yibian-yang | 拆字 | 鲜 |
 | shangshan-haishui | 拆字 | 汕 |
 | rifu-yiri | 拆字 | 昌 |
+| chunxiang-lianye-tinqinsheng | 拆字 | 秦 |
 | yijian-chuanxin | 会意 | 必 |
 | yiye-you-yiye | 会意 | 多 |
 | simian-boutu-feng | 会意 | 口 |
@@ -46,6 +47,8 @@
 | changhe-luori-yuan | 会意 | 旦 |
 | bashan-kangding | 会意 | 夯 |
 | xiaochuaner-tui-kai-bolang | 会意 | 心 |
+| bu-zai-zhuang-ya-xian-zhen-shen | 会意 | 显 |
+| gushen-piaoling-jin-haizai | 会意 | 生 |
 | zhulan-dashui | 谐音 | 场 |
 | waisheng-da-denglong | 谐音 | 照 |
 | xiaotongban-doufu | 谐音 | 清 |
@@ -75,6 +78,26 @@
 | shuidiao-getou | 增损 | 河 |
 | youli-jixi | 增损 | 鸟 |
 | chengchi-ban-canpo | 增损 | 地 |
+| shizai-gaige-jiuguo-gai | 增损 | 早 |
+| cizi-yongxin-fang-wude | 增损 | 五 |
+| ernv-shuangquan | 增损 | 好 |
+| jianshui-zhongri-liu | 增损 | 门 |
+| wangyou-zoudian | 增损 | 王 |
+| renren-douyou-xiongxin | 增损 | 众 |
+| ershiriyi-you-jinqian | 增损 | 错 |
+| lingzhan-xinzi-lie-qianmao | 增损 | 茄 |
+| yifu-zhongjian-youge-dong | 增损 | 哀 |
+| sanxing-cuoluo-ying-tianya | 增损 | 六 |
+| baotou-xiaxuele | 增损 | 雹 |
+| ciren-zhuanggan-dangguanle | 增损 | 仕 |
+| zhi-cha-bazi-weixie | 增损 | 嗟 |
+| shaoshidui-duiqi-piaoyang | 增损 | 从 |
+| dì-er-ci-jiànmiàn | 增损 | 观 |
+| tianli-paodao-tianwai | 增损 | 叶 |
+| dayu-luo-zai-hengshang | 增损 | 雪 |
+| housheng-xiaozi | 增损 | 孙 |
+| youde-shifen | 增损 | 对 |
+| yishi-tongren-liu-guan-zhang | 增损 | 仨 |
 | bantui-banjiu | 离合 | 掠 |
 | sanguo-qimen | 典故 | 不 |
 | simazhao-zhixin | 典故 | 腹 |
