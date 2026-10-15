@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "count": 93,
+  "count": 97,
   "types": {
     "会意": 14,
     "典故": 2,
-    "增损": 41,
+    "增损": 45,
     "当代": 1,
     "拆字": 14,
     "数字": 6,
@@ -726,6 +726,52 @@
       "path": "riddles/增损/第二次见面.md"
     },
     {
+      "id": "erren-xiangfeng-chuan-fuyin",
+      "title": "二人相逢传福音",
+      "answer": "夫",
+      "answer_len": 1,
+      "type": "增损",
+      "subtype": "组合",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S3",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "增损",
+        "组合",
+        "人"
+      ],
+      "path": "riddles/增损/二人相逢传福音.md"
+    },
+    {
+      "id": "erren-yuzhong-cang",
+      "title": "二人雨中藏",
+      "answer": "两",
+      "answer_len": 1,
+      "type": "增损",
+      "subtype": "组合",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S3",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "增损",
+        "组合",
+        "人"
+      ],
+      "path": "riddles/增损/二人雨中藏.md"
+    },
+    {
       "id": "houtou-yincang-bujianle",
       "title": "猴头隐藏不见了",
       "answer": "侯",
@@ -856,6 +902,28 @@
         "左右"
       ],
       "path": "riddles/增损/田里跑到田外.md"
+    },
+    {
+      "id": "tianzhong-bujian-ren",
+      "title": "田中不见人",
+      "answer": "囚",
+      "answer_len": 1,
+      "type": "增损",
+      "subtype": "嵌字",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S3",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "增损",
+        "嵌字"
+      ],
+      "path": "riddles/增损/田中不见人.md"
     },
     {
       "id": "wangyou-zoudian",
@@ -1033,6 +1101,29 @@
         "减损"
       ],
       "path": "riddles/增损/又离鸡西.md"
+    },
+    {
+      "id": "youxin-ru-men-nan-touqi",
+      "title": "有心入门难透气",
+      "answer": "闷",
+      "answer_len": 1,
+      "type": "增损",
+      "subtype": "上下",
+      "difficulty": 2,
+      "author": "佚名",
+      "era": "清",
+      "source": "S3",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "增损",
+        "上下",
+        "心"
+      ],
+      "path": "riddles/增损/有心入门难透气.md"
     },
     {
       "id": "zhi-cha-bazi-weixie",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 93,
+  "count": 97,
   "note": "繁简派生产物。引擎 tools/build-traditional.py 唯一事实源。",
   "rows": [
     {
@@ -2286,6 +2286,204 @@
       ]
     },
     {
+      "id": "erren-xiangfeng-chuan-fuyin",
+      "title": "二人相逢传福音",
+      "title_t": "二人相逢傳福音",
+      "answer": "夫",
+      "answer_t": "夫",
+      "jie": "「夫」字为「一」下「人」，即二人相叠。「二人相逢」扣「夫」（一人与一人相合），「传福音」会「夫」（夫者，天也，传天福音）。属增损法。",
+      "jie_t": "「夫」字為「一」下「人」，即二人相疊。「二人相逢」扣「夫」（一人與一人相合），「傳福音」會「夫」（夫者，天也，傳天福音）。屬增損法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: erren-xiangfeng-chuan-fuyin\ntitle: 二人相逢傳福音\nanswer: 夫\nanswer_len: 1\ntype: 增損\nsubtype: 組合\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 組合, 人]\n---\n\n# 二人相逢傳福音\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：二人相逢傳福音\n**謎底**：夫\n\n## 解析\n「夫」字為「一」下「人」，即二人相疊。「二人相逢」扣「夫」（一人與一人相合），「傳福音」會「夫」（夫者，天也，傳天福音）。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 12,
+      "marks": [
+        {
+          "ch": "传",
+          "cands": [
+            "傳"
+          ],
+          "pick": "傳",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "叠",
+          "cands": [
+            "疊"
+          ],
+          "pick": "疊",
+          "decision": "table"
+        },
+        {
+          "ch": "与",
+          "cands": [
+            "與"
+          ],
+          "pick": "與",
+          "decision": "table"
+        },
+        {
+          "ch": "传",
+          "cands": [
+            "傳"
+          ],
+          "pick": "傳",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "传",
+          "cands": [
+            "傳"
+          ],
+          "pick": "傳",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "erren-yuzhong-cang",
+      "title": "二人雨中藏",
+      "title_t": "二人雨中藏",
+      "answer": "两",
+      "answer_t": "兩",
+      "jie": "「两」字上「一」下「人」「人」。「二人」扣「人」「人」，「雨中」扣「一」（雨字头）。合之得「两」。属增损法。",
+      "jie_t": "「兩」字上「一」下「人」「人」。「二人」扣「人」「人」，「雨中」扣「一」（雨字頭）。合之得「兩」。屬增損法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: erren-yuzhong-cang\ntitle: 二人雨中藏\nanswer: 兩\nanswer_len: 1\ntype: 增損\nsubtype: 組合\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 組合, 人]\n---\n\n# 二人雨中藏\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：二人雨中藏\n**謎底**：兩\n\n## 解析\n「兩」字上「一」下「人」「人」。「二人」扣「人」「人」，「雨中」扣「一」（雨字頭）。合之得「兩」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 9,
+      "marks": [
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "头",
+          "cands": [
+            "頭"
+          ],
+          "pick": "頭",
+          "decision": "table"
+        },
+        {
+          "ch": "两",
+          "cands": [
+            "兩"
+          ],
+          "pick": "兩",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
       "id": "ershiriyi-you-jinqian",
       "title": "二十一日有金钱",
       "title_t": "二十一日有金钱",
@@ -4122,6 +4320,125 @@
       ]
     },
     {
+      "id": "youxin-ru-men-nan-touqi",
+      "title": "有心入门难透气",
+      "title_t": "有心入門難透气",
+      "answer": "闷",
+      "answer_t": "闷",
+      "jie": "「闷」字外「门」内「心」。「有心」扣「心」，「入门」扣「门」包在外。心入门中，气闷难透，正会「闷」字。属增损法。",
+      "jie_t": "「闷」字外「門」内「心」。「有心」扣「心」，「入門」扣「門」包在外。心入門中，气闷難透，正會「闷」字。屬增損法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: youxin-ru-men-nan-touqi\ntitle: 有心入門難透气\nanswer: 闷\nanswer_len: 1\ntype: 增損\nsubtype: 上下\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 上下, 心]\n---\n\n# 有心入門難透气\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：有心入門難透气\n**謎底**：闷\n\n## 解析\n「闷」字外「門」内「心」。「有心」扣「心」，「入門」扣「門」包在外。心入門中，气闷難透，正會「闷」字。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 13,
+      "marks": [
+        {
+          "ch": "门",
+          "cands": [
+            "門"
+          ],
+          "pick": "門",
+          "decision": "table"
+        },
+        {
+          "ch": "难",
+          "cands": [
+            "難"
+          ],
+          "pick": "難",
+          "decision": "table"
+        },
+        {
+          "ch": "门",
+          "cands": [
+            "門"
+          ],
+          "pick": "門",
+          "decision": "table"
+        },
+        {
+          "ch": "门",
+          "cands": [
+            "門"
+          ],
+          "pick": "門",
+          "decision": "table"
+        },
+        {
+          "ch": "门",
+          "cands": [
+            "門"
+          ],
+          "pick": "門",
+          "decision": "table"
+        },
+        {
+          "ch": "门",
+          "cands": [
+            "門"
+          ],
+          "pick": "門",
+          "decision": "table"
+        },
+        {
+          "ch": "难",
+          "cands": [
+            "難"
+          ],
+          "pick": "難",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
       "id": "youmeiyou-shangbian",
       "title": "有没有上边",
       "title_t": "有沒有上邊",
@@ -4666,6 +4983,85 @@
             "損"
           ],
           "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "损",
+          "cands": [
+            "損"
+          ],
+          "pick": "損",
+          "decision": "table"
+        },
+        {
+          "ch": "谜",
+          "cands": [
+            "謎"
+          ],
+          "pick": "謎",
+          "decision": "table"
+        },
+        {
+          "ch": "数",
+          "cands": [
+            "數"
+          ],
+          "pick": "數",
+          "decision": "table"
+        },
+        {
+          "ch": "据",
+          "cands": [
+            "據"
+          ],
+          "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "tianzhong-bujian-ren",
+      "title": "田中不见人",
+      "title_t": "田中不見人",
+      "answer": "囚",
+      "answer_t": "囚",
+      "jie": "「囚」字为「囗」（方框）内嵌「人」。「田中」扣「囗」（田字去十），「不见人」扣「人」在框内。合之得「囚」。属增损法。",
+      "jie_t": "「囚」字為「囗」（方框）内嵌「人」。「田中」扣「囗」（田字去十），「不見人」扣「人」在框内。合之得「囚」。屬增損法。",
+      "chu": "CC-Riddle 汉字谜语数据集（S3）。",
+      "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
+      "body_t": "---\nid: tianzhong-bujian-ren\ntitle: 田中不見人\nanswer: 囚\nanswer_len: 1\ntype: 增損\nsubtype: 嵌字\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 嵌字]\n---\n\n# 田中不見人\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：田中不見人\n**謎底**：囚\n\n## 解析\n「囚」字為「囗」（方框）内嵌「人」。「田中」扣「囗」（田字去十），「不見人」扣「人」在框内。合之得「囚」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "converted": 8,
+      "marks": [
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
+          "decision": "table"
+        },
+        {
+          "ch": "为",
+          "cands": [
+            "為"
+          ],
+          "pick": "為",
+          "decision": "table"
+        },
+        {
+          "ch": "见",
+          "cands": [
+            "見"
+          ],
+          "pick": "見",
           "decision": "table"
         },
         {

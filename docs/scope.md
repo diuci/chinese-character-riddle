@@ -16,7 +16,7 @@
 
 ## 收录清单（契约）
 
-当前收录 93 篇，覆盖全部 10 个谜种。谐音类已由 0 补齐（以经典歇后语谐音谜，
+当前收录 97 篇，覆盖全部 10 个谜种。谐音类已由 0 补齐（以经典歇后语谐音谜，
 来源确证、谜底无歧义）。每篇均有唯一谜底与完整解析，无近似重复。
 
 | id | 谜种 | 谜底 |
@@ -98,6 +98,10 @@
 | housheng-xiaozi | 增损 | 孙 |
 | youde-shifen | 增损 | 对 |
 | yishi-tongren-liu-guan-zhang | 增损 | 仨 |
+| tianzhong-bujian-ren | 增损 | 囚 |
+| erren-yuzhong-cang | 增损 | 两 |
+| youxin-ru-men-nan-touqi | 增损 | 闷 |
+| erren-xiangfeng-chuan-fuyin | 增损 | 夫 |
 | bantui-banjiu | 离合 | 掠 |
 | sanguo-qimen | 典故 | 不 |
 | simazhao-zhixin | 典故 | 腹 |
