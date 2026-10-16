@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "count": 97,
+  "count": 98,
   "types": {
-    "会意": 14,
+    "会意": 15,
     "典故": 2,
     "增损": 45,
     "当代": 1,
@@ -321,6 +321,28 @@
         "拆合"
       ],
       "path": "riddles/会意/一家一口.md"
+    },
+    {
+      "id": "si-yuan-gong-jiao-er-she-zhi",
+      "title": "思援弓缴而射之",
+      "answer": "忒",
+      "answer_len": 1,
+      "type": "会意",
+      "subtype": "典籍",
+      "difficulty": 4,
+      "author": "徐枕亚",
+      "era": "清",
+      "source": "S1",
+      "license": "public-domain",
+      "copyright": {
+        "text": "public-domain",
+        "annotations": "cc-by-4.0"
+      },
+      "tags": [
+        "会意",
+        "典籍"
+      ],
+      "path": "riddles/会意/思援弓缴而射之.md"
     },
     {
       "id": "simazhao-zhixin",

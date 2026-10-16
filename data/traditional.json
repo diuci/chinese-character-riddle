@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 97,
+  "count": 98,
   "note": "繁简派生产物。引擎 tools/build-traditional.py 唯一事实源。",
   "rows": [
     {
@@ -1113,6 +1113,45 @@
             "據"
           ],
           "pick": "據",
+          "decision": "table"
+        }
+      ]
+    },
+    {
+      "id": "si-yuan-gong-jiao-er-she-zhi",
+      "title": "思援弓缴而射之",
+      "title_t": "思援弓缴而射之",
+      "answer": "忒",
+      "answer_t": "忒",
+      "jie": "「思援弓缴而射之」出自《孟子·告子上》（思援弓缴而射之，谓思引弓搭箭射天鹅）。引弓而射，矢不中的，正是「忒」——忒者，差失、未中也。以射失会「忒」字，属会意法。",
+      "jie_t": "「思援弓缴而射之」出自《孟子·告子上》（思援弓缴而射之，谓思引弓搭箭射天鹅）。引弓而射，矢不中的，正是「忒」——忒者，差失、未中也。以射失會「忒」字，屬會意法。",
+      "chu": "《文虎偶存》（清·徐枕亚），维基文库公版。",
+      "chu_t": "《文虎偶存》（清·徐枕亚），维基文库公版。",
+      "body_t": "---\nid: si-yuan-gong-jiao-er-she-zhi\ntitle: 思援弓缴而射之\nanswer: 忒\nanswer_len: 1\ntype: 會意\nsubtype: 典籍\ndifficulty: 4\nauthor: 徐枕亚\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 典籍]\n---\n\n# 思援弓缴而射之\n\n> 會意類 · 清 · 難度 ★★★★\n\n**謎面**：思援弓缴而射之\n**謎底**：忒\n\n## 解析\n「思援弓缴而射之」出自《孟子·告子上》（思援弓缴而射之，谓思引弓搭箭射天鹅）。引弓而射，矢不中的，正是「忒」——忒者，差失、未中也。以射失會「忒」字，屬會意法。\n\n## 出處\n《文虎偶存》（清·徐枕亚），维基文库公版。\n",
+      "converted": 3,
+      "marks": [
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
+          "decision": "table"
+        },
+        {
+          "ch": "属",
+          "cands": [
+            "屬"
+          ],
+          "pick": "屬",
+          "decision": "table"
+        },
+        {
+          "ch": "会",
+          "cands": [
+            "會"
+          ],
+          "pick": "會",
           "decision": "table"
         }
       ]

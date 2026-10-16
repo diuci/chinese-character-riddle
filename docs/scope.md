@@ -16,7 +16,7 @@
 
 ## 收录清单（契约）
 
-当前收录 97 篇，覆盖全部 10 个谜种。谐音类已由 0 补齐（以经典歇后语谐音谜，
+当前收录 98 篇，覆盖全部 10 个谜种。谐音类已由 0 补齐（以经典歇后语谐音谜，
 来源确证、谜底无歧义）。每篇均有唯一谜底与完整解析，无近似重复。
 
 | id | 谜种 | 谜底 |
@@ -49,6 +49,7 @@
 | xiaochuaner-tui-kai-bolang | 会意 | 心 |
 | bu-zai-zhuang-ya-xian-zhen-shen | 会意 | 显 |
 | gushen-piaoling-jin-haizai | 会意 | 生 |
+| si-yuan-gong-jiao-er-she-zhi | 会意 | 忒 |
 | zhulan-dashui | 谐音 | 场 |
 | waisheng-da-denglong | 谐音 | 照 |
 | xiaotongban-doufu | 谐音 | 清 |
