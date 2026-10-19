@@ -530,7 +530,21 @@
         "叠字",
         "植物"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "木",
+            "from": "木",
+            "op": "full"
+          },
+          {
+            "part": "木",
+            "from": "木",
+            "op": "full"
+          }
+        ],
+        "result": "林"
+      },
       "path": "riddles/增损/二木成林.md"
     },
     {
@@ -554,7 +568,21 @@
         "左右",
         "家庭"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "女",
+            "from": "女",
+            "op": "full"
+          },
+          {
+            "part": "子",
+            "from": "子",
+            "op": "full"
+          }
+        ],
+        "result": "好"
+      },
       "path": "riddles/增损/儿女双全.md"
     },
     {
@@ -602,7 +630,26 @@
         "叠字",
         "人"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "人",
+            "from": "人",
+            "op": "full"
+          },
+          {
+            "part": "人",
+            "from": "人",
+            "op": "full"
+          },
+          {
+            "part": "人",
+            "from": "人",
+            "op": "full"
+          }
+        ],
+        "result": "众"
+      },
       "path": "riddles/增损/人人都有雄心.md"
     },
     {
@@ -718,7 +765,21 @@
         "增损",
         "方位"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "上",
+            "from": "上",
+            "op": "full"
+          },
+          {
+            "part": "下",
+            "from": "下",
+            "op": "full"
+          }
+        ],
+        "result": "卡"
+      },
       "path": "riddles/增损/一上一下.md"
     },
     {
@@ -741,7 +802,16 @@
         "增损",
         "减损"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "月",
+            "from": "有",
+            "op": "minus"
+          }
+        ],
+        "result": "月"
+      },
       "path": "riddles/增损/有没有上边.md"
     },
     {
@@ -764,7 +834,21 @@
         "增损",
         "上下"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "自",
+            "from": "自",
+            "op": "full"
+          },
+          {
+            "part": "小",
+            "from": "小",
+            "op": "full"
+          }
+        ],
+        "result": "省"
+      },
       "path": "riddles/增损/自小好节俭.md"
     },
     {
@@ -787,7 +871,21 @@
         "增损",
         "上下"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "包",
+            "from": "包",
+            "op": "full"
+          },
+          {
+            "part": "雨",
+            "from": "雪",
+            "op": "part"
+          }
+        ],
+        "result": "雹"
+      },
       "path": "riddles/增损/包头下雪了.md"
     },
     {
@@ -811,7 +909,21 @@
         "左右",
         "人"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "亻",
+            "from": "此",
+            "op": "free"
+          },
+          {
+            "part": "士",
+            "from": "士",
+            "op": "free"
+          }
+        ],
+        "result": "仕"
+      },
       "path": "riddles/增损/此人转干当官了.md"
     },
     {
@@ -857,7 +969,16 @@
         "减半",
         "叠字"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "夕",
+            "from": "多",
+            "op": "minus"
+          }
+        ],
+        "result": "夕"
+      },
       "path": "riddles/增损/多一半.md"
     },
     {
@@ -880,7 +1001,21 @@
         "增损",
         "左右"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "又",
+            "from": "又",
+            "op": "full"
+          },
+          {
+            "part": "见",
+            "from": "见",
+            "op": "full"
+          }
+        ],
+        "result": "观"
+      },
       "path": "riddles/增损/第二次见面.md"
     },
     {
@@ -1020,7 +1155,26 @@
         "增损",
         "数字"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "十",
+            "from": "十",
+            "op": "full"
+          },
+          {
+            "part": "八",
+            "from": "八",
+            "op": "full"
+          },
+          {
+            "part": "口",
+            "from": "口",
+            "op": "full"
+          }
+        ],
+        "result": "杏"
+      },
       "path": "riddles/增损/十八口.md"
     },
     {
@@ -1135,7 +1289,16 @@
         "增损",
         "减损"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "九",
+            "from": "旭",
+            "op": "minus"
+          }
+        ],
+        "result": "九"
+      },
       "path": "riddles/增损/旭日东升.md"
     },
     {
@@ -1181,7 +1344,21 @@
         "增损",
         "增减"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "衣",
+            "from": "衣",
+            "op": "full"
+          },
+          {
+            "part": "口",
+            "from": "洞",
+            "op": "free"
+          }
+        ],
+        "result": "哀"
+      },
       "path": "riddles/增损/衣服中间有个洞.md"
     },
     {
@@ -1274,7 +1451,16 @@
         "增损",
         "减损"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "鸟",
+            "from": "鸡",
+            "op": "minus"
+          }
+        ],
+        "result": "鸟"
+      },
       "path": "riddles/增损/又离鸡西.md"
     },
     {
@@ -1298,7 +1484,21 @@
         "上下",
         "心"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "门",
+            "from": "门",
+            "op": "full"
+          },
+          {
+            "part": "心",
+            "from": "心",
+            "op": "full"
+          }
+        ],
+        "result": "闷"
+      },
       "path": "riddles/增损/有心入门难透气.md"
     },
     {
@@ -1506,7 +1706,21 @@
         "增损",
         "左右"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "氵",
+            "from": "水",
+            "op": "free"
+          },
+          {
+            "part": "哥",
+            "from": "歌",
+            "op": "part"
+          }
+        ],
+        "result": "河"
+      },
       "path": "riddles/增损/水调歌头.md"
     },
     {
@@ -1529,7 +1743,16 @@
         "增损",
         "减损"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "非",
+            "from": "罪",
+            "op": "minus"
+          }
+        ],
+        "result": "非"
+      },
       "path": "riddles/增损/罪该斩首.md"
     },
     {
