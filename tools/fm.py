@@ -4,9 +4,14 @@
 
 只支持本仓用到的 YAML 子集：
     - `key: value`            （value 可为 int / 裸字符串 / 引号字符串）
-    - `key: [a, b, c]`        （行内列表）
-    - `key: { a: b, c: d }`   （行内映射）
+    - `key: [a, b, c]`        （行内列表，元素递归解析 → 可嵌套 {…} 映射）
+    - `key: { a: b, c: d }`   （行内映射，值递归解析 → 可嵌套 […] 列表）
     - `key: null` / 空        （None）
+
+嵌套支持（structure 拆解数据需要）：列表元素与映射的值都按「值」递归解析，
+因此 `[{ part: 上, from: 上, op: full }]` 会得到 dict 列表，
+而不是一串原始字符串。行内形式是刻意的：解析器不碰块式 YAML，
+structure 必须写成一行（换行会被当成新键）。
 
 不引第三方库，是为了让工具链在 CI 上无需 pip install 就能跑。
 解析失败会抛 `FmError`，由调用方决定是报错还是自检。
@@ -113,13 +118,17 @@ def _parse_value(val):
         inner = val[1:-1].strip()
         if not inner:
             return []
-        return [_parse_scalar(x) for x in _split_inline(inner)]
+        # 列表元素递归按「值」解析：{…} 项才能得到映射而不是字符串
+        return [_parse_value(x) for x in _split_inline(inner)]
     if val.startswith('{') and val.endswith('}'):
         inner = val[1:-1].strip()
         out = {}
         if inner:
             for part in _split_inline(inner):
                 k, _, v = part.partition(':')
-                out[k.strip()] = _parse_scalar(v)
+                # 映射的值同样递归：{ ops: [{…}], result: 卡 } 这种嵌套才立得住。
+                # v 必须先 strip——partition 后的值带前导空格，不去掉就会
+                # 错过列表/映射分支、退化成纯字符串（自检当场抓到过）。
+                out[k.strip()] = _parse_value(v.strip())
         return out
     return _parse_scalar(val)

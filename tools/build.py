@@ -25,9 +25,11 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import fm  # noqa: E402
 
 # 篇目 frontmatter 里序列化进 riddles.json 的字段（固定顺序 → 产物可复算）
+# structure 是解字台/字谜工坊用的拆解数据 {ops, result}，没有的篇目为 null（打字兜底）
 FIELDS = [
     'id', 'title', 'answer', 'answer_len', 'type', 'subtype',
     'difficulty', 'author', 'era', 'source', 'license', 'copyright', 'tags',
+    'structure',
 ]
 
 
@@ -158,6 +160,34 @@ def selftest():
         # checksums 必须覆盖该文件
         if not any('山上还有山.md' in k for k in __import__('json').loads(c1)):
             failures.append('checksums 未覆盖源文件')
+        # 无 structure 的篇目必须是 null（打字兜底），不能是缺键或字符串
+        if j1['riddles'][0].get('structure') is not None:
+            failures.append('未标注 structure 应为 null：%s' % j1['riddles'][0]['structure'])
+
+        # 带行内嵌套 structure 的篇目：fm 递归解析 → dict 完整往返进 riddles.json
+        # （structure 必须真的一行写完——fm 按行解析，拆行会被当成新键，正好被这个用例挡住）
+        rich = good.replace(
+            'tags: [叠字]\n',
+            'tags: [叠字]\n'
+            'structure: { ops: [{ part: 山, from: 山, op: full }, { part: 山, from: 山, op: full }], result: 出 }\n',
+        )
+        (rdir / '增损' / '山上还有山.md').write_text(rich, encoding='utf-8')
+        out4 = tdr / 'out4'
+        build(rdir, out4)
+        j4 = json.loads((out4 / 'riddles.json').read_text(encoding='utf-8'))
+        st = j4['riddles'][0].get('structure')
+        ok_st = (
+            isinstance(st, dict)
+            and st.get('result') == '出'
+            and isinstance(st.get('ops'), list) and len(st['ops']) == 2
+            and all(isinstance(o, dict) and o.get('op') == 'full'
+                    and o.get('part') == '山' and o.get('from') == '山'
+                    for o in st['ops'])
+        )
+        if not ok_st:
+            failures.append('structure 嵌套解析失败：%r' % (st,))
+        # 还原成无 structure，保证后面的索引用例不受影响
+        (rdir / '增损' / '山上还有山.md').write_text(good, encoding='utf-8')
 
         # 索引.md 不应被当成内容
         (rdir / '增损' / '索引.md').write_text('# 索引\n', encoding='utf-8')

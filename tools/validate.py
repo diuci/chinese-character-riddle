@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""validate.py — 字谜内容仓十项校验（任何一项失败即 exit 1）
+"""validate.py — 字谜内容仓十一项校验（任何一项失败即 exit 1）
 
 沿用「文档即契约」：docs/scope.md 里的收录清单是第 1 项的可执行契约。
 每个检查都是一个纯函数 `checkN(riddles, ctx) -> [错误串]`，这样
 `--selftest` 可以直接拿坏样本喂给单个检查，证明它真的拦得住坏例子，
 而不是摆设。
 
-十项校验：
+十一项校验：
     1. 收录范围完整性  —— scope.md 要求收录的必须齐，框架外的不得多收
     2. id 唯一性       —— 全库 id 不重复
     3. 谜底字段        —— answer 非空、answer_len 与 answer 字数一致
@@ -18,6 +18,7 @@
     8. 公版证据        —— license=public-domain 且 era=当代 的署名作者，卒年须 ≤ 当前年−50
     9. 去重            —— 谜面完全重复或互为子串，须登记 known-defects.json
     10. 谜种合法       —— type 必须取自合法集
+    11. 拆解自洽       —— structure 拆解数据的形状与自洽性（没有该数据的篇目跳过，走打字兜底）
 
 用法：
     python tools/validate.py             # 完整校验（第 1 项生效）
@@ -44,6 +45,13 @@ REQUIRED = ['id', 'title', 'answer', 'answer_len', 'type', 'difficulty',
 
 # 谜种合法集（第 10 项），与 docs/scope.md 的分类一致。
 TYPES = ['拆字', '会意', '谐音', '增损', '离合', '典故', '象形', '方位', '数字', '当代']
+
+# 拆解操作合法集（第 11 项）。part 永远是「拼装时用的那个部件字」：
+#   full   全取（part 必须等于 from）
+#   half   取左半（如 推 → 扌）   half_r  取右半（如 推 → 京）
+#   part   取某部件，不问方位（会意代字，如 夜 → 夕）
+#   minus  减笔（如 山 减一横 → 彐）   plus  加笔
+STRUCT_OPS = ['full', 'half', 'half_r', 'part', 'minus', 'plus']
 
 # 我国《著作权法》：自然人作品保护期为作者终生及其死亡后第 50 年的 12 月 31 日。
 COPYRIGHT_YEARS = 50
@@ -260,6 +268,56 @@ def check10_type(riddles):
     return errs
 
 
+def check11_structure(riddles):
+    """structure 拆解数据的形状与自洽性。
+
+    只查「形状 + 声明自洽」：部件怎么拼成 result（拼装关系）没有
+    程序化数据可验（无 IDS 部件库），部件选得对不对靠人审与玩法呈现。
+    没写 structure 的篇目直接跳过 —— 打字兜底是合法状态，不是缺失。
+    """
+    errs = []
+    for r in riddles:
+        st = r.get('structure')
+        if st is None:
+            continue
+        rid = r.get('id')
+        if not isinstance(st, dict):
+            errs.append('%s structure 必须是映射 {ops, result}，实得 %s'
+                        % (rid, type(st).__name__))
+            continue
+        ops = st.get('ops')
+        result = st.get('result')
+        if not isinstance(ops, list) or not ops:
+            errs.append('%s structure.ops 必须是非空列表' % rid)
+            continue
+        if result is None or str(result) == '':
+            errs.append('%s structure.result 缺失' % rid)
+            continue
+        if str(result) != str(r.get('answer')):
+            errs.append('%s 拆解结果 %r 与谜底 %r 不一致'
+                        % (rid, result, r.get('answer')))
+        title = str(r.get('title') or '')
+        for i, op in enumerate(ops):
+            where = '%s structure.ops[%d]' % (rid, i)
+            if not isinstance(op, dict):
+                errs.append('%s 必须是映射 {part, from, op}' % where)
+                continue
+            o = op.get('op')
+            frm = op.get('from')
+            part = op.get('part')
+            if o not in STRUCT_OPS:
+                errs.append('%s op 非法：%r（合法集：%s）' % (where, o, '/'.join(STRUCT_OPS)))
+            if frm is None or len(str(frm)) != 1:
+                errs.append('%s from 必须是单字，实得 %r' % (where, frm))
+            elif str(frm) not in title:
+                errs.append('%s from %r 不在谜面 %r 里' % (where, frm, title))
+            if part is None or len(str(part)) != 1:
+                errs.append('%s part 必须是单字部件，实得 %r' % (where, part))
+            elif o == 'full' and str(part) != str(frm):
+                errs.append('%s op=full 时 part 必须等于 from' % where)
+    return errs
+
+
 # -------------------------------------------------- 汇总
 def run_checks(riddles, ctx, partial=False):
     scope, authors, defects, year = ctx['scope'], ctx['authors'], ctx['defects'], ctx['year']
@@ -274,6 +332,7 @@ def run_checks(riddles, ctx, partial=False):
         ('公版证据', check8_publicdomain(riddles, authors, year), False),
         ('去重', check9_dedup(riddles, defects), False),
         ('谜种合法', check10_type(riddles), False),
+        ('拆解自洽', check11_structure(riddles), False),
     ]
     total_err, total_warn = 0, 0
     for name, errs, skipped in groups:
@@ -287,6 +346,8 @@ def run_checks(riddles, ctx, partial=False):
                 print('         - ' + e)
         else:
             print('%s [ok] %s' % (C.OK, name))
+    n_st = sum(1 for r in riddles if r.get('structure'))
+    print('%s[info] 拆解数据覆盖：%d / %d 篇（其余走打字兜底）%s' % (C.DIM, n_st, len(riddles), C.END))
     return total_err
 
 
@@ -310,9 +371,9 @@ def main(argv=None):
     errs = run_checks(riddles, ctx, partial)
     print()
     if errs:
-        print('%s%d 项校验共 %d 个错误%s' % (C.FAIL, 10, errs, C.END))
+        print('%s%d 项校验共 %d 个错误%s' % (C.FAIL, 11, errs, C.END))
         return 1
-    print('%s十项校验全绿（%d 篇谜目）%s' % (C.OK, len(riddles), C.END))
+    print('%s十一项校验全绿（%d 篇谜目）%s' % (C.OK, len(riddles), C.END))
     return 0
 
 
@@ -342,6 +403,24 @@ def selftest():
             [rec(license='public-domain', era='当代', author='在世作者')], authors, 2026)),
         ('check9 谜面重复', lambda: check9_dedup([rec(title='谜面'), rec(id='y', title='谜面')], set())),
         ('check10 谜种非法', lambda: check10_type([rec(type='乱造')])),
+        # check11 坏样本：七个角度
+        ('check11 structure 非映射', lambda: check11_structure([rec(structure=' ops ')])),
+        ('check11 ops 空列表', lambda: check11_structure(
+            [rec(structure={'ops': [], 'result': '出'})])),
+        ('check11 result 缺失', lambda: check11_structure(
+            [rec(structure={'ops': [{'part': '山', 'from': '山', 'op': 'full'}]})])),
+        ('check11 result 与谜底不符', lambda: check11_structure(
+            [rec(structure={'ops': [{'part': '山', 'from': '山', 'op': 'full'}], 'result': '山'})])),
+        ('check11 op 非法', lambda: check11_structure(
+            [rec(structure={'ops': [{'part': '山', 'from': '山', 'op': 'swap'}], 'result': '出'})])),
+        ('check11 from 不在谜面', lambda: check11_structure(
+            [rec(structure={'ops': [{'part': '口', 'from': '口', 'op': 'full'}], 'result': '出'})])),
+        ('check11 part 非单字', lambda: check11_structure(
+            [rec(structure={'ops': [{'part': '山山', 'from': '山', 'op': 'full'}], 'result': '出'})])),
+        ('check11 full 但 part 不等于 from', lambda: check11_structure(
+            [rec(structure={'ops': [{'part': '口', 'from': '山', 'op': 'full'}], 'result': '出'})])),
+        ('check11 op 项非映射', lambda: check11_structure(
+            [rec(structure={'ops': ['山'], 'result': '出'})])),
     ]
     failures = []
     for name, fn in cases:
@@ -365,7 +444,14 @@ def selftest():
                      ('clean-check7', lambda: check7_frontmatter(clean)),
                      ('clean-check8', lambda: check8_publicdomain(clean, authors, 2026)),
                      ('clean-check9', lambda: check9_dedup(clean, set())),
-                     ('clean-check10', lambda: check10_type(clean))]:
+                     ('clean-check10', lambda: check10_type(clean)),
+                     ('clean-check11', lambda: check11_structure(clean)),
+                     ('clean-check11 拆解合法', lambda: check11_structure(
+                         [rec(id='s', title='山上还有山',
+                              structure={'ops': [{'part': '山', 'from': '山', 'op': 'full'},
+                                                 {'part': '山', 'from': '山', 'op': 'full'}],
+                                        'result': '出'})])),
+                     ('clean-check11 无structure跳过', lambda: check11_structure([rec(id='p')]))]:
         try:
             errs = fn()
         except Exception as e:  # noqa: BLE001
@@ -378,7 +464,8 @@ def selftest():
         for f in failures:
             print('  - ' + f)
         return 1
-    print('validate.py selftest ok（12 个坏样本全部拦下，10 个干净样本无误报）')
+    print('validate.py selftest ok（%d 个坏样本全部拦下，%d 个干净样本无误报）'
+          % (len(cases), 12))
     return 0
 
 

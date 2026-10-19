@@ -34,6 +34,7 @@
         "会意",
         "象形"
       ],
+      "structure": null,
       "path": "riddles/会意/小船儿推开波浪.md"
     },
     {
@@ -56,6 +57,7 @@
         "会意",
         "动作"
       ],
+      "structure": null,
       "path": "riddles/会意/拔山扛鼎.md"
     },
     {
@@ -78,6 +80,7 @@
         "会意",
         "动作"
       ],
+      "structure": null,
       "path": "riddles/会意/不再装哑现真身.md"
     },
     {
@@ -100,6 +103,7 @@
         "会意",
         "自然"
       ],
+      "structure": null,
       "path": "riddles/会意/长河落日圆.md"
     },
     {
@@ -122,6 +126,7 @@
         "会意",
         "状态"
       ],
+      "structure": null,
       "path": "riddles/会意/孤身飘零今还在.md"
     },
     {
@@ -144,6 +149,7 @@
         "会意",
         "形意"
       ],
+      "structure": null,
       "path": "riddles/会意/四面不透风.md"
     },
     {
@@ -166,6 +172,7 @@
         "会意",
         "地形"
       ],
+      "structure": null,
       "path": "riddles/会意/外面一口圈里面一口田.md"
     },
     {
@@ -188,6 +195,7 @@
         "会意",
         "形意"
       ],
+      "structure": null,
       "path": "riddles/会意/一箭穿心.md"
     },
     {
@@ -210,6 +218,7 @@
         "会意",
         "叠意"
       ],
+      "structure": null,
       "path": "riddles/会意/一夜又一夜.md"
     },
     {
@@ -232,6 +241,7 @@
         "会意",
         "物品"
       ],
+      "structure": null,
       "path": "riddles/会意/有面无口有脚无手.md"
     },
     {
@@ -254,6 +264,7 @@
         "会意",
         "动物"
       ],
+      "structure": null,
       "path": "riddles/会意/有头无尾有眼无眉.md"
     },
     {
@@ -276,6 +287,7 @@
         "会意",
         "拆合"
       ],
+      "structure": null,
       "path": "riddles/会意/十五天.md"
     },
     {
@@ -298,6 +310,7 @@
         "会意",
         "合数"
       ],
+      "structure": null,
       "path": "riddles/会意/一家十一口.md"
     },
     {
@@ -320,6 +333,7 @@
         "会意",
         "拆合"
       ],
+      "structure": null,
       "path": "riddles/会意/一家一口.md"
     },
     {
@@ -342,6 +356,7 @@
         "会意",
         "典籍"
       ],
+      "structure": null,
       "path": "riddles/会意/思援弓缴而射之.md"
     },
     {
@@ -365,6 +380,7 @@
         "成语",
         "历史"
       ],
+      "structure": null,
       "path": "riddles/典故/司马昭之心.md"
     },
     {
@@ -387,6 +403,7 @@
         "典故",
         "史事"
       ],
+      "structure": null,
       "path": "riddles/典故/三过其门.md"
     },
     {
@@ -410,6 +427,7 @@
         "叠字",
         "植物"
       ],
+      "structure": null,
       "path": "riddles/增损/二木成林.md"
     },
     {
@@ -433,6 +451,7 @@
         "左右",
         "家庭"
       ],
+      "structure": null,
       "path": "riddles/增损/儿女双全.md"
     },
     {
@@ -456,6 +475,7 @@
         "左右",
         "人"
       ],
+      "structure": null,
       "path": "riddles/增损/后生小子.md"
     },
     {
@@ -479,6 +499,7 @@
         "叠字",
         "人"
       ],
+      "structure": null,
       "path": "riddles/增损/人人都有雄心.md"
     },
     {
@@ -501,6 +522,7 @@
         "增损",
         "数字"
       ],
+      "structure": null,
       "path": "riddles/增损/三星错落映天涯.md"
     },
     {
@@ -523,6 +545,7 @@
         "叠字",
         "方位"
       ],
+      "structure": null,
       "path": "riddles/增损/山上还有山.md"
     },
     {
@@ -546,6 +569,7 @@
         "叠字",
         "人"
       ],
+      "structure": null,
       "path": "riddles/增损/少先队队旗飘扬.md"
     },
     {
@@ -568,6 +592,7 @@
         "增损",
         "数字"
       ],
+      "structure": null,
       "path": "riddles/增损/十二点.md"
     },
     {
@@ -590,6 +615,7 @@
         "增损",
         "方位"
       ],
+      "structure": null,
       "path": "riddles/增损/一上一下.md"
     },
     {
@@ -612,6 +638,7 @@
         "增损",
         "减损"
       ],
+      "structure": null,
       "path": "riddles/增损/有没有上边.md"
     },
     {
@@ -634,6 +661,7 @@
         "增损",
         "上下"
       ],
+      "structure": null,
       "path": "riddles/增损/自小好节俭.md"
     },
     {
@@ -656,6 +684,7 @@
         "增损",
         "上下"
       ],
+      "structure": null,
       "path": "riddles/增损/包头下雪了.md"
     },
     {
@@ -679,6 +708,7 @@
         "左右",
         "人"
       ],
+      "structure": null,
       "path": "riddles/增损/此人转干当官了.md"
     },
     {
@@ -701,6 +731,7 @@
         "增损",
         "减损"
       ],
+      "structure": null,
       "path": "riddles/增损/此字用心方悟得.md"
     },
     {
@@ -723,6 +754,7 @@
         "减半",
         "叠字"
       ],
+      "structure": null,
       "path": "riddles/增损/多一半.md"
     },
     {
@@ -745,6 +777,7 @@
         "增损",
         "左右"
       ],
+      "structure": null,
       "path": "riddles/增损/第二次见面.md"
     },
     {
@@ -768,6 +801,7 @@
         "组合",
         "人"
       ],
+      "structure": null,
       "path": "riddles/增损/二人相逢传福音.md"
     },
     {
@@ -791,6 +825,7 @@
         "组合",
         "人"
       ],
+      "structure": null,
       "path": "riddles/增损/二人雨中藏.md"
     },
     {
@@ -813,6 +848,7 @@
         "增损",
         "减损"
       ],
+      "structure": null,
       "path": "riddles/增损/猴头隐藏不见了.md"
     },
     {
@@ -835,6 +871,7 @@
         "增损",
         "减损"
       ],
+      "structure": null,
       "path": "riddles/增损/涧水终日流.md"
     },
     {
@@ -857,6 +894,7 @@
         "增损",
         "增减"
       ],
+      "structure": null,
       "path": "riddles/增损/两点中间一个人.md"
     },
     {
@@ -879,6 +917,7 @@
         "增损",
         "数字"
       ],
+      "structure": null,
       "path": "riddles/增损/十八口.md"
     },
     {
@@ -901,6 +940,7 @@
         "增损",
         "上下"
       ],
+      "structure": null,
       "path": "riddles/增损/十载改革旧貌改.md"
     },
     {
@@ -923,6 +963,7 @@
         "增损",
         "左右"
       ],
+      "structure": null,
       "path": "riddles/增损/田里跑到田外.md"
     },
     {
@@ -945,6 +986,7 @@
         "增损",
         "嵌字"
       ],
+      "structure": null,
       "path": "riddles/增损/田中不见人.md"
     },
     {
@@ -967,6 +1009,7 @@
         "增损",
         "减损"
       ],
+      "structure": null,
       "path": "riddles/增损/往右走点.md"
     },
     {
@@ -989,6 +1032,7 @@
         "增损",
         "减损"
       ],
+      "structure": null,
       "path": "riddles/增损/旭日东升.md"
     },
     {
@@ -1011,6 +1055,7 @@
         "增损",
         "自然"
       ],
+      "structure": null,
       "path": "riddles/增损/一边水一边火.md"
     },
     {
@@ -1033,6 +1078,7 @@
         "增损",
         "增减"
       ],
+      "structure": null,
       "path": "riddles/增损/衣服中间有个洞.md"
     },
     {
@@ -1055,6 +1101,7 @@
         "增损",
         "人体"
       ],
+      "structure": null,
       "path": "riddles/增损/一人挑两小人.md"
     },
     {
@@ -1078,6 +1125,7 @@
         "叠字",
         "人"
       ],
+      "structure": null,
       "path": "riddles/增损/一视同仁刘关张.md"
     },
     {
@@ -1100,6 +1148,7 @@
         "增损",
         "左右"
       ],
+      "structure": null,
       "path": "riddles/增损/又得十分.md"
     },
     {
@@ -1122,6 +1171,7 @@
         "增损",
         "减损"
       ],
+      "structure": null,
       "path": "riddles/增损/又离鸡西.md"
     },
     {
@@ -1145,6 +1195,7 @@
         "上下",
         "心"
       ],
+      "structure": null,
       "path": "riddles/增损/有心入门难透气.md"
     },
     {
@@ -1167,6 +1218,7 @@
         "增损",
         "左右"
       ],
+      "structure": null,
       "path": "riddles/增损/只差八字未写.md"
     },
     {
@@ -1189,6 +1241,7 @@
         "各半",
         "合成"
       ],
+      "structure": null,
       "path": "riddles/增损/半部春秋.md"
     },
     {
@@ -1211,6 +1264,7 @@
         "增损",
         "减损"
       ],
+      "structure": null,
       "path": "riddles/增损/城池半残破.md"
     },
     {
@@ -1233,6 +1287,7 @@
         "增损",
         "上下"
       ],
+      "structure": null,
       "path": "riddles/增损/大雨落在横山上.md"
     },
     {
@@ -1255,6 +1310,7 @@
         "增损",
         "左右"
       ],
+      "structure": null,
       "path": "riddles/增损/二十一日有金钱.md"
     },
     {
@@ -1277,6 +1333,7 @@
         "增损",
         "减损"
       ],
+      "structure": null,
       "path": "riddles/增损/贵州今腾飞.md"
     },
     {
@@ -1300,6 +1357,7 @@
         "上下",
         "植物"
       ],
+      "structure": null,
       "path": "riddles/增损/另展新姿列前茅.md"
     },
     {
@@ -1322,6 +1380,7 @@
         "增损",
         "左右"
       ],
+      "structure": null,
       "path": "riddles/增损/落日在帘钩.md"
     },
     {
@@ -1344,6 +1403,7 @@
         "增损",
         "左右"
       ],
+      "structure": null,
       "path": "riddles/增损/水调歌头.md"
     },
     {
@@ -1366,6 +1426,7 @@
         "增损",
         "减损"
       ],
+      "structure": null,
       "path": "riddles/增损/罪该斩首.md"
     },
     {
@@ -1388,6 +1449,7 @@
         "增损",
         "减损"
       ],
+      "structure": null,
       "path": "riddles/增损/春雨绵绵妻独宿.md"
     },
     {
@@ -1411,6 +1473,7 @@
         "拼合",
         "品德"
       ],
+      "structure": null,
       "path": "riddles/当代/人言诚信为本.md"
     },
     {
@@ -1433,6 +1496,7 @@
         "拆字",
         "时间"
       ],
+      "structure": null,
       "path": "riddles/拆字/日复一日.md"
     },
     {
@@ -1455,6 +1519,7 @@
         "拆字",
         "自然"
       ],
+      "structure": null,
       "path": "riddles/拆字/山上还有水.md"
     },
     {
@@ -1477,6 +1542,7 @@
         "拆字",
         "拼合"
       ],
+      "structure": null,
       "path": "riddles/拆字/十张口.md"
     },
     {
@@ -1499,6 +1565,7 @@
         "拆字",
         "动物"
       ],
+      "structure": null,
       "path": "riddles/拆字/一边鱼一边羊.md"
     },
     {
@@ -1521,6 +1588,7 @@
         "拆字",
         "拼合"
       ],
+      "structure": null,
       "path": "riddles/拆字/人在草木中.md"
     },
     {
@@ -1543,6 +1611,7 @@
         "拆字",
         "拼合"
       ],
+      "structure": null,
       "path": "riddles/拆字/十口心思.md"
     },
     {
@@ -1566,6 +1635,7 @@
         "颜色",
         "自然"
       ],
+      "structure": null,
       "path": "riddles/拆字/一边绿一边红.md"
     },
     {
@@ -1588,6 +1658,7 @@
         "拆字",
         "人体"
       ],
+      "structure": null,
       "path": "riddles/拆字/一人一张口.md"
     },
     {
@@ -1610,6 +1681,7 @@
         "拆字",
         "各半"
       ],
+      "structure": null,
       "path": "riddles/拆字/半耕半读.md"
     },
     {
@@ -1632,6 +1704,7 @@
         "拆字",
         "各半"
       ],
+      "structure": null,
       "path": "riddles/拆字/半青半紫.md"
     },
     {
@@ -1654,6 +1727,7 @@
         "拆字",
         "上下"
       ],
+      "structure": null,
       "path": "riddles/拆字/春香连夜听琴声.md"
     },
     {
@@ -1676,6 +1750,7 @@
         "拆字",
         "拼合"
       ],
+      "structure": null,
       "path": "riddles/拆字/千里相逢.md"
     },
     {
@@ -1698,6 +1773,7 @@
         "拆字",
         "咬损"
       ],
+      "structure": null,
       "path": "riddles/拆字/一口咬掉牛半截.md"
     },
     {
@@ -1720,6 +1796,7 @@
         "拆字",
         "嵌人"
       ],
+      "structure": null,
       "path": "riddles/拆字/一人在内.md"
     },
     {
@@ -1742,6 +1819,7 @@
         "数字",
         "食物"
       ],
+      "structure": null,
       "path": "riddles/数字/八十八.md"
     },
     {
@@ -1765,6 +1843,7 @@
         "叠字",
         "自然"
       ],
+      "structure": null,
       "path": "riddles/数字/三个三日.md"
     },
     {
@@ -1787,6 +1866,7 @@
         "数字",
         "时间"
       ],
+      "structure": null,
       "path": "riddles/数字/十二个月.md"
     },
     {
@@ -1809,6 +1889,7 @@
         "数字",
         "差一"
       ],
+      "structure": null,
       "path": "riddles/数字/九十九.md"
     },
     {
@@ -1831,6 +1912,7 @@
         "数字",
         "三日"
       ],
+      "structure": null,
       "path": "riddles/数字/七十二小时.md"
     },
     {
@@ -1853,6 +1935,7 @@
         "数字",
         "自然"
       ],
+      "structure": null,
       "path": "riddles/数字/一边一半.md"
     },
     {
@@ -1875,6 +1958,7 @@
         "方位",
         "叠字"
       ],
+      "structure": null,
       "path": "riddles/方位/上下相连.md"
     },
     {
@@ -1897,6 +1981,7 @@
         "离合",
         "各半"
       ],
+      "structure": null,
       "path": "riddles/离合/半推半就.md"
     },
     {
@@ -1920,6 +2005,7 @@
         "歇后",
         "物品"
       ],
+      "structure": null,
       "path": "riddles/谐音/大脚穿小鞋.md"
     },
     {
@@ -1943,6 +2029,7 @@
         "歇后",
         "人体"
       ],
+      "structure": null,
       "path": "riddles/谐音/大姑娘坐花轿.md"
     },
     {
@@ -1966,6 +2053,7 @@
         "歇后",
         "物品"
       ],
+      "structure": null,
       "path": "riddles/谐音/二两棉花.md"
     },
     {
@@ -1989,6 +2077,7 @@
         "歇后",
         "典故"
       ],
+      "structure": null,
       "path": "riddles/谐音/孔夫子搬家.md"
     },
     {
@@ -2012,6 +2101,7 @@
         "歇后",
         "数字"
       ],
+      "structure": null,
       "path": "riddles/谐音/十五个桶.md"
     },
     {
@@ -2035,6 +2125,7 @@
         "歇后",
         "人体"
       ],
+      "structure": null,
       "path": "riddles/谐音/外甥打灯笼.md"
     },
     {
@@ -2058,6 +2149,7 @@
         "歇后",
         "食物"
       ],
+      "structure": null,
       "path": "riddles/谐音/小葱拌豆腐.md"
     },
     {
@@ -2081,6 +2173,7 @@
         "歇后",
         "物品"
       ],
+      "structure": null,
       "path": "riddles/谐音/竹篮打水.md"
     },
     {
@@ -2103,6 +2196,7 @@
         "象形",
         "自然"
       ],
+      "structure": null,
       "path": "riddles/象形/日月合璧.md"
     },
     {
@@ -2125,6 +2219,7 @@
         "象形",
         "自然"
       ],
+      "structure": null,
       "path": "riddles/象形/太阳挂在树梢.md"
     },
     {
@@ -2147,6 +2242,7 @@
         "象形",
         "自然"
       ],
+      "structure": null,
       "path": "riddles/象形/太阳落在树梢.md"
     },
     {
@@ -2169,6 +2265,7 @@
         "象形",
         "形似"
       ],
+      "structure": null,
       "path": "riddles/象形/一轮弯月.md"
     },
     {
@@ -2191,6 +2288,7 @@
         "象形",
         "笔画"
       ],
+      "structure": null,
       "path": "riddles/象形/一点一横长.md"
     }
   ]

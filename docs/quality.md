@@ -16,8 +16,35 @@
 
 ## 自检护栏
 
-`python tools/validate.py --selftest` 用 12 个坏样本证明每条护栏真拦得住，
-再用 10 个干净样本证明不误报。护栏是摆设就构建失败。
+`python tools/validate.py --selftest` 用 21 个坏样本证明每条护栏真拦得住，
+再用 12 个干净样本证明不误报。护栏是摆设就构建失败。
+
+## structure 拆解数据（第 11 项校验，2026-10-19 新增）
+
+`structure` 是可选的 frontmatter 字段，给站端「解字台 / 字谜工坊」玩法用：
+声明谜面里哪个字、经什么操作、取出哪个部件。**没写的篇目是合法状态**（走打字兜底），
+写了就必须过第 11 项「拆解自洽」。
+
+```yaml
+# 行内格式（fm 解析器只吃行内嵌套，必须写在一行）
+structure: { ops: [{ part: 上, from: 上, op: full }, { part: 下, from: 下, op: full }], result: 卡 }
+```
+
+| 字段 | 含义 |
+|---|---|
+| `ops[n].from` | 从谜面里取材的**单字**，必须出现在 `title` 里 |
+| `ops[n].op` | `full` 全取 / `half` 取左半 / `half_r` 取右半 / `part` 取部件（会意代字，如 夜→夕）/ `minus` 减笔 / `plus` 加笔 |
+| `ops[n].part` | 拼装时用的**单字部件**；`op: full` 时必须等于 `from` |
+| `result` | 拼装结果，必须与 `answer` 一致（冗余声明，作自检锚） |
+
+**护栏边界（诚实口径）**：第 11 项只查形状与声明自洽（op 合法、from 在谜面里、
+part 是单字、result == answer）。**部件怎么拼成 result 没有程序化数据可验**——
+仓里没有 IDS 部件库（实测 `unicodedata.decomposition` 为空），部件选得对不对
+靠标注人对照「解析」段自查 + 玩法呈现出来给人看。注释器必须先确认解析段
+真的支持这个拆法，再写 structure。
+
+**标注规则**：新收谜目一律带 structure；存量逐步补，补哪篇哪篇过闸
+（`validate.py` 尾行当场报覆盖数 n / 总数）。
 
 ## 宁缺毋滥
 
