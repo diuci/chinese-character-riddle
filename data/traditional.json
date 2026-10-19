@@ -1819,7 +1819,7 @@
       "jie_t": "「夾」字中間一「大」（即「人」），左右各一「人」（即「小人」）。\n一人挑着兩小人，正是「夾」的左右兩「人」加中間「大」。屬增損法。",
       "chu": "见《字謎大全》等古典字谜集（S1）。",
       "chu_t": "見《字謎大全》等古典字謎集（S1）。",
-      "body_t": "---\nid: yiren-tiao-liang-xiaoren\ntitle: 一人挑兩小人\nanswer: 夾\nanswer_len: 1\ntype: 增損\nsubtype: 增減\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 人体]\n---\n\n# 一人挑兩小人\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：一人挑兩小人\n**謎底**：夾\n\n## 解析\n「夾」字中間一「大」（即「人」），左右各一「人」（即「小人」）。\n一人挑着兩小人，正是「夾」的左右兩「人」加中間「大」。屬增損法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "body_t": "---\nid: yiren-tiao-liang-xiaoren\ntitle: 一人挑兩小人\nanswer: 夾\nanswer_len: 1\ntype: 增損\nsubtype: 增減\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 人体]\nstructure: { ops: [{ part: 大, from: 人, op: free }, { part: 人, from: 人, op: full }, { part: 人, from: 人, op: full }], result: 夾 }\n---\n\n# 一人挑兩小人\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：一人挑兩小人\n**謎底**：夾\n\n## 解析\n「夾」字中間一「大」（即「人」），左右各一「人」（即「小人」）。\n一人挑着兩小人，正是「夾」的左右兩「人」加中間「大」。屬增損法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
       "converted": 12,
       "marks": [
         {
@@ -1930,7 +1930,7 @@
       "jie_t": "「仨」字由三個「人」組成（口语「他仨」即三人）。「刘关張」即三個人，正會「仨」之意。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: yishi-tongren-liu-guan-zhang\ntitle: 一视同仁刘关張\nanswer: 仨\nanswer_len: 1\ntype: 增損\nsubtype: 疊字\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 疊字, 人]\n---\n\n# 一视同仁刘关張\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：一视同仁刘关張\n**謎底**：仨\n\n## 解析\n「仨」字由三個「人」組成（口语「他仨」即三人）。「刘关張」即三個人，正會「仨」之意。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: yishi-tongren-liu-guan-zhang\ntitle: 一视同仁刘关張\nanswer: 仨\nanswer_len: 1\ntype: 增損\nsubtype: 疊字\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 疊字, 人]\nstructure: { ops: [{ part: 人, from: 人, op: full }, { part: 人, from: 人, op: full }, { part: 人, from: 人, op: full }], result: 仨 }\n---\n\n# 一视同仁刘关張\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：一视同仁刘关張\n**謎底**：仨\n\n## 解析\n「仨」字由三個「人」組成（口语「他仨」即三人）。「刘关張」即三個人，正會「仨」之意。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 11,
       "marks": [
         {
@@ -2033,7 +2033,7 @@
       "jie_t": "「灭」字上「一」下「火」，那一横可视為水（水之一畫）。\n上水下火，水在火上，火被水灭，故為「灭」。屬增損法。",
       "chu": "见《字謎大全》等古典字谜集（S1）。",
       "chu_t": "見《字謎大全》等古典字謎集（S1）。",
-      "body_t": "---\nid: yibian-shui-yibian-huo\ntitle: 一邊是水，一邊是火\nanswer: 灭\nanswer_len: 1\ntype: 增損\nsubtype: 增減\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 自然]\n---\n\n# 一邊是水，一邊是火\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：一邊是水，一邊是火\n**謎底**：灭\n\n## 解析\n「灭」字上「一」下「火」，那一横可视為水（水之一畫）。\n上水下火，水在火上，火被水灭，故為「灭」。屬增損法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "body_t": "---\nid: yibian-shui-yibian-huo\ntitle: 一邊是水，一邊是火\nanswer: 灭\nanswer_len: 1\ntype: 增損\nsubtype: 增減\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 自然]\nstructure: { ops: [{ part: 一, from: 一, op: full }, { part: 火, from: 火, op: full }], result: 灭 }\n---\n\n# 一邊是水，一邊是火\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：一邊是水，一邊是火\n**謎底**：灭\n\n## 解析\n「灭」字上「一」下「火」，那一横可视為水（水之一畫）。\n上水下火，水在火上，火被水灭，故為「灭」。屬增損法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
       "converted": 9,
       "marks": [
         {
@@ -2183,7 +2183,7 @@
       "jie_t": "「火」字作兩點（丶丶）夾一人（丿捺）。謎面「兩點中間一個人」正合「火」的字形。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: liangdian-zhongjian-yigeren\ntitle: 兩點中間一個人\nanswer: 火\nanswer_len: 1\ntype: 增損\nsubtype: 增減\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 增減]\n---\n\n# 兩點中間一個人\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：兩點中間一個人\n**謎底**：火\n\n## 解析\n「火」字作兩點（丶丶）夾一人（丿捺）。謎面「兩點中間一個人」正合「火」的字形。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: liangdian-zhongjian-yigeren\ntitle: 兩點中間一個人\nanswer: 火\nanswer_len: 1\ntype: 增損\nsubtype: 增減\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 增減]\nstructure: { ops: [{ part: 丶, from: 點, op: free }, { part: 丶, from: 點, op: free }, { part: 人, from: 人, op: full }], result: 火 }\n---\n\n# 兩點中間一個人\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：兩點中間一個人\n**謎底**：火\n\n## 解析\n「火」字作兩點（丶丶）夾一人（丿捺）。謎面「兩點中間一個人」正合「火」的字形。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 17,
       "marks": [
         {
@@ -2334,7 +2334,7 @@
       "jie_t": "「夫」字為「一」下「人」，即二人相疊。「二人相逢」扣「夫」（一人與一人相合），「傳福音」會「夫」（夫者，天也，傳天福音）。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: erren-xiangfeng-chuan-fuyin\ntitle: 二人相逢傳福音\nanswer: 夫\nanswer_len: 1\ntype: 增損\nsubtype: 組合\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 組合, 人]\n---\n\n# 二人相逢傳福音\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：二人相逢傳福音\n**謎底**：夫\n\n## 解析\n「夫」字為「一」下「人」，即二人相疊。「二人相逢」扣「夫」（一人與一人相合），「傳福音」會「夫」（夫者，天也，傳天福音）。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: erren-xiangfeng-chuan-fuyin\ntitle: 二人相逢傳福音\nanswer: 夫\nanswer_len: 1\ntype: 增損\nsubtype: 組合\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 組合, 人]\nstructure: { ops: [{ part: 二, from: 二, op: full }, { part: 人, from: 人, op: full }], result: 夫 }\n---\n\n# 二人相逢傳福音\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：二人相逢傳福音\n**謎底**：夫\n\n## 解析\n「夫」字為「一」下「人」，即二人相疊。「二人相逢」扣「夫」（一人與一人相合），「傳福音」會「夫」（夫者，天也，傳天福音）。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 12,
       "marks": [
         {
@@ -2532,7 +2532,7 @@
       "jie_t": "「错」字左「钅」右「昔」。「二十一日」扣「昔」（昔字上「龷」為二十，下「日」），「有金钱」扣「钅」。合之得「错」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: ershiriyi-you-jinqian\ntitle: 二十一日有金钱\nanswer: 错\nanswer_len: 1\ntype: 增損\nsubtype: 左右\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 左右]\n---\n\n# 二十一日有金钱\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：二十一日有金钱\n**謎底**：错\n\n## 解析\n「错」字左「钅」右「昔」。「二十一日」扣「昔」（昔字上「龷」為二十，下「日」），「有金钱」扣「钅」。合之得「错」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: ershiriyi-you-jinqian\ntitle: 二十一日有金钱\nanswer: 错\nanswer_len: 1\ntype: 增損\nsubtype: 左右\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 左右]\nstructure: { ops: [{ part: 钅, from: 钱, op: free }, { part: 昔, from: 昔, op: free }], result: 错 }\n---\n\n# 二十一日有金钱\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：二十一日有金钱\n**謎底**：错\n\n## 解析\n「错」字左「钅」右「昔」。「二十一日」扣「昔」（昔字上「龷」為二十，下「日」），「有金钱」扣「钅」。合之得「错」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 6,
       "marks": [
         {
@@ -2879,7 +2879,7 @@
       "jie_t": "「斗」字可拆為「十」「二」與一點（丶）。謎面「十二點」即十、二、點三者相合，\n合成「斗」。屬增損法。",
       "chu": "见《字謎大全》等古典字谜集（S1）。",
       "chu_t": "見《字謎大全》等古典字謎集（S1）。",
-      "body_t": "---\nid: shi'er-dian\ntitle: 十二點\nanswer: 斗\nanswer_len: 1\ntype: 增損\nsubtype: 增減\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 數字]\n---\n\n# 十二點\n\n> 增損類 · 清 · 難度 ★\n\n**謎面**：十二點\n**謎底**：斗\n\n## 解析\n「斗」字可拆為「十」「二」與一點（丶）。謎面「十二點」即十、二、點三者相合，\n合成「斗」。屬增損法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "body_t": "---\nid: shi'er-dian\ntitle: 十二點\nanswer: 斗\nanswer_len: 1\ntype: 增損\nsubtype: 增減\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 數字]\nstructure: { ops: [{ part: 十, from: 十, op: full }, { part: 二, from: 二, op: full }, { part: 丶, from: 點, op: free }], result: 斗 }\n---\n\n# 十二點\n\n> 增損類 · 清 · 難度 ★\n\n**謎面**：十二點\n**謎底**：斗\n\n## 解析\n「斗」字可拆為「十」「二」與一點（丶）。謎面「十二點」即十、二、點三者相合，\n合成「斗」。屬增損法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
       "converted": 11,
       "marks": [
         {
@@ -3053,7 +3053,7 @@
       "jie_t": "「早」字上「日」下「十」。「十载」扣「十」，「旧貌改」扣「日」（早即日之初）。合之得「早」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: shizai-gaige-jiuguo-gai\ntitle: 十载改革旧貌改\nanswer: 早\nanswer_len: 1\ntype: 增損\nsubtype: 上下\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 上下]\n---\n\n# 十载改革旧貌改\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：十载改革旧貌改\n**謎底**：早\n\n## 解析\n「早」字上「日」下「十」。「十载」扣「十」，「旧貌改」扣「日」（早即日之初）。合之得「早」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: shizai-gaige-jiuguo-gai\ntitle: 十载改革旧貌改\nanswer: 早\nanswer_len: 1\ntype: 增損\nsubtype: 上下\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 上下]\nstructure: { ops: [{ part: 十, from: 十, op: full }, { part: 日, from: 日, op: free }], result: 早 }\n---\n\n# 十载改革旧貌改\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：十载改革旧貌改\n**謎底**：早\n\n## 解析\n「早」字上「日」下「十」。「十载」扣「十」，「旧貌改」扣「日」（早即日之初）。合之得「早」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 5,
       "marks": [
         {
@@ -3108,7 +3108,7 @@
       "jie_t": "「秋」字的左半是「禾」，「春」字的下半是「日」。\n各取一半，「禾」與「日」相合，即為「香」字。屬各半合成法。",
       "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
       "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
-      "body_t": "---\nid: banbu-chunqiu\ntitle: 半部春秋\nanswer: 香\nanswer_len: 1\ntype: 增損\nsubtype: 各半\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [各半, 合成]\n---\n\n# 半部春秋\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：半部春秋\n**謎底**：香\n\n## 解析\n「秋」字的左半是「禾」，「春」字的下半是「日」。\n各取一半，「禾」與「日」相合，即為「香」字。屬各半合成法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "body_t": "---\nid: banbu-chunqiu\ntitle: 半部春秋\nanswer: 香\nanswer_len: 1\ntype: 增損\nsubtype: 各半\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [各半, 合成]\nstructure: { ops: [{ part: 禾, from: 秋, op: half }, { part: 日, from: 春, op: part }], result: 香 }\n---\n\n# 半部春秋\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：半部春秋\n**謎底**：香\n\n## 解析\n「秋」字的左半是「禾」，「春」字的下半是「日」。\n各取一半，「禾」與「日」相合，即為「香」字。屬各半合成法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
       "converted": 7,
       "marks": [
         {
@@ -3179,7 +3179,7 @@
       "jie_t": "「對」字左「又」右「寸」。「又得」扣「又」，「十分」扣「寸」（十分即一寸）。合之得「對」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: youde-shifen\ntitle: 又得十分\nanswer: 對\nanswer_len: 1\ntype: 增損\nsubtype: 左右\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 左右]\n---\n\n# 又得十分\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：又得十分\n**謎底**：對\n\n## 解析\n「對」字左「又」右「寸」。「又得」扣「又」，「十分」扣「寸」（十分即一寸）。合之得「對」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: youde-shifen\ntitle: 又得十分\nanswer: 對\nanswer_len: 1\ntype: 增損\nsubtype: 左右\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 左右]\nstructure: { ops: [{ part: 又, from: 又, op: full }, { part: 寸, from: 分, op: free }], result: 對 }\n---\n\n# 又得十分\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：又得十分\n**謎底**：對\n\n## 解析\n「對」字左「又」右「寸」。「又得」扣「又」，「十分」扣「寸」（十分即一寸）。合之得「對」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 8,
       "marks": [
         {
@@ -3345,7 +3345,7 @@
       "jie_t": "「茄」字上「艹」下「甲」。「另展新姿」扣「艹」（新草），「列前茅」扣「甲」（第一）。合之得「茄」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: lingzhan-xinzi-lie-qianmao\ntitle: 另展新姿列前茅\nanswer: 茄\nanswer_len: 1\ntype: 增損\nsubtype: 上下\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 上下, 植物]\n---\n\n# 另展新姿列前茅\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：另展新姿列前茅\n**謎底**：茄\n\n## 解析\n「茄」字上「艹」下「甲」。「另展新姿」扣「艹」（新草），「列前茅」扣「甲」（第一）。合之得「茄」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: lingzhan-xinzi-lie-qianmao\ntitle: 另展新姿列前茅\nanswer: 茄\nanswer_len: 1\ntype: 增損\nsubtype: 上下\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 上下, 植物]\nstructure: { ops: [{ part: 艹, from: 新, op: free }, { part: 甲, from: 茅, op: free }], result: 茄 }\n---\n\n# 另展新姿列前茅\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：另展新姿列前茅\n**謎底**：茄\n\n## 解析\n「茄」字上「艹」下「甲」。「另展新姿」扣「艹」（新草），「列前茅」扣「甲」（第一）。合之得「茄」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 5,
       "marks": [
         {
@@ -3400,7 +3400,7 @@
       "jie_t": "「嗟」字左「口」右「差」。「只差」扣「差」，「八字未写」扣「口」。合之得「嗟」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: zhi-cha-bazi-weixie\ntitle: 只差八字未写\nanswer: 嗟\nanswer_len: 1\ntype: 增損\nsubtype: 左右\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 左右]\n---\n\n# 只差八字未写\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：只差八字未写\n**謎底**：嗟\n\n## 解析\n「嗟」字左「口」右「差」。「只差」扣「差」，「八字未写」扣「口」。合之得「嗟」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: zhi-cha-bazi-weixie\ntitle: 只差八字未写\nanswer: 嗟\nanswer_len: 1\ntype: 增損\nsubtype: 左右\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 左右]\nstructure: { ops: [{ part: 差, from: 差, op: full }, { part: 口, from: 八, op: free }], result: 嗟 }\n---\n\n# 只差八字未写\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：只差八字未写\n**謎底**：嗟\n\n## 解析\n「嗟」字左「口」右「差」。「只差」扣「差」，「八字未写」扣「口」。合之得「嗟」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 5,
       "marks": [
         {
@@ -3455,7 +3455,7 @@
       "jie_t": "「孙」字左「子」右「小」。「后生小子」即「子」與「小」相合，得「孙」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: housheng-xiaozi\ntitle: 后生小子\nanswer: 孙\nanswer_len: 1\ntype: 增損\nsubtype: 左右\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 左右, 人]\n---\n\n# 后生小子\n\n> 增損類 · 清 · 難度 ★\n\n**謎面**：后生小子\n**謎底**：孙\n\n## 解析\n「孙」字左「子」右「小」。「后生小子」即「子」與「小」相合，得「孙」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: housheng-xiaozi\ntitle: 后生小子\nanswer: 孙\nanswer_len: 1\ntype: 增損\nsubtype: 左右\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 左右, 人]\nstructure: { ops: [{ part: 子, from: 子, op: full }, { part: 小, from: 小, op: full }], result: 孙 }\n---\n\n# 后生小子\n\n> 增損類 · 清 · 難度 ★\n\n**謎面**：后生小子\n**謎底**：孙\n\n## 解析\n「孙」字左「子」右「小」。「后生小子」即「子」與「小」相合，得「孙」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 6,
       "marks": [
         {
@@ -3518,7 +3518,7 @@
       "jie_t": "「城」字半取「土」（城池残破取其土），「池」字残破取「也」。合「土」「也」得「地」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: chengchi-ban-canpo\ntitle: 城池半残破\nanswer: 地\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\n---\n\n# 城池半残破\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：城池半残破\n**謎底**：地\n\n## 解析\n「城」字半取「土」（城池残破取其土），「池」字残破取「也」。合「土」「也」得「地」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: chengchi-ban-canpo\ntitle: 城池半残破\nanswer: 地\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\nstructure: { ops: [{ part: 土, from: 城, op: half }, { part: 也, from: 池, op: half_r }], result: 地 }\n---\n\n# 城池半残破\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：城池半残破\n**謎底**：地\n\n## 解析\n「城」字半取「土」（城池残破取其土），「池」字残破取「也」。合「土」「也」得「地」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 5,
       "marks": [
         {
@@ -3684,7 +3684,7 @@
       "jie_t": "「雪」字上「雨」下「彐」。「大雨」扣「雨」，「横山」扣「彐」（山横置）。合之得「雪」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: dayu-luo-zai-hengshang\ntitle: 大雨落在横山上\nanswer: 雪\nanswer_len: 1\ntype: 增損\nsubtype: 上下\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 上下]\n---\n\n# 大雨落在横山上\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：大雨落在横山上\n**謎底**：雪\n\n## 解析\n「雪」字上「雨」下「彐」。「大雨」扣「雨」，「横山」扣「彐」（山横置）。合之得「雪」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: dayu-luo-zai-hengshang\ntitle: 大雨落在横山上\nanswer: 雪\nanswer_len: 1\ntype: 增損\nsubtype: 上下\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 上下]\nstructure: { ops: [{ part: 雨, from: 雨, op: full }, { part: 彐, from: 山, op: free }], result: 雪 }\n---\n\n# 大雨落在横山上\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：大雨落在横山上\n**謎底**：雪\n\n## 解析\n「雪」字上「雨」下「彐」。「大雨」扣「雨」，「横山」扣「彐」（山横置）。合之得「雪」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 5,
       "marks": [
         {
@@ -3739,7 +3739,7 @@
       "jie_t": "「從」字由兩個「人」組成。「少先队」即兩個「人」相随，得「從」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: shaoshidui-duiqi-piaoyang\ntitle: 少先队队旗飘扬\nanswer: 從\nanswer_len: 1\ntype: 增損\nsubtype: 疊字\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 疊字, 人]\n---\n\n# 少先队队旗飘扬\n\n> 增損類 · 清 · 難度 ★\n\n**謎面**：少先队队旗飘扬\n**謎底**：從\n\n## 解析\n「從」字由兩個「人」組成。「少先队」即兩個「人」相随，得「從」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: shaoshidui-duiqi-piaoyang\ntitle: 少先队队旗飘扬\nanswer: 從\nanswer_len: 1\ntype: 增損\nsubtype: 疊字\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 疊字, 人]\nstructure: { ops: [{ part: 人, from: 人, op: free }, { part: 人, from: 人, op: free }], result: 從 }\n---\n\n# 少先队队旗飘扬\n\n> 增損類 · 清 · 難度 ★\n\n**謎面**：少先队队旗飘扬\n**謎底**：從\n\n## 解析\n「從」字由兩個「人」組成。「少先队」即兩個「人」相随，得「從」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 13,
       "marks": [
         {
@@ -3858,7 +3858,7 @@
       "jie_t": "「山」字上下再疊一個「山」，兩山相疊、中豎貫通，即為「出」字。\n屬典型的疊字增損：把同一部件重複疊加成字。",
       "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
       "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
-      "body_t": "---\nid: shangshan-haishan\ntitle: 山上還有山\nanswer: 出\nanswer_len: 1\ntype: 增損\nsubtype: 疊字\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [疊字, 方位]\n---\n\n# 山上還有山\n\n> 增損類 · 清 · 難度 ★\n\n**謎面**：山上還有山\n**謎底**：出\n\n## 解析\n「山」字上下再疊一個「山」，兩山相疊、中豎貫通，即為「出」字。\n屬典型的疊字增損：把同一部件重複疊加成字。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "body_t": "---\nid: shangshan-haishan\ntitle: 山上還有山\nanswer: 出\nanswer_len: 1\ntype: 增損\nsubtype: 疊字\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [疊字, 方位]\nstructure: { ops: [{ part: 山, from: 山, op: full }, { part: 山, from: 山, op: full }], result: 出 }\n---\n\n# 山上還有山\n\n> 增損類 · 清 · 難度 ★\n\n**謎面**：山上還有山\n**謎底**：出\n\n## 解析\n「山」字上下再疊一個「山」，兩山相疊、中豎貫通，即為「出」字。\n屬典型的疊字增損：把同一部件重複疊加成字。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
       "converted": 17,
       "marks": [
         {
@@ -4011,7 +4011,7 @@
       "jie_t": "「往」字左「彳」右「王」。「往右走點」即「彳」走掉，餘「王」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: wangyou-zoudian\ntitle: 往右走點\nanswer: 王\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\n---\n\n# 往右走點\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：往右走點\n**謎底**：王\n\n## 解析\n「往」字左「彳」右「王」。「往右走點」即「彳」走掉，餘「王」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: wangyou-zoudian\ntitle: 往右走點\nanswer: 王\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\nstructure: { ops: [{ part: 王, from: 往, op: minus }], result: 王 }\n---\n\n# 往右走點\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：往右走點\n**謎底**：王\n\n## 解析\n「往」字左「彳」右「王」。「往右走點」即「彳」走掉，餘「王」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 8,
       "marks": [
         {
@@ -4153,7 +4153,7 @@
       "jie_t": "「春」字拆為「三」「人」「日」三部分。\n- 「春雨綿綿」——連綿陰雨，不見日頭，減去「日」，剩「三」「人」。\n- 「妻獨宿」——丈夫不在，「夫」=「二」+「人」，再減去「夫」。\n\n「三」+「人」−「二」−「人」=「一」。屬增損減損法，層層剝字。",
       "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
       "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
-      "body_t": "---\nid: chunyumianmian-qidu-su\ntitle: 春雨綿綿妻獨宿\nanswer: 一\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 4\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\n---\n\n# 春雨綿綿妻獨宿\n\n> 增損類 · 清 · 難度 ★★★★\n\n**謎面**：春雨綿綿妻獨宿\n**謎底**：一\n\n## 解析\n「春」字拆為「三」「人」「日」三部分。\n- 「春雨綿綿」——連綿陰雨，不見日頭，減去「日」，剩「三」「人」。\n- 「妻獨宿」——丈夫不在，「夫」=「二」+「人」，再減去「夫」。\n\n「三」+「人」−「二」−「人」=「一」。屬增損減損法，層層剝字。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "body_t": "---\nid: chunyumianmian-qidu-su\ntitle: 春雨綿綿妻獨宿\nanswer: 一\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 4\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\nstructure: { ops: [{ part: 一, from: 春, op: minus }], result: 一 }\n---\n\n# 春雨綿綿妻獨宿\n\n> 增損類 · 清 · 難度 ★★★★\n\n**謎面**：春雨綿綿妻獨宿\n**謎底**：一\n\n## 解析\n「春」字拆為「三」「人」「日」三部分。\n- 「春雨綿綿」——連綿陰雨，不見日頭，減去「日」，剩「三」「人」。\n- 「妻獨宿」——丈夫不在，「夫」=「二」+「人」，再減去「夫」。\n\n「三」+「人」−「二」−「人」=「一」。屬增損減損法，層層剝字。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
       "converted": 25,
       "marks": [
         {
@@ -4696,7 +4696,7 @@
       "jie_t": "「此」字左「五」右「止」。「用心方悟得」即去掉「止」，餘「五」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: cizi-yongxin-fang-wude\ntitle: 此字用心方悟得\nanswer: 五\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\n---\n\n# 此字用心方悟得\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：此字用心方悟得\n**謎底**：五\n\n## 解析\n「此」字左「五」右「止」。「用心方悟得」即去掉「止」，餘「五」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: cizi-yongxin-fang-wude\ntitle: 此字用心方悟得\nanswer: 五\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\nstructure: { ops: [{ part: 五, from: 此, op: minus }], result: 五 }\n---\n\n# 此字用心方悟得\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：此字用心方悟得\n**謎底**：五\n\n## 解析\n「此」字左「五」右「止」。「用心方悟得」即去掉「止」，餘「五」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 6,
       "marks": [
         {
@@ -4838,7 +4838,7 @@
       "jie_t": "「涧」字左「氵」右「間」，「間」字上「門」下「日」。「涧水」去「氵」，「终日」去「日」，餘「門」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: jianshui-zhongri-liu\ntitle: 涧水终日流\nanswer: 門\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\n---\n\n# 涧水终日流\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：涧水终日流\n**謎底**：門\n\n## 解析\n「涧」字左「氵」右「間」，「間」字上「門」下「日」。「涧水」去「氵」，「终日」去「日」，餘「門」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: jianshui-zhongri-liu\ntitle: 涧水终日流\nanswer: 門\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\nstructure: { ops: [{ part: 門, from: 涧, op: minus }], result: 門 }\n---\n\n# 涧水终日流\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：涧水终日流\n**謎底**：門\n\n## 解析\n「涧」字左「氵」右「間」，「間」字上「門」下「日」。「涧水」去「氵」，「终日」去「日」，餘「門」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 11,
       "marks": [
         {
@@ -4941,7 +4941,7 @@
       "jie_t": "「猴」字去掉兽字旁（犭，即「猴頭」），餘「侯」。「猴頭隱藏不見了」以減損法扣「侯」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: houtou-yincang-bujianle\ntitle: 猴頭隱藏不見了\nanswer: 侯\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\n---\n\n# 猴頭隱藏不見了\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：猴頭隱藏不見了\n**謎底**：侯\n\n## 解析\n「猴」字去掉兽字旁（犭，即「猴頭」），餘「侯」。「猴頭隱藏不見了」以減損法扣「侯」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: houtou-yincang-bujianle\ntitle: 猴頭隱藏不見了\nanswer: 侯\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\nstructure: { ops: [{ part: 侯, from: 猴, op: minus }], result: 侯 }\n---\n\n# 猴頭隱藏不見了\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：猴頭隱藏不見了\n**謎底**：侯\n\n## 解析\n「猴」字去掉兽字旁（犭，即「猴頭」），餘「侯」。「猴頭隱藏不見了」以減損法扣「侯」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 15,
       "marks": [
         {
@@ -5076,7 +5076,7 @@
       "jie_t": "「囚」字為「囗」（方框）内嵌「人」。「田中」扣「囗」（田字去十），「不見人」扣「人」在框内。合之得「囚」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: tianzhong-bujian-ren\ntitle: 田中不見人\nanswer: 囚\nanswer_len: 1\ntype: 增損\nsubtype: 嵌字\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 嵌字]\n---\n\n# 田中不見人\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：田中不見人\n**謎底**：囚\n\n## 解析\n「囚」字為「囗」（方框）内嵌「人」。「田中」扣「囗」（田字去十），「不見人」扣「人」在框内。合之得「囚」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: tianzhong-bujian-ren\ntitle: 田中不見人\nanswer: 囚\nanswer_len: 1\ntype: 增損\nsubtype: 嵌字\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 嵌字]\nstructure: { ops: [{ part: 囗, from: 田, op: minus }, { part: 人, from: 人, op: full }], result: 囚 }\n---\n\n# 田中不見人\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：田中不見人\n**謎底**：囚\n\n## 解析\n「囚」字為「囗」（方框）内嵌「人」。「田中」扣「囗」（田字去十），「不見人」扣「人」在框内。合之得「囚」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 8,
       "marks": [
         {
@@ -5155,7 +5155,7 @@
       "jie_t": "「叶」字左「口」右「十」。「田裡」取「口」（田字中間），「跑到田外」取「十」（田字外围）。合之得「叶」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: tianli-paodao-tianwai\ntitle: 田裡跑到田外\nanswer: 叶\nanswer_len: 1\ntype: 增損\nsubtype: 左右\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 左右]\n---\n\n# 田裡跑到田外\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：田裡跑到田外\n**謎底**：叶\n\n## 解析\n「叶」字左「口」右「十」。「田裡」取「口」（田字中間），「跑到田外」取「十」（田字外围）。合之得「叶」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: tianli-paodao-tianwai\ntitle: 田裡跑到田外\nanswer: 叶\nanswer_len: 1\ntype: 增損\nsubtype: 左右\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 左右]\nstructure: { ops: [{ part: 口, from: 田, op: part }, { part: 十, from: 田, op: part }], result: 叶 }\n---\n\n# 田裡跑到田外\n\n> 增損類 · 清 · 難度 ★★\n\n**謎面**：田裡跑到田外\n**謎底**：叶\n\n## 解析\n「叶」字左「口」右「十」。「田裡」取「口」（田字中間），「跑到田外」取「十」（田字外围）。合之得「叶」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 8,
       "marks": [
         {
@@ -5475,7 +5475,7 @@
       "jie_t": "「电」字左「日」右「乚」。「落日」扣「日」，「帘鉤」扣「乚」（鉤形）。合之得「电」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: luori-zai-liangou\ntitle: 落日在帘鉤\nanswer: 电\nanswer_len: 1\ntype: 增損\nsubtype: 左右\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 左右]\n---\n\n# 落日在帘鉤\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：落日在帘鉤\n**謎底**：电\n\n## 解析\n「电」字左「日」右「乚」。「落日」扣「日」，「帘鉤」扣「乚」（鉤形）。合之得「电」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: luori-zai-liangou\ntitle: 落日在帘鉤\nanswer: 电\nanswer_len: 1\ntype: 增損\nsubtype: 左右\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 左右]\nstructure: { ops: [{ part: 日, from: 日, op: full }, { part: 乚, from: 鉤, op: free }], result: 电 }\n---\n\n# 落日在帘鉤\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：落日在帘鉤\n**謎底**：电\n\n## 解析\n「电」字左「日」右「乚」。「落日」扣「日」，「帘鉤」扣「乚」（鉤形）。合之得「电」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 8,
       "marks": [
         {
@@ -5657,7 +5657,7 @@
       "jie_t": "贵州古称「黔」，「黔」字左「黑」右「今」。「今腾飞」即「今」飞走，餘「黑」。屬增損法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: guizhou-jin-tengfei\ntitle: 贵州今腾飞\nanswer: 黑\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\n---\n\n# 贵州今腾飞\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：贵州今腾飞\n**謎底**：黑\n\n## 解析\n贵州古称「黔」，「黔」字左「黑」右「今」。「今腾飞」即「今」飞走，餘「黑」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: guizhou-jin-tengfei\ntitle: 贵州今腾飞\nanswer: 黑\nanswer_len: 1\ntype: 增損\nsubtype: 減損\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [增損, 減損]\nstructure: { ops: [{ part: 黑, from: 黔, op: minus }], result: 黑 }\n---\n\n# 贵州今腾飞\n\n> 增損類 · 清 · 難度 ★★★\n\n**謎面**：贵州今腾飞\n**謎底**：黑\n\n## 解析\n贵州古称「黔」，「黔」字左「黑」右「今」。「今腾飞」即「今」飞走，餘「黑」。屬增損法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 6,
       "marks": [
         {

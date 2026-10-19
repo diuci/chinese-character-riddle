@@ -606,7 +606,21 @@
         "左右",
         "人"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "子",
+            "from": "子",
+            "op": "full"
+          },
+          {
+            "part": "小",
+            "from": "小",
+            "op": "full"
+          }
+        ],
+        "result": "孙"
+      },
       "path": "riddles/增损/后生小子.md"
     },
     {
@@ -695,7 +709,21 @@
         "叠字",
         "方位"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "山",
+            "from": "山",
+            "op": "full"
+          },
+          {
+            "part": "山",
+            "from": "山",
+            "op": "full"
+          }
+        ],
+        "result": "出"
+      },
       "path": "riddles/增损/山上还有山.md"
     },
     {
@@ -719,7 +747,21 @@
         "叠字",
         "人"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "人",
+            "from": "人",
+            "op": "free"
+          },
+          {
+            "part": "人",
+            "from": "人",
+            "op": "free"
+          }
+        ],
+        "result": "从"
+      },
       "path": "riddles/增损/少先队队旗飘扬.md"
     },
     {
@@ -742,7 +784,26 @@
         "增损",
         "数字"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "十",
+            "from": "十",
+            "op": "full"
+          },
+          {
+            "part": "二",
+            "from": "二",
+            "op": "full"
+          },
+          {
+            "part": "丶",
+            "from": "点",
+            "op": "free"
+          }
+        ],
+        "result": "斗"
+      },
       "path": "riddles/增损/十二点.md"
     },
     {
@@ -946,7 +1007,16 @@
         "增损",
         "减损"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "五",
+            "from": "此",
+            "op": "minus"
+          }
+        ],
+        "result": "五"
+      },
       "path": "riddles/增损/此字用心方悟得.md"
     },
     {
@@ -1039,7 +1109,21 @@
         "组合",
         "人"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "二",
+            "from": "二",
+            "op": "full"
+          },
+          {
+            "part": "人",
+            "from": "人",
+            "op": "full"
+          }
+        ],
+        "result": "夫"
+      },
       "path": "riddles/增损/二人相逢传福音.md"
     },
     {
@@ -1086,7 +1170,16 @@
         "增损",
         "减损"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "侯",
+            "from": "猴",
+            "op": "minus"
+          }
+        ],
+        "result": "侯"
+      },
       "path": "riddles/增损/猴头隐藏不见了.md"
     },
     {
@@ -1109,7 +1202,16 @@
         "增损",
         "减损"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "门",
+            "from": "涧",
+            "op": "minus"
+          }
+        ],
+        "result": "门"
+      },
       "path": "riddles/增损/涧水终日流.md"
     },
     {
@@ -1132,7 +1234,26 @@
         "增损",
         "增减"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "丶",
+            "from": "点",
+            "op": "free"
+          },
+          {
+            "part": "丶",
+            "from": "点",
+            "op": "free"
+          },
+          {
+            "part": "人",
+            "from": "人",
+            "op": "full"
+          }
+        ],
+        "result": "火"
+      },
       "path": "riddles/增损/两点中间一个人.md"
     },
     {
@@ -1197,7 +1318,21 @@
         "增损",
         "上下"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "十",
+            "from": "十",
+            "op": "full"
+          },
+          {
+            "part": "日",
+            "from": "日",
+            "op": "free"
+          }
+        ],
+        "result": "早"
+      },
       "path": "riddles/增损/十载改革旧貌改.md"
     },
     {
@@ -1220,7 +1355,21 @@
         "增损",
         "左右"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "口",
+            "from": "田",
+            "op": "part"
+          },
+          {
+            "part": "十",
+            "from": "田",
+            "op": "part"
+          }
+        ],
+        "result": "叶"
+      },
       "path": "riddles/增损/田里跑到田外.md"
     },
     {
@@ -1243,7 +1392,21 @@
         "增损",
         "嵌字"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "囗",
+            "from": "田",
+            "op": "minus"
+          },
+          {
+            "part": "人",
+            "from": "人",
+            "op": "full"
+          }
+        ],
+        "result": "囚"
+      },
       "path": "riddles/增损/田中不见人.md"
     },
     {
@@ -1266,7 +1429,16 @@
         "增损",
         "减损"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "王",
+            "from": "往",
+            "op": "minus"
+          }
+        ],
+        "result": "王"
+      },
       "path": "riddles/增损/往右走点.md"
     },
     {
@@ -1321,7 +1493,21 @@
         "增损",
         "自然"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "一",
+            "from": "一",
+            "op": "full"
+          },
+          {
+            "part": "火",
+            "from": "火",
+            "op": "full"
+          }
+        ],
+        "result": "灭"
+      },
       "path": "riddles/增损/一边水一边火.md"
     },
     {
@@ -1381,7 +1567,26 @@
         "增损",
         "人体"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "大",
+            "from": "人",
+            "op": "free"
+          },
+          {
+            "part": "人",
+            "from": "人",
+            "op": "full"
+          },
+          {
+            "part": "人",
+            "from": "人",
+            "op": "full"
+          }
+        ],
+        "result": "夹"
+      },
       "path": "riddles/增损/一人挑两小人.md"
     },
     {
@@ -1405,7 +1610,26 @@
         "叠字",
         "人"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "人",
+            "from": "人",
+            "op": "full"
+          },
+          {
+            "part": "人",
+            "from": "人",
+            "op": "full"
+          },
+          {
+            "part": "人",
+            "from": "人",
+            "op": "full"
+          }
+        ],
+        "result": "仨"
+      },
       "path": "riddles/增损/一视同仁刘关张.md"
     },
     {
@@ -1428,7 +1652,21 @@
         "增损",
         "左右"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "又",
+            "from": "又",
+            "op": "full"
+          },
+          {
+            "part": "寸",
+            "from": "分",
+            "op": "free"
+          }
+        ],
+        "result": "对"
+      },
       "path": "riddles/增损/又得十分.md"
     },
     {
@@ -1521,7 +1759,21 @@
         "增损",
         "左右"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "差",
+            "from": "差",
+            "op": "full"
+          },
+          {
+            "part": "口",
+            "from": "八",
+            "op": "free"
+          }
+        ],
+        "result": "嗟"
+      },
       "path": "riddles/增损/只差八字未写.md"
     },
     {
@@ -1544,7 +1796,21 @@
         "各半",
         "合成"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "禾",
+            "from": "秋",
+            "op": "half"
+          },
+          {
+            "part": "日",
+            "from": "春",
+            "op": "part"
+          }
+        ],
+        "result": "香"
+      },
       "path": "riddles/增损/半部春秋.md"
     },
     {
@@ -1567,7 +1833,21 @@
         "增损",
         "减损"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "土",
+            "from": "城",
+            "op": "half"
+          },
+          {
+            "part": "也",
+            "from": "池",
+            "op": "half_r"
+          }
+        ],
+        "result": "地"
+      },
       "path": "riddles/增损/城池半残破.md"
     },
     {
@@ -1590,7 +1870,21 @@
         "增损",
         "上下"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "雨",
+            "from": "雨",
+            "op": "full"
+          },
+          {
+            "part": "彐",
+            "from": "山",
+            "op": "free"
+          }
+        ],
+        "result": "雪"
+      },
       "path": "riddles/增损/大雨落在横山上.md"
     },
     {
@@ -1613,7 +1907,21 @@
         "增损",
         "左右"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "钅",
+            "from": "钱",
+            "op": "free"
+          },
+          {
+            "part": "昔",
+            "from": "昔",
+            "op": "free"
+          }
+        ],
+        "result": "错"
+      },
       "path": "riddles/增损/二十一日有金钱.md"
     },
     {
@@ -1636,7 +1944,16 @@
         "增损",
         "减损"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "黑",
+            "from": "黔",
+            "op": "minus"
+          }
+        ],
+        "result": "黑"
+      },
       "path": "riddles/增损/贵州今腾飞.md"
     },
     {
@@ -1660,7 +1977,21 @@
         "上下",
         "植物"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "艹",
+            "from": "新",
+            "op": "free"
+          },
+          {
+            "part": "甲",
+            "from": "茅",
+            "op": "free"
+          }
+        ],
+        "result": "茄"
+      },
       "path": "riddles/增损/另展新姿列前茅.md"
     },
     {
@@ -1683,7 +2014,21 @@
         "增损",
         "左右"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "日",
+            "from": "日",
+            "op": "full"
+          },
+          {
+            "part": "乚",
+            "from": "钩",
+            "op": "free"
+          }
+        ],
+        "result": "电"
+      },
       "path": "riddles/增损/落日在帘钩.md"
     },
     {
@@ -1775,7 +2120,16 @@
         "增损",
         "减损"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "一",
+            "from": "春",
+            "op": "minus"
+          }
+        ],
+        "result": "一"
+      },
       "path": "riddles/增损/春雨绵绵妻独宿.md"
     },
     {
