@@ -32,8 +32,8 @@ structure: { ops: [{ part: 上, from: 上, op: full }, { part: 下, from: 下, o
 
 | 字段 | 含义 |
 |---|---|
-| `ops[n].from` | 从谜面里取材的**单字**，必须出现在 `title` 里 |
-| `ops[n].op` | `full` 全取 / `half` 取左半 / `half_r` 取右半 / `part` 取部件（会意代字，如 夜→夕）/ `minus` 减笔 / `plus` 加笔 |
+| `ops[n].from` | 从谜面取材的**单字**，必须出现在 `title` 或「解析」正文里 |
+| `ops[n].op` | `full` 全取 / `half` 取左半 / `half_r` 取右半 / `part` 取字形部件（如 夜→夕、草→艹）/ `free` 会意取件（部件由谜意给出，如 绿→禾、一家→门、十五天→半月）/ `minus` 减笔 / `plus` 加笔 |
 | `ops[n].part` | 拼装时用的**单字部件**；`op: full` 时必须等于 `from` |
 | `result` | 拼装结果，必须与 `answer` 一致（冗余声明，作自检锚） |
 

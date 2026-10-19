@@ -49,9 +49,11 @@ TYPES = ['拆字', '会意', '谐音', '增损', '离合', '典故', '象形', '
 # 拆解操作合法集（第 11 项）。part 永远是「拼装时用的那个部件字」：
 #   full   全取（part 必须等于 from）
 #   half   取左半（如 推 → 扌）   half_r  取右半（如 推 → 京）
-#   part   取某部件，不问方位（会意代字，如 夜 → 夕）
+#   part   取某部件，不问方位（字形部件，如 夜 → 夕、草 → 艹）
+#   free   会意取件：部件不是 from 的字形部件，而是由 from 所在的谜面句子
+#          会意得出（如 绿 → 禾、一家 → 门、十五天 → 半月）
 #   minus  减笔（如 山 减一横 → 彐）   plus  加笔
-STRUCT_OPS = ['full', 'half', 'half_r', 'part', 'minus', 'plus']
+STRUCT_OPS = ['full', 'half', 'half_r', 'part', 'free', 'minus', 'plus']
 
 # 我国《著作权法》：自然人作品保护期为作者终生及其死亡后第 50 年的 12 月 31 日。
 COPYRIGHT_YEARS = 50
@@ -69,14 +71,19 @@ if not sys.stdout.isatty():
 
 # -------------------------------------------------- 装载
 def load_riddles(riddles_dir):
-    """返回 [(rec, relpath)]，rec 是 frontmatter dict。跳过 索引.md。"""
+    """返回 [(rec, relpath)]，rec 是 frontmatter dict。跳过 索引.md。
+
+    另带 __body__（frontmatter 之后的正文）供第 11 项核「from 在谜面或解析」，
+    双下划线键不会被 build.py 的 FIELDS 白名单序列化。
+    """
     out = []
     if not riddles_dir.exists():
         return out
     for p in sorted(riddles_dir.rglob('*.md')):
         if p.name == '索引.md':
             continue
-        data, _ = fm.parse_frontmatter(p.read_text(encoding='utf-8'))
+        data, body = fm.parse_frontmatter(p.read_text(encoding='utf-8'))
+        data['__body__'] = body
         data['__path__'] = p.relative_to(riddles_dir).as_posix()
         out.append(data)
     return out
@@ -297,6 +304,7 @@ def check11_structure(riddles):
             errs.append('%s 拆解结果 %r 与谜底 %r 不一致'
                         % (rid, result, r.get('answer')))
         title = str(r.get('title') or '')
+        hay = title + str(r.get('__body__') or '')  # from 允许出自谜面或解析
         for i, op in enumerate(ops):
             where = '%s structure.ops[%d]' % (rid, i)
             if not isinstance(op, dict):
@@ -309,8 +317,8 @@ def check11_structure(riddles):
                 errs.append('%s op 非法：%r（合法集：%s）' % (where, o, '/'.join(STRUCT_OPS)))
             if frm is None or len(str(frm)) != 1:
                 errs.append('%s from 必须是单字，实得 %r' % (where, frm))
-            elif str(frm) not in title:
-                errs.append('%s from %r 不在谜面 %r 里' % (where, frm, title))
+            elif str(frm) not in hay:
+                errs.append('%s from %r 不在谜面或解析里' % (where, frm))
             if part is None or len(str(part)) != 1:
                 errs.append('%s part 必须是单字部件，实得 %r' % (where, part))
             elif o == 'full' and str(part) != str(frm):
@@ -451,7 +459,11 @@ def selftest():
                               structure={'ops': [{'part': '山', 'from': '山', 'op': 'full'},
                                                  {'part': '山', 'from': '山', 'op': 'full'}],
                                         'result': '出'})])),
-                     ('clean-check11 无structure跳过', lambda: check11_structure([rec(id='p')]))]:
+                     ('clean-check11 无structure跳过', lambda: check11_structure([rec(id='p')])),
+                     ('clean-check11 from在解析', lambda: check11_structure(
+                         [rec(id='q', title='谜面X', __body__='解析里提到「手」',
+                              structure={'ops': [{'part': '手', 'from': '手', 'op': 'free'}],
+                                        'result': '出'})]))]:
         try:
             errs = fn()
         except Exception as e:  # noqa: BLE001
@@ -465,7 +477,7 @@ def selftest():
             print('  - ' + f)
         return 1
     print('validate.py selftest ok（%d 个坏样本全部拦下，%d 个干净样本无误报）'
-          % (len(cases), 12))
+          % (len(cases), 13))
     return 0
 
 

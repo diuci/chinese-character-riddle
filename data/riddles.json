@@ -57,7 +57,21 @@
         "会意",
         "动作"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "大",
+            "from": "大",
+            "op": "free"
+          },
+          {
+            "part": "力",
+            "from": "力",
+            "op": "free"
+          }
+        ],
+        "result": "夯"
+      },
       "path": "riddles/会意/拔山扛鼎.md"
     },
     {
@@ -103,7 +117,21 @@
         "会意",
         "自然"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "日",
+            "from": "日",
+            "op": "free"
+          },
+          {
+            "part": "一",
+            "from": "一",
+            "op": "free"
+          }
+        ],
+        "result": "旦"
+      },
       "path": "riddles/会意/长河落日圆.md"
     },
     {
@@ -172,7 +200,21 @@
         "会意",
         "地形"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "口",
+            "from": "口",
+            "op": "full"
+          },
+          {
+            "part": "田",
+            "from": "田",
+            "op": "full"
+          }
+        ],
+        "result": "困"
+      },
       "path": "riddles/会意/外面一口圈里面一口田.md"
     },
     {
@@ -218,7 +260,21 @@
         "会意",
         "叠意"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "夕",
+            "from": "夜",
+            "op": "part"
+          },
+          {
+            "part": "夕",
+            "from": "夜",
+            "op": "part"
+          }
+        ],
+        "result": "多"
+      },
       "path": "riddles/会意/一夜又一夜.md"
     },
     {
@@ -287,7 +343,21 @@
         "会意",
         "拆合"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "半",
+            "from": "半",
+            "op": "free"
+          },
+          {
+            "part": "月",
+            "from": "月",
+            "op": "free"
+          }
+        ],
+        "result": "胖"
+      },
       "path": "riddles/会意/十五天.md"
     },
     {
@@ -310,7 +380,26 @@
         "会意",
         "合数"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "十",
+            "from": "十",
+            "op": "full"
+          },
+          {
+            "part": "一",
+            "from": "一",
+            "op": "full"
+          },
+          {
+            "part": "口",
+            "from": "口",
+            "op": "full"
+          }
+        ],
+        "result": "吉"
+      },
       "path": "riddles/会意/一家十一口.md"
     },
     {
@@ -333,7 +422,21 @@
         "会意",
         "拆合"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "门",
+            "from": "家",
+            "op": "free"
+          },
+          {
+            "part": "口",
+            "from": "口",
+            "op": "full"
+          }
+        ],
+        "result": "问"
+      },
       "path": "riddles/会意/一家一口.md"
     },
     {
@@ -1496,7 +1599,21 @@
         "拆字",
         "时间"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "日",
+            "from": "日",
+            "op": "full"
+          },
+          {
+            "part": "日",
+            "from": "日",
+            "op": "full"
+          }
+        ],
+        "result": "昌"
+      },
       "path": "riddles/拆字/日复一日.md"
     },
     {
@@ -1519,7 +1636,21 @@
         "拆字",
         "自然"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "山",
+            "from": "山",
+            "op": "full"
+          },
+          {
+            "part": "水",
+            "from": "水",
+            "op": "full"
+          }
+        ],
+        "result": "汕"
+      },
       "path": "riddles/拆字/山上还有水.md"
     },
     {
@@ -1542,7 +1673,21 @@
         "拆字",
         "拼合"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "十",
+            "from": "十",
+            "op": "full"
+          },
+          {
+            "part": "口",
+            "from": "口",
+            "op": "full"
+          }
+        ],
+        "result": "田"
+      },
       "path": "riddles/拆字/十张口.md"
     },
     {
@@ -1565,7 +1710,21 @@
         "拆字",
         "动物"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "鱼",
+            "from": "鱼",
+            "op": "full"
+          },
+          {
+            "part": "羊",
+            "from": "羊",
+            "op": "full"
+          }
+        ],
+        "result": "鲜"
+      },
       "path": "riddles/拆字/一边鱼一边羊.md"
     },
     {
@@ -1588,7 +1747,26 @@
         "拆字",
         "拼合"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "艹",
+            "from": "草",
+            "op": "part"
+          },
+          {
+            "part": "人",
+            "from": "人",
+            "op": "full"
+          },
+          {
+            "part": "木",
+            "from": "木",
+            "op": "full"
+          }
+        ],
+        "result": "茶"
+      },
       "path": "riddles/拆字/人在草木中.md"
     },
     {
@@ -1611,7 +1789,26 @@
         "拆字",
         "拼合"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "十",
+            "from": "十",
+            "op": "full"
+          },
+          {
+            "part": "口",
+            "from": "口",
+            "op": "full"
+          },
+          {
+            "part": "心",
+            "from": "心",
+            "op": "full"
+          }
+        ],
+        "result": "思"
+      },
       "path": "riddles/拆字/十口心思.md"
     },
     {
@@ -1635,7 +1832,21 @@
         "颜色",
         "自然"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "禾",
+            "from": "绿",
+            "op": "free"
+          },
+          {
+            "part": "火",
+            "from": "红",
+            "op": "free"
+          }
+        ],
+        "result": "秋"
+      },
       "path": "riddles/拆字/一边绿一边红.md"
     },
     {
@@ -1658,7 +1869,31 @@
         "拆字",
         "人体"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "人",
+            "from": "人",
+            "op": "full"
+          },
+          {
+            "part": "一",
+            "from": "一",
+            "op": "full"
+          },
+          {
+            "part": "口",
+            "from": "口",
+            "op": "full"
+          },
+          {
+            "part": "手",
+            "from": "手",
+            "op": "free"
+          }
+        ],
+        "result": "拿"
+      },
       "path": "riddles/拆字/一人一张口.md"
     },
     {
@@ -1681,7 +1916,21 @@
         "拆字",
         "各半"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "讠",
+            "from": "读",
+            "op": "half"
+          },
+          {
+            "part": "井",
+            "from": "耕",
+            "op": "half_r"
+          }
+        ],
+        "result": "讲"
+      },
       "path": "riddles/拆字/半耕半读.md"
     },
     {
@@ -1727,7 +1976,26 @@
         "拆字",
         "上下"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "三",
+            "from": "春",
+            "op": "part"
+          },
+          {
+            "part": "人",
+            "from": "春",
+            "op": "part"
+          },
+          {
+            "part": "禾",
+            "from": "香",
+            "op": "part"
+          }
+        ],
+        "result": "秦"
+      },
       "path": "riddles/拆字/春香连夜听琴声.md"
     },
     {
@@ -1750,7 +2018,21 @@
         "拆字",
         "拼合"
       ],
-      "structure": null,
+      "structure": {
+        "ops": [
+          {
+            "part": "千",
+            "from": "千",
+            "op": "full"
+          },
+          {
+            "part": "里",
+            "from": "里",
+            "op": "full"
+          }
+        ],
+        "result": "重"
+      },
       "path": "riddles/拆字/千里相逢.md"
     },
     {

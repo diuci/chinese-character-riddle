@@ -13,7 +13,7 @@
       "jie_t": "「夜」以「夕」代（夕即傍晚入夜）。一夜是「夕」，又一夜還是「夕」，\n兩個「夕」相疊即成「多」字。屬會意疊字法。",
       "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
       "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
-      "body_t": "---\nid: yiye-you-yiye\ntitle: 一夜又一夜\nanswer: 多\nanswer_len: 1\ntype: 會意\nsubtype: 疊意\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 疊意]\n---\n\n# 一夜又一夜\n\n> 會意類 · 清 · 難度 ★★\n\n**謎面**：一夜又一夜\n**謎底**：多\n\n## 解析\n「夜」以「夕」代（夕即傍晚入夜）。一夜是「夕」，又一夜還是「夕」，\n兩個「夕」相疊即成「多」字。屬會意疊字法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "body_t": "---\nid: yiye-you-yiye\ntitle: 一夜又一夜\nanswer: 多\nanswer_len: 1\ntype: 會意\nsubtype: 疊意\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 疊意]\nstructure: { ops: [{ part: 夕, from: 夜, op: part }, { part: 夕, from: 夜, op: part }], result: 多 }\n---\n\n# 一夜又一夜\n\n> 會意類 · 清 · 難度 ★★\n\n**謎面**：一夜又一夜\n**謎底**：多\n\n## 解析\n「夜」以「夕」代（夕即傍晚入夜）。一夜是「夕」，又一夜還是「夕」，\n兩個「夕」相疊即成「多」字。屬會意疊字法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
       "converted": 11,
       "marks": [
         {
@@ -116,7 +116,7 @@
       "jie_t": "「一家」會意為「門」（一戶人家的門戶），「一口」即「口」。\n「門」+「口」合為「問」字。屬會意拆合法。\n（注：「一家→門」是會意跳躍，為本謎的取意关鍵；謎底唯一，无歧义。）",
       "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
       "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
-      "body_t": "---\nid: yijia-yikou\ntitle: 一家一口\nanswer: 問\nanswer_len: 1\ntype: 會意\nsubtype: 拆合\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 拆合]\n---\n\n# 一家一口\n\n> 會意類 · 清 · 難度 ★★★\n\n**謎面**：一家一口\n**謎底**：問\n\n## 解析\n「一家」會意為「門」（一戶人家的門戶），「一口」即「口」。\n「門」+「口」合為「問」字。屬會意拆合法。\n（注：「一家→門」是會意跳躍，為本謎的取意关鍵；謎底唯一，无歧义。）\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "body_t": "---\nid: yijia-yikou\ntitle: 一家一口\nanswer: 問\nanswer_len: 1\ntype: 會意\nsubtype: 拆合\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 拆合]\nstructure: { ops: [{ part: 門, from: 家, op: free }, { part: 口, from: 口, op: full }], result: 問 }\n---\n\n# 一家一口\n\n> 會意類 · 清 · 難度 ★★★\n\n**謎面**：一家一口\n**謎底**：問\n\n## 解析\n「一家」會意為「門」（一戶人家的門戶），「一口」即「口」。\n「門」+「口」合為「問」字。屬會意拆合法。\n（注：「一家→門」是會意跳躍，為本謎的取意关鍵；謎底唯一，无歧义。）\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
       "converted": 23,
       "marks": [
         {
@@ -315,7 +315,7 @@
       "jie_t": "「十」加「一」是「士」，再配一個「口」，即為「吉」字。\n「一家十一口」以數字拆字會意：十一 = 士，士 + 口 = 吉。屬會意合數法。",
       "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
       "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
-      "body_t": "---\nid: yijia-shiyi-jiukou\ntitle: 一家十一口\nanswer: 吉\nanswer_len: 1\ntype: 會意\nsubtype: 合數\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 合數]\n---\n\n# 一家十一口\n\n> 會意類 · 清 · 難度 ★★★\n\n**謎面**：一家十一口\n**謎底**：吉\n\n## 解析\n「十」加「一」是「士」，再配一個「口」，即為「吉」字。\n「一家十一口」以數字拆字會意：十一 = 士，士 + 口 = 吉。屬會意合數法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "body_t": "---\nid: yijia-shiyi-jiukou\ntitle: 一家十一口\nanswer: 吉\nanswer_len: 1\ntype: 會意\nsubtype: 合數\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 合數]\nstructure: { ops: [{ part: 十, from: 十, op: full }, { part: 一, from: 一, op: full }, { part: 口, from: 口, op: full }], result: 吉 }\n---\n\n# 一家十一口\n\n> 會意類 · 清 · 難度 ★★★\n\n**謎面**：一家十一口\n**謎底**：吉\n\n## 解析\n「十」加「一」是「士」，再配一個「口」，即為「吉」字。\n「一家十一口」以數字拆字會意：十一 = 士，士 + 口 = 吉。屬會意合數法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
       "converted": 11,
       "marks": [
         {
@@ -608,7 +608,7 @@
       "jie_t": "十五天即半個月，「半」+「月」合為「胖」字。\n先以「十五天 = 半月」會意，再以「半 + 月」拆合，是典型的會意拆合法。",
       "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
       "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
-      "body_t": "---\nid: shiwutian\ntitle: 十五天\nanswer: 胖\nanswer_len: 1\ntype: 會意\nsubtype: 拆合\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 拆合]\n---\n\n# 十五天\n\n> 會意類 · 清 · 難度 ★★★\n\n**謎面**：十五天\n**謎底**：胖\n\n## 解析\n十五天即半個月，「半」+「月」合為「胖」字。\n先以「十五天 = 半月」會意，再以「半 + 月」拆合，是典型的會意拆合法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "body_t": "---\nid: shiwutian\ntitle: 十五天\nanswer: 胖\nanswer_len: 1\ntype: 會意\nsubtype: 拆合\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 拆合]\nstructure: { ops: [{ part: 半, from: 半, op: free }, { part: 月, from: 月, op: free }], result: 胖 }\n---\n\n# 十五天\n\n> 會意類 · 清 · 難度 ★★★\n\n**謎面**：十五天\n**謎底**：胖\n\n## 解析\n十五天即半個月，「半」+「月」合為「胖」字。\n先以「十五天 = 半月」會意，再以「半 + 月」拆合，是典型的會意拆合法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
       "converted": 8,
       "marks": [
         {
@@ -846,7 +846,7 @@
       "jie_t": "「困」字外「口」内「田」。謎面「外面一口圈，裡面一口田」正是「口」中「田」的會意。\n「口」為圈，「田」在内，合成「困」。屬會意法。",
       "chu": "见《字謎大全》等古典字谜集（S1）。",
       "chu_t": "見《字謎大全》等古典字謎集（S1）。",
-      "body_t": "---\nid: waimian-yikou-quan\ntitle: 外面一口圈，裡面一口田\nanswer: 困\nanswer_len: 1\ntype: 會意\nsubtype: 上下\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 地形]\n---\n\n# 外面一口圈，裡面一口田\n\n> 會意類 · 清 · 難度 ★★\n\n**謎面**：外面一口圈，裡面一口田\n**謎底**：困\n\n## 解析\n「困」字外「口」内「田」。謎面「外面一口圈，裡面一口田」正是「口」中「田」的會意。\n「口」為圈，「田」在内，合成「困」。屬會意法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "body_t": "---\nid: waimian-yikou-quan\ntitle: 外面一口圈，裡面一口田\nanswer: 困\nanswer_len: 1\ntype: 會意\nsubtype: 上下\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 地形]\nstructure: { ops: [{ part: 口, from: 口, op: full }, { part: 田, from: 田, op: full }], result: 困 }\n---\n\n# 外面一口圈，裡面一口田\n\n> 會意類 · 清 · 難度 ★★\n\n**謎面**：外面一口圈，裡面一口田\n**謎底**：困\n\n## 解析\n「困」字外「口」内「田」。謎面「外面一口圈，裡面一口田」正是「口」中「田」的會意。\n「口」為圈，「田」在内，合成「困」。屬會意法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
       "converted": 9,
       "marks": [
         {
@@ -1166,7 +1166,7 @@
       "jie_t": "「夯」字上「大」下「力」，意為用力砸實、搬抬重物。「拔山扛鼎」即举重扛物，正會「夯」之意。屬會意法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: bashan-kangding\ntitle: 拔山扛鼎\nanswer: 夯\nanswer_len: 1\ntype: 會意\nsubtype: 动作\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 动作]\n---\n\n# 拔山扛鼎\n\n> 會意類 · 清 · 難度 ★★\n\n**謎面**：拔山扛鼎\n**謎底**：夯\n\n## 解析\n「夯」字上「大」下「力」，意為用力砸實、搬抬重物。「拔山扛鼎」即举重扛物，正會「夯」之意。屬會意法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: bashan-kangding\ntitle: 拔山扛鼎\nanswer: 夯\nanswer_len: 1\ntype: 會意\nsubtype: 动作\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 动作]\nstructure: { ops: [{ part: 大, from: 大, op: free }, { part: 力, from: 力, op: free }], result: 夯 }\n---\n\n# 拔山扛鼎\n\n> 會意類 · 清 · 難度 ★★\n\n**謎面**：拔山扛鼎\n**謎底**：夯\n\n## 解析\n「夯」字上「大」下「力」，意為用力砸實、搬抬重物。「拔山扛鼎」即举重扛物，正會「夯」之意。屬會意法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 8,
       "marks": [
         {
@@ -1427,7 +1427,7 @@
       "jie_t": "「旦」字上「日」下「一」，如落日（日）沉到地平线（一）上。王维「大漠孤烟直，長河落日圆」的「落日」正合「日」落于「一」上，得「旦」。屬會意法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3），谜面出王维《使至塞上》。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3），謎面出王维《使至塞上》。",
-      "body_t": "---\nid: changhe-luori-yuan\ntitle: 長河落日圆\nanswer: 旦\nanswer_len: 1\ntype: 會意\nsubtype: 自然\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 自然]\n---\n\n# 長河落日圆\n\n> 會意類 · 清 · 難度 ★★\n\n**謎面**：長河落日圆\n**謎底**：旦\n\n## 解析\n「旦」字上「日」下「一」，如落日（日）沉到地平线（一）上。王维「大漠孤烟直，長河落日圆」的「落日」正合「日」落于「一」上，得「旦」。屬會意法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3），謎面出王维《使至塞上》。\n",
+      "body_t": "---\nid: changhe-luori-yuan\ntitle: 長河落日圆\nanswer: 旦\nanswer_len: 1\ntype: 會意\nsubtype: 自然\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [會意, 自然]\nstructure: { ops: [{ part: 日, from: 日, op: free }, { part: 一, from: 一, op: free }], result: 旦 }\n---\n\n# 長河落日圆\n\n> 會意類 · 清 · 難度 ★★\n\n**謎面**：長河落日圆\n**謎底**：旦\n\n## 解析\n「旦」字上「日」下「一」，如落日（日）沉到地平线（一）上。王维「大漠孤烟直，長河落日圆」的「落日」正合「日」落于「一」上，得「旦」。屬會意法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3），謎面出王维《使至塞上》。\n",
       "converted": 8,
       "marks": [
         {
@@ -5863,7 +5863,7 @@
       "jie_t": "「拿」字上「合」下「手」。「合」由「人」「一」「口」合成，正是「一人一張口」。\n其下再長出一「手」，即「口下長只手」。上下相合得「拿」。屬拆字法。",
       "chu": "见《字謎大全》等古典字谜集（S1）。",
       "chu_t": "見《字謎大全》等古典字謎集（S1）。",
-      "body_t": "---\nid: yiren-yizhang-kou\ntitle: 一人一張口，口下長只手\nanswer: 拿\nanswer_len: 1\ntype: 拆字\nsubtype: 上下\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 人体]\n---\n\n# 一人一張口，口下長只手\n\n> 拆字類 · 清 · 難度 ★★\n\n**謎面**：一人一張口，口下長只手\n**謎底**：拿\n\n## 解析\n「拿」字上「合」下「手」。「合」由「人」「一」「口」合成，正是「一人一張口」。\n其下再長出一「手」，即「口下長只手」。上下相合得「拿」。屬拆字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "body_t": "---\nid: yiren-yizhang-kou\ntitle: 一人一張口，口下長只手\nanswer: 拿\nanswer_len: 1\ntype: 拆字\nsubtype: 上下\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 人体]\nstructure: { ops: [{ part: 人, from: 人, op: full }, { part: 一, from: 一, op: full }, { part: 口, from: 口, op: full }, { part: 手, from: 手, op: free }], result: 拿 }\n---\n\n# 一人一張口，口下長只手\n\n> 拆字類 · 清 · 難度 ★★\n\n**謎面**：一人一張口，口下長只手\n**謎底**：拿\n\n## 解析\n「拿」字上「合」下「手」。「合」由「人」「一」「口」合成，正是「一人一張口」。\n其下再長出一「手」，即「口下長只手」。上下相合得「拿」。屬拆字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
       "converted": 8,
       "marks": [
         {
@@ -6089,29 +6089,13 @@
       "title_t": "一口咬掉牛半截",
       "answer": "告",
       "answer_t": "告",
-      "jie": "「一口」是「口」字。「咬掉牛半截」即把「牛」字上半截咬去，\n剩下「牛」的下半（一竖穿过、底部一横，形如「告」的下部）。\n口在上、牛之半在下，合成「告」字。属拆字咬损法。",
-      "jie_t": "「一口」是「口」字。「咬掉牛半截」即把「牛」字上半截咬去，\n剩下「牛」的下半（一豎穿過、底部一横，形如「告」的下部）。\n口在上、牛之半在下，合成「告」字。屬拆字咬損法。",
+      "jie": "「一口」是「口」字。「咬掉牛半截」即把「牛」字的下半截咬去，\n剩下「牛」的上半（形如「告」的上部）。\n口在下、牛之半在上，合成「告」字。属拆字咬损法。",
+      "jie_t": "「一口」是「口」字。「咬掉牛半截」即把「牛」字的下半截咬去，\n剩下「牛」的上半（形如「告」的上部）。\n口在下、牛之半在上，合成「告」字。屬拆字咬損法。",
       "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
       "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
-      "body_t": "---\nid: yikou-yao-niuban\ntitle: 一口咬掉牛半截\nanswer: 告\nanswer_len: 1\ntype: 拆字\nsubtype: 咬損\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 咬損]\n---\n\n# 一口咬掉牛半截\n\n> 拆字類 · 清 · 難度 ★★★\n\n**謎面**：一口咬掉牛半截\n**謎底**：告\n\n## 解析\n「一口」是「口」字。「咬掉牛半截」即把「牛」字上半截咬去，\n剩下「牛」的下半（一豎穿過、底部一横，形如「告」的下部）。\n口在上、牛之半在下，合成「告」字。屬拆字咬損法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
-      "converted": 8,
+      "body_t": "---\nid: yikou-yao-niuban\ntitle: 一口咬掉牛半截\nanswer: 告\nanswer_len: 1\ntype: 拆字\nsubtype: 咬損\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 咬損]\n---\n\n# 一口咬掉牛半截\n\n> 拆字類 · 清 · 難度 ★★★\n\n**謎面**：一口咬掉牛半截\n**謎底**：告\n\n## 解析\n「一口」是「口」字。「咬掉牛半截」即把「牛」字的下半截咬去，\n剩下「牛」的上半（形如「告」的上部）。\n口在下、牛之半在上，合成「告」字。屬拆字咬損法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "converted": 6,
       "marks": [
-        {
-          "ch": "竖",
-          "cands": [
-            "豎"
-          ],
-          "pick": "豎",
-          "decision": "table"
-        },
-        {
-          "ch": "过",
-          "cands": [
-            "過"
-          ],
-          "pick": "過",
-          "decision": "table"
-        },
         {
           "ch": "属",
           "cands": [
@@ -6172,7 +6156,7 @@
       "jie_t": "「秋」字左「禾」右「火」。「禾」是庄稼草木，颜色是绿；「火」的颜色是红。\n庄稼禾苗靠水灌溉（吃水），火苗则能生火。左右兩半各對一句，合起來正是「秋」。屬拆字法。",
       "chu": "见《字謎大全》等古典字谜集（S1）。",
       "chu_t": "見《字謎大全》等古典字謎集（S1）。",
-      "body_t": "---\nid: yibian-lv-yibian-hong\ntitle: 一邊绿，一邊红，一邊吃水，一邊生火\nanswer: 秋\nanswer_len: 1\ntype: 拆字\nsubtype: 左右\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 颜色, 自然]\n---\n\n# 一邊绿，一邊红，一邊吃水，一邊生火\n\n> 拆字類 · 清 · 難度 ★★\n\n**謎面**：一邊绿，一邊红，一邊吃水，一邊生火\n**謎底**：秋\n\n## 解析\n「秋」字左「禾」右「火」。「禾」是庄稼草木，颜色是绿；「火」的颜色是红。\n庄稼禾苗靠水灌溉（吃水），火苗则能生火。左右兩半各對一句，合起來正是「秋」。屬拆字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "body_t": "---\nid: yibian-lv-yibian-hong\ntitle: 一邊绿，一邊红，一邊吃水，一邊生火\nanswer: 秋\nanswer_len: 1\ntype: 拆字\nsubtype: 左右\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 颜色, 自然]\nstructure: { ops: [{ part: 禾, from: 绿, op: free }, { part: 火, from: 红, op: free }], result: 秋 }\n---\n\n# 一邊绿，一邊红，一邊吃水，一邊生火\n\n> 拆字類 · 清 · 難度 ★★\n\n**謎面**：一邊绿，一邊红，一邊吃水，一邊生火\n**謎底**：秋\n\n## 解析\n「秋」字左「禾」右「火」。「禾」是庄稼草木，颜色是绿；「火」的颜色是红。\n庄稼禾苗靠水灌溉（吃水），火苗则能生火。左右兩半各對一句，合起來正是「秋」。屬拆字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
       "converted": 10,
       "marks": [
         {
@@ -6267,7 +6251,7 @@
       "jie_t": "「鲜」字左「鱼」右「羊」，左右兩半截然不同，故「兩邊不一样」。\n鱼與羊皆為鲜美之味，合為「鲜」字。屬拆字法。",
       "chu": "见《字謎大全》等古典字谜集（S1）。",
       "chu_t": "見《字謎大全》等古典字謎集（S1）。",
-      "body_t": "---\nid: yibian-yu-yibian-yang\ntitle: 一邊是鱼，一邊是羊，兩邊不一样\nanswer: 鲜\nanswer_len: 1\ntype: 拆字\nsubtype: 左右\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 动物]\n---\n\n# 一邊是鱼，一邊是羊，兩邊不一样\n\n> 拆字類 · 清 · 難度 ★\n\n**謎面**：一邊是鱼，一邊是羊，兩邊不一样\n**謎底**：鲜\n\n## 解析\n「鲜」字左「鱼」右「羊」，左右兩半截然不同，故「兩邊不一样」。\n鱼與羊皆為鲜美之味，合為「鲜」字。屬拆字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "body_t": "---\nid: yibian-yu-yibian-yang\ntitle: 一邊是鱼，一邊是羊，兩邊不一样\nanswer: 鲜\nanswer_len: 1\ntype: 拆字\nsubtype: 左右\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 动物]\nstructure: { ops: [{ part: 鱼, from: 鱼, op: full }, { part: 羊, from: 羊, op: full }], result: 鲜 }\n---\n\n# 一邊是鱼，一邊是羊，兩邊不一样\n\n> 拆字類 · 清 · 難度 ★\n\n**謎面**：一邊是鱼，一邊是羊，兩邊不一样\n**謎底**：鲜\n\n## 解析\n「鲜」字左「鱼」右「羊」，左右兩半截然不同，故「兩邊不一样」。\n鱼與羊皆為鲜美之味，合為「鲜」字。屬拆字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
       "converted": 13,
       "marks": [
         {
@@ -6386,7 +6370,7 @@
       "jie_t": "「草」字頭是「艹」，「木」在下，「人」夾在中間，\n「艹」+「人」+「木」合為「茶」字。屬拆字拼合：部件按位置重組。",
       "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
       "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
-      "body_t": "---\nid: ren-zai-cao-mu-zhong\ntitle: 人在草木中\nanswer: 茶\nanswer_len: 1\ntype: 拆字\nsubtype: 拼合\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 拼合]\n---\n\n# 人在草木中\n\n> 拆字類 · 清 · 難度 ★★\n\n**謎面**：人在草木中\n**謎底**：茶\n\n## 解析\n「草」字頭是「艹」，「木」在下，「人」夾在中間，\n「艹」+「人」+「木」合為「茶」字。屬拆字拼合：部件按位置重組。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "body_t": "---\nid: ren-zai-cao-mu-zhong\ntitle: 人在草木中\nanswer: 茶\nanswer_len: 1\ntype: 拆字\nsubtype: 拼合\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 拼合]\nstructure: { ops: [{ part: 艹, from: 草, op: part }, { part: 人, from: 人, op: full }, { part: 木, from: 木, op: full }], result: 茶 }\n---\n\n# 人在草木中\n\n> 拆字類 · 清 · 難度 ★★\n\n**謎面**：人在草木中\n**謎底**：茶\n\n## 解析\n「草」字頭是「艹」，「木」在下，「人」夾在中間，\n「艹」+「人」+「木」合為「茶」字。屬拆字拼合：部件按位置重組。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
       "converted": 10,
       "marks": [
         {
@@ -6481,7 +6465,7 @@
       "jie_t": "「十」與「口」相合為「田」，「田」下加「心」，即為「思」字。\n屬拆字拼合：把若干部件重新組合成字。",
       "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
       "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
-      "body_t": "---\nid: shikou-xinsi\ntitle: 十口心思\nanswer: 思\nanswer_len: 1\ntype: 拆字\nsubtype: 拼合\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 拼合]\n---\n\n# 十口心思\n\n> 拆字類 · 清 · 難度 ★★\n\n**謎面**：十口心思\n**謎底**：思\n\n## 解析\n「十」與「口」相合為「田」，「田」下加「心」，即為「思」字。\n屬拆字拼合：把若干部件重新組合成字。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "body_t": "---\nid: shikou-xinsi\ntitle: 十口心思\nanswer: 思\nanswer_len: 1\ntype: 拆字\nsubtype: 拼合\ndifficulty: 2\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 拼合]\nstructure: { ops: [{ part: 十, from: 十, op: full }, { part: 口, from: 口, op: full }, { part: 心, from: 心, op: full }], result: 思 }\n---\n\n# 十口心思\n\n> 拆字類 · 清 · 難度 ★★\n\n**謎面**：十口心思\n**謎底**：思\n\n## 解析\n「十」與「口」相合為「田」，「田」下加「心」，即為「思」字。\n屬拆字拼合：把若干部件重新組合成字。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
       "converted": 10,
       "marks": [
         {
@@ -6579,7 +6563,7 @@
       "jie_t": "「十」與「口」相合，即為「田」字。\n屬拆字拼合：把兩個部件重新組合成字。",
       "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
       "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
-      "body_t": "---\nid: shikou-zhangkou\ntitle: 十張口\nanswer: 田\nanswer_len: 1\ntype: 拆字\nsubtype: 拼合\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 拼合]\n---\n\n# 十張口\n\n> 拆字類 · 清 · 難度 ★\n\n**謎面**：十張口\n**謎底**：田\n\n## 解析\n「十」與「口」相合，即為「田」字。\n屬拆字拼合：把兩個部件重新組合成字。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "body_t": "---\nid: shikou-zhangkou\ntitle: 十張口\nanswer: 田\nanswer_len: 1\ntype: 拆字\nsubtype: 拼合\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 拼合]\nstructure: { ops: [{ part: 十, from: 十, op: full }, { part: 口, from: 口, op: full }], result: 田 }\n---\n\n# 十張口\n\n> 拆字類 · 清 · 難度 ★\n\n**謎面**：十張口\n**謎底**：田\n\n## 解析\n「十」與「口」相合，即為「田」字。\n屬拆字拼合：把兩個部件重新組合成字。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
       "converted": 11,
       "marks": [
         {
@@ -6682,7 +6666,7 @@
       "jie_t": "「千」與「裡」相逢相合，即為「重」字。\n重 = 千 + 裡，是典型的拆字拼合：把兩個部件重新組合成字。",
       "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
       "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
-      "body_t": "---\nid: qianli-xiangfeng\ntitle: 千裡相逢\nanswer: 重\nanswer_len: 1\ntype: 拆字\nsubtype: 拼合\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 拼合]\n---\n\n# 千裡相逢\n\n> 拆字類 · 清 · 難度 ★★★\n\n**謎面**：千裡相逢\n**謎底**：重\n\n## 解析\n「千」與「裡」相逢相合，即為「重」字。\n重 = 千 + 裡，是典型的拆字拼合：把兩個部件重新組合成字。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "body_t": "---\nid: qianli-xiangfeng\ntitle: 千裡相逢\nanswer: 重\nanswer_len: 1\ntype: 拆字\nsubtype: 拼合\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 拼合]\nstructure: { ops: [{ part: 千, from: 千, op: full }, { part: 裡, from: 裡, op: full }], result: 重 }\n---\n\n# 千裡相逢\n\n> 拆字類 · 清 · 難度 ★★★\n\n**謎面**：千裡相逢\n**謎底**：重\n\n## 解析\n「千」與「裡」相逢相合，即為「重」字。\n重 = 千 + 裡，是典型的拆字拼合：把兩個部件重新組合成字。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
       "converted": 12,
       "marks": [
         {
@@ -6795,11 +6779,11 @@
       "title_t": "半耕半讀",
       "answer": "讲",
       "answer_t": "講",
-      "jie": "「耕」字的右半是「井」，「读」字的左半是「言」。\n各取一半，「言」与「井」相合，即为「讲」字。属拆字各半法。",
-      "jie_t": "「耕」字的右半是「井」，「讀」字的左半是「言」。\n各取一半，「言」與「井」相合，即為「講」字。屬拆字各半法。",
+      "jie": "「耕」字的右半是「井」，「读」字的左半是「言字旁（讠）」。\n各取一半，「讠」与「井」相合，即为「讲」字。属拆字各半法。",
+      "jie_t": "「耕」字的右半是「井」，「讀」字的左半是「言字旁（讠）」。\n各取一半，「讠」與「井」相合，即為「講」字。屬拆字各半法。",
       "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
       "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
-      "body_t": "---\nid: banged-bandu\ntitle: 半耕半讀\nanswer: 講\nanswer_len: 1\ntype: 拆字\nsubtype: 各半\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 各半]\n---\n\n# 半耕半讀\n\n> 拆字類 · 清 · 難度 ★★★\n\n**謎面**：半耕半讀\n**謎底**：講\n\n## 解析\n「耕」字的右半是「井」，「讀」字的左半是「言」。\n各取一半，「言」與「井」相合，即為「講」字。屬拆字各半法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "body_t": "---\nid: banged-bandu\ntitle: 半耕半讀\nanswer: 講\nanswer_len: 1\ntype: 拆字\nsubtype: 各半\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 各半]\nstructure: { ops: [{ part: 讠, from: 讀, op: half }, { part: 井, from: 耕, op: half_r }], result: 講 }\n---\n\n# 半耕半讀\n\n> 拆字類 · 清 · 難度 ★★★\n\n**謎面**：半耕半讀\n**謎底**：講\n\n## 解析\n「耕」字的右半是「井」，「讀」字的左半是「言字旁（讠）」。\n各取一半，「讠」與「井」相合，即為「講」字。屬拆字各半法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
       "converted": 11,
       "marks": [
         {
@@ -6898,11 +6882,11 @@
       "title_t": "半青半紫",
       "answer": "素",
       "answer_t": "素",
-      "jie": "「青」字的上半是「龶」（春字头），「紫」字的左半是「此」。\n各取一半，「龶」与「此」相合，即为「素」字。属拆字各半法。",
-      "jie_t": "「青」字的上半是「龶」（春字頭），「紫」字的左半是「此」。\n各取一半，「龶」與「此」相合，即為「素」字。屬拆字各半法。",
+      "jie": "「青」字的上半是「龶」（青字头），「紫」字的下半是「糸」。\n各取一半，「龶」与「糸」相合，即为「素」字。属拆字各半法。",
+      "jie_t": "「青」字的上半是「龶」（青字頭），「紫」字的下半是「糸」。\n各取一半，「龶」與「糸」相合，即為「素」字。屬拆字各半法。",
       "chu": "见《字謎大全》卷三（S1），CC-Riddle 数据集亦有收录（S3）。",
       "chu_t": "見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。",
-      "body_t": "---\nid: banqing-banzi\ntitle: 半青半紫\nanswer: 素\nanswer_len: 1\ntype: 拆字\nsubtype: 各半\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 各半]\n---\n\n# 半青半紫\n\n> 拆字類 · 清 · 難度 ★★★\n\n**謎面**：半青半紫\n**謎底**：素\n\n## 解析\n「青」字的上半是「龶」（春字頭），「紫」字的左半是「此」。\n各取一半，「龶」與「此」相合，即為「素」字。屬拆字各半法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
+      "body_t": "---\nid: banqing-banzi\ntitle: 半青半紫\nanswer: 素\nanswer_len: 1\ntype: 拆字\nsubtype: 各半\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S1+S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 各半]\n---\n\n# 半青半紫\n\n> 拆字類 · 清 · 難度 ★★★\n\n**謎面**：半青半紫\n**謎底**：素\n\n## 解析\n「青」字的上半是「龶」（青字頭），「紫」字的下半是「糸」。\n各取一半，「龶」與「糸」相合，即為「素」字。屬拆字各半法。\n\n## 出處\n見《字謎大全》卷三（S1），CC-Riddle 數據集亦有收錄（S3）。\n",
       "converted": 8,
       "marks": [
         {
@@ -6981,7 +6965,7 @@
       "jie_t": "「汕」字左「山」右「水」。謎面「山上還有水」，即在「山」旁再添「水」，\n左右相合得「汕」。屬拆字法。",
       "chu": "见《字謎大全》等古典字谜集（S1）。",
       "chu_t": "見《字謎大全》等古典字謎集（S1）。",
-      "body_t": "---\nid: shangshan-haishui\ntitle: 山上還有水\nanswer: 汕\nanswer_len: 1\ntype: 拆字\nsubtype: 左右\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 自然]\n---\n\n# 山上還有水\n\n> 拆字類 · 清 · 難度 ★\n\n**謎面**：山上還有水\n**謎底**：汕\n\n## 解析\n「汕」字左「山」右「水」。謎面「山上還有水」，即在「山」旁再添「水」，\n左右相合得「汕」。屬拆字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "body_t": "---\nid: shangshan-haishui\ntitle: 山上還有水\nanswer: 汕\nanswer_len: 1\ntype: 拆字\nsubtype: 左右\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 自然]\nstructure: { ops: [{ part: 山, from: 山, op: full }, { part: 水, from: 水, op: full }], result: 汕 }\n---\n\n# 山上還有水\n\n> 拆字類 · 清 · 難度 ★\n\n**謎面**：山上還有水\n**謎底**：汕\n\n## 解析\n「汕」字左「山」右「水」。謎面「山上還有水」，即在「山」旁再添「水」，\n左右相合得「汕」。屬拆字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
       "converted": 6,
       "marks": [
         {
@@ -7044,7 +7028,7 @@
       "jie_t": "「昌」字上「日」下「日」，正是兩個「日」相疊。「日複一日」即一日又一日，\n上下兩「日」合成「昌」。屬拆字法。",
       "chu": "见《字謎大全》等古典字谜集（S1）。",
       "chu_t": "見《字謎大全》等古典字謎集（S1）。",
-      "body_t": "---\nid: rifu-yiri\ntitle: 日複一日\nanswer: 昌\nanswer_len: 1\ntype: 拆字\nsubtype: 上下\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 时間]\n---\n\n# 日複一日\n\n> 拆字類 · 清 · 難度 ★\n\n**謎面**：日複一日\n**謎底**：昌\n\n## 解析\n「昌」字上「日」下「日」，正是兩個「日」相疊。「日複一日」即一日又一日，\n上下兩「日」合成「昌」。屬拆字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
+      "body_t": "---\nid: rifu-yiri\ntitle: 日複一日\nanswer: 昌\nanswer_len: 1\ntype: 拆字\nsubtype: 上下\ndifficulty: 1\nauthor: 佚名\nera: 清\nsource: S1\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 时間]\nstructure: { ops: [{ part: 日, from: 日, op: full }, { part: 日, from: 日, op: full }], result: 昌 }\n---\n\n# 日複一日\n\n> 拆字類 · 清 · 難度 ★\n\n**謎面**：日複一日\n**謎底**：昌\n\n## 解析\n「昌」字上「日」下「日」，正是兩個「日」相疊。「日複一日」即一日又一日，\n上下兩「日」合成「昌」。屬拆字法。\n\n## 出處\n見《字謎大全》等古典字謎集（S1）。\n",
       "converted": 9,
       "marks": [
         {
@@ -7135,7 +7119,7 @@
       "jie_t": "「春」字上部「三人」（三+人）取「三」與「人」，「香」字下部取「禾」。合「三」「人」「禾」得「秦」。「秦」字正由「春」之上與「香」之下拼成。屬拆字法。",
       "chu": "CC-Riddle 汉字谜语数据集（S3）。",
       "chu_t": "CC-Riddle 汉字謎语數據集（S3）。",
-      "body_t": "---\nid: chunxiang-lianye-tinqinsheng\ntitle: 春香連夜听琴声\nanswer: 秦\nanswer_len: 1\ntype: 拆字\nsubtype: 上下\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 上下]\n---\n\n# 春香連夜听琴声\n\n> 拆字類 · 清 · 難度 ★★★\n\n**謎面**：春香連夜听琴声\n**謎底**：秦\n\n## 解析\n「春」字上部「三人」（三+人）取「三」與「人」，「香」字下部取「禾」。合「三」「人」「禾」得「秦」。「秦」字正由「春」之上與「香」之下拼成。屬拆字法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
+      "body_t": "---\nid: chunxiang-lianye-tinqinsheng\ntitle: 春香連夜听琴声\nanswer: 秦\nanswer_len: 1\ntype: 拆字\nsubtype: 上下\ndifficulty: 3\nauthor: 佚名\nera: 清\nsource: S3\nlicense: public-domain\ncopyright: { text: public-domain, annotations: cc-by-4.0 }\ntags: [拆字, 上下]\nstructure: { ops: [{ part: 三, from: 春, op: part }, { part: 人, from: 春, op: part }, { part: 禾, from: 香, op: part }], result: 秦 }\n---\n\n# 春香連夜听琴声\n\n> 拆字類 · 清 · 難度 ★★★\n\n**謎面**：春香連夜听琴声\n**謎底**：秦\n\n## 解析\n「春」字上部「三人」（三+人）取「三」與「人」，「香」字下部取「禾」。合「三」「人」「禾」得「秦」。「秦」字正由「春」之上與「香」之下拼成。屬拆字法。\n\n## 出處\nCC-Riddle 汉字謎语數據集（S3）。\n",
       "converted": 7,
       "marks": [
         {
